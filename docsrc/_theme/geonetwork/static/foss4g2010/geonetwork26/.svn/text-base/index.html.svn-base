@@ -1,104 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-<head>
-    <meta name="description" content="The geospatial metadata catalog v2.6.0 Jeroen Ticheler Director Founder and chair http://geocat.net http://geonetwork-opensource.org   GeoNetwork opensource Dutch National Geo Registry FAO GeoNetwork SwissTopo geocat.ch  GeoNetwork history at a Glimpse Prototyping by FAO (2000-2001) Version 1 by FAO &amp; WFP (released 2003) Version 2 by FAO, WFP &amp; UNEP (released 2005) Version 2.1 (released September 2007) Version 2.2 (released April 2008) Version 2.4 (released July 2009) Version 2.6 (September 2010) Version 2.8 and 3.0 in progress (under development) Users United Nations: FAO, WFP, UNEP,  WHO, OCHA, UNHCR Other: FGDC, JRC, CGIAR Netherlands, Swiss, Norway, Denmark, Sweden, Finland, Spain, France, Czech, UK, Australia, South Africa, … ESA Heterogenous Mission Accessibility project Global Earth Observation System of Systems (GEOSS) GEOportal  et cetera... The glue in aSpatial Data Infrastructure An interactive map library on the Internet Build on Standards, Standards, Standards, Standards, Standards, ... The Basic Building Blocks ISO TC211 Standards  OGC Standards  (Open Geospatial Consortium) Standards Metadata ISO19115:2003, ISO19119:2005, ISO19139:2007, FGDC, Dublin Core  Catalog interfaces OGC CSW 2.0 (client &amp; server)
-Z39.50/ISO23950 (client &amp; server)
-OAI-PMH (client &amp; server)
-Geo-OpenSearch (server)
-GeoRSS (server)
-WebDAV (client)
-Web Mapping Client WMS, WMC   Web Map Server (through GeoServer) WMS, WFS, WFS-t, WCS, KML Catalog Interfaces Technologies Java language (platform independent) Servlet environment (Tomcat, Jetty, ...) XML data representation (JDOM) XSL templates for presentation (XALAN) JDBC for database access (runs on any compliant DBMS) Lucene search capabilities XML Schema for metadata editing Search in multiple catalogues through one website File download Data visualization through web map viewer Users Standardized process to document and publish Online metadata editor Different metadata standards Different sharing / security levels File upload Data Providers Easy to install Easy to maintain Groups and users management Harvesting management Migration support Active user and developer communities Administrators Open Source Software Development &amp; Community The Open Source Geospatial Foundation - osgeo.org ... ...  Advisory Board Project Steering Committee (day-to-day) Proposals for new developments Release strategy Formalized project governance
- Some Screenshots GeoNetwork v2.6 Dutch National Georegistry Dutch National georegistry nominated as government ICT-project of the year! Search results ISO19115:2003 with ISO19139:2007 encoding Online editor Harvesting System Administration New in version 2.6 INSPIRE Search Hyperlinks Local Rating Keywords selection panel(In Search and in Edit) Export ZIP &amp; CSV   Improved Categories Temporal extent search Multilingual metadata Metadata relations Metadata relations(Editing) Metadata relations(Editing) Edit/View Geographic Extent Feature catalog support (ISO19110) Sort your templates Feature catalog support (ISO19110) Compute extent   CRS system selection Visual warnings in the editor Propagate changes to child records  INSPIRE view Schematron validationreport improvements Other changes Performance improvements (on search and on indexing) CSW ISO AP automated testing MEF format support for multiple metadata Composed Metadata Records (using xlink) Z39.50 improvements Other changes Maven build process Test automation Deployment through a war file New documentation and website (based on ReStructured text, thanks GeoServer!) ESRI ArcCatalog  GeoNetwork Export/import  metadata &amp; data Tool integration gvSIG  One Click Data Publishing from ArcGIS Thanks to the GeoNetwork Developers and Users!!!"/>
-    <title></title>
-    <script type="text/javascript" language="javascript">
-//      <![CDATA[
-            var images = new Array (54);
-            images[0] = "images/GeoNetwork%20opensource%20v2.001.jpg";
-            images[1] = "images/GeoNetwork%20opensource%20v2.002.jpg";
-            images[2] = "images/GeoNetwork%20opensource%20v2.003.jpg";
-            images[3] = "images/GeoNetwork%20opensource%20v2.004.jpg";
-            images[4] = "images/GeoNetwork%20opensource%20v2.005.jpg";
-            images[5] = "images/GeoNetwork%20opensource%20v2.006.jpg";
-            images[6] = "images/GeoNetwork%20opensource%20v2.007.jpg";
-            images[7] = "images/GeoNetwork%20opensource%20v2.008.jpg";
-            images[8] = "images/GeoNetwork%20opensource%20v2.009.jpg";
-            images[9] = "images/GeoNetwork%20opensource%20v2.010.jpg";
-            images[10] = "images/GeoNetwork%20opensource%20v2.011.jpg";
-            images[11] = "images/GeoNetwork%20opensource%20v2.012.jpg";
-            images[12] = "images/GeoNetwork%20opensource%20v2.013.jpg";
-            images[13] = "images/GeoNetwork%20opensource%20v2.014.jpg";
-            images[14] = "images/GeoNetwork%20opensource%20v2.015.jpg";
-            images[15] = "images/GeoNetwork%20opensource%20v2.016.jpg";
-            images[16] = "images/GeoNetwork%20opensource%20v2.017.jpg";
-            images[17] = "images/GeoNetwork%20opensource%20v2.018.jpg";
-            images[18] = "images/GeoNetwork%20opensource%20v2.019.jpg";
-            images[19] = "images/GeoNetwork%20opensource%20v2.020.jpg";
-            images[20] = "images/GeoNetwork%20opensource%20v2.021.jpg";
-            images[21] = "images/GeoNetwork%20opensource%20v2.022.jpg";
-            images[22] = "images/GeoNetwork%20opensource%20v2.023.jpg";
-            images[23] = "images/GeoNetwork%20opensource%20v2.024.jpg";
-            images[24] = "images/GeoNetwork%20opensource%20v2.025.jpg";
-            images[25] = "images/GeoNetwork%20opensource%20v2.026.jpg";
-            images[26] = "images/GeoNetwork%20opensource%20v2.027.jpg";
-            images[27] = "images/GeoNetwork%20opensource%20v2.028.jpg";
-            images[28] = "images/GeoNetwork%20opensource%20v2.029.jpg";
-            images[29] = "images/GeoNetwork%20opensource%20v2.030.jpg";
-            images[30] = "images/GeoNetwork%20opensource%20v2.031.jpg";
-            images[31] = "images/GeoNetwork%20opensource%20v2.032.jpg";
-            images[32] = "images/GeoNetwork%20opensource%20v2.033.jpg";
-            images[33] = "images/GeoNetwork%20opensource%20v2.034.jpg";
-            images[34] = "images/GeoNetwork%20opensource%20v2.035.jpg";
-            images[35] = "images/GeoNetwork%20opensource%20v2.036.jpg";
-            images[36] = "images/GeoNetwork%20opensource%20v2.037.jpg";
-            images[37] = "images/GeoNetwork%20opensource%20v2.038.jpg";
-            images[38] = "images/GeoNetwork%20opensource%20v2.039.jpg";
-            images[39] = "images/GeoNetwork%20opensource%20v2.040.jpg";
-            images[40] = "images/GeoNetwork%20opensource%20v2.041.jpg";
-            images[41] = "images/GeoNetwork%20opensource%20v2.042.jpg";
-            images[42] = "images/GeoNetwork%20opensource%20v2.043.jpg";
-            images[43] = "images/GeoNetwork%20opensource%20v2.044.jpg";
-            images[44] = "images/GeoNetwork%20opensource%20v2.045.jpg";
-            images[45] = "images/GeoNetwork%20opensource%20v2.046.jpg";
-            images[46] = "images/GeoNetwork%20opensource%20v2.047.jpg";
-            images[47] = "images/GeoNetwork%20opensource%20v2.048.jpg";
-            images[48] = "images/GeoNetwork%20opensource%20v2.049.jpg";
-            images[49] = "images/GeoNetwork%20opensource%20v2.050.jpg";
-            images[50] = "images/GeoNetwork%20opensource%20v2.051.jpg";
-            images[51] = "images/GeoNetwork%20opensource%20v2.052.jpg";
-            images[52] = "images/GeoNetwork%20opensource%20v2.053.jpg";
-            images[53] = "images/GeoNetwork%20opensource%20v2.054.jpg";
-            var index = 0;
-            function WindowLoaded(evt)
-            {
-                document.body.onselectstart = function () { return false; };
-            }
-            function Step(i)
-            {
-                GoTo(index + i)
-            }
-            function GoTo(newIndex)
-            {
-                if(newIndex >= 0 && newIndex < images.length)
-                {
-                    index = newIndex;
-                    document.Slideshow.src = images[index];
-                }
-            }
-//      ]]>
-    </script>
-</head>
-<body bgcolor="black" onload='WindowLoaded(event);'>
-    <p align="center">
-        <br/>
-        <br/>
-        <img name="Slideshow" alt="" src="images/GeoNetwork%20opensource%20v2.001.jpg" onclick="Step(1)"/>
-        <br/>
-        <br/>
-        <input type="image" src="images/home.png" onclick="GoTo(0)"/>
-        &nbsp;&nbsp;&nbsp;
-        <input type="image" src="images/prev.png" onclick="Step(-1)"/>
-        <input type="image" src="images/next.png" onclick="Step(1)"/>
-    </p>
-</body>
-</html>
