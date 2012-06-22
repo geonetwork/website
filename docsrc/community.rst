@@ -1,9 +1,9 @@
-================================
-GeoNetwork Community Involvement
-================================
+.. _community:
 
-You can get involved with the GeoNetwork by signing up for a mailing list or finding
-us on IRC.
+Community
+=========
+
+You can get involved in the GeoNetwork project by signing up for a mailing list or finding us on IRC.
 
 Mailing list
 ------------
