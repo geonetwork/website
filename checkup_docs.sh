@@ -8,7 +8,7 @@ current_dir=$(pwd)
 
 # Download from GitHub master to 'latest' folder
 rm -rf latest
-git clone https://github.com/geonetwork/core-geonetwork.git latest
+git clone git://github.com/geonetwork/core-geonetwork.git latest
 cd latest
 git submodule update --init
 ./git-all checkout master
