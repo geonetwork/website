@@ -10,8 +10,8 @@ current_dir=$(pwd)
 rm -rf latest
 git clone https://github.com/geonetwork/core-geonetwork.git latest
 cd latest
-git checkout master
 git submodule update --init
+./git-all checkout master
 cd ..
 #rm -rf `find latest -type d -name .svn`
 
