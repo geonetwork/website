@@ -6,12 +6,21 @@ current_dir=$(pwd)
 # SVN ---------------------------------------------------
 # -------------------------------------------------------
 
-# Download from SVN trunk to 'latest' folder
-svn co https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk latest
+# Download from GitHub master to 'latest' folder
+rm -rf latest
+git clone https://github.com/geonetwork/core-geonetwork.git latest
+cd latest
+git checkout master
+git submodule update --init
+cd ..
 #rm -rf `find latest -type d -name .svn`
-# Download from SVN stable tag to 'stable' folder
+
+# Create folder for stable branch and checkout it
 rm -rf stable
-svn co https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/tags/2.6.4 stable
+cp -R latest stable
+cd stable
+./git-all checkout -b 2.6.x remotes/origin/2.6.x
+cd ..
 #rm -rf `find stable -type d -name .svn`
 
 # -------------------------------------------------------
