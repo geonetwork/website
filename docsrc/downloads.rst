@@ -15,11 +15,14 @@ Releases
 Source code
 -----------
 
- * `SVN repository <https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/>`_
+ * `GitHub repository <https://github.com/geonetwork/core-geonetwork>`_
 
-To checkout the current development version, use::
+To checkout the current development version and build it, use::
 
-    svn co https://geonetwork.svn.sourceforge.net/svnroot/geonetwork/trunk
-    mvn clean install
+    $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git master
+    $ cd master
+    $ git checkout master
+    $ git submodule update --init
+    $ mvn clean install
 
 For more information, have a look to `the developer manual <developers/development/index.html>`_
