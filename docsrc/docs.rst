@@ -25,9 +25,9 @@ Older versions
 
 * `GeoNetwork 2.4 User Manual <_static/Manuals/geonetwork24_eng.pdf>`_ (English)
 * `GeoNetwork 2.4 Manuel utilisateur <_static/Manuals/geonetwork24_fra.pdf>`_ (Français)
-* `GeoNetwork Quick Start Guide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_En_v1.1.doc> (English - Word format - 2006)`_
-* `GeoNetwork Guide de démarrage rapide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Fr.doc> (French - Word format - 2006)`_
-* `GeoNetwork Guía de Inicio Rápido v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Sp.doc> (Spanish - Word format - 2006)`_
+* `GeoNetwork Quick Start Guide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_En_v1.1.doc>`_ (English - Word format - 2006)
+* `GeoNetwork Guide de démarrage rapide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Fr.doc>`_ (French - Word format - 2006)
+* `GeoNetwork Guía de Inicio Rápido v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Sp.doc>`_  (Spanish - Word format - 2006)
 
 
 Presentations
@@ -51,12 +51,12 @@ Flyers
 Articles
 ^^^^^^^^
 
-* `Interview Jeroen Ticheler (English) <_static/Articles/Revista_FOSSGIS_Brazil_Ed_04_Janeiro_Special_2012_small.pdf> (FOSSGIS 2012 - 0.4MB)`_
-* `Interview Jeroen Ticheler (Portugese) <_static/Articles/Revista_FOSSGIS_Brasil_Ed_04_Janeiro_2012_portugese.pdf> (FOSSGIS 2012 - 9.1MB)`_
-* `Open Source #10: GeoNetwork opensource <_static/Articles/opensource_intv7i5_GeoNetwork_opensource_05_2008.pdf> (GEOconnexion International Magazine 2008 - 1.1MB)`_
-* `FAO: Eine weltweite Geodaten-Plattform <_static/Articles/17_0107_GeoNetwork_German_GIS-Business.pdf> (GIS Business 2007 - 4.3MB)`_
-* `FAO breaks new ground in geographic data management <_static/Articles/FAO_breaks_new_ground_in_geographic_data_management.pdf> (FAO 2004 - 115KB)`_
-* `FAO Spatial information infrastructure - United Nations GeoNetwork <_static/Articles/GIM_08-2004_FAO_GeoNetwork_Reprint.pdf> (GIM International 2004 - 0.9MB)`_
+* `Interview Jeroen Ticheler (English) <_static/Articles/Revista_FOSSGIS_Brazil_Ed_04_Janeiro_Special_2012_small.pdf>`_  (FOSSGIS 2012 - 0.4MB)
+* `Interview Jeroen Ticheler (Portugese) <_static/Articles/Revista_FOSSGIS_Brasil_Ed_04_Janeiro_2012_portugese.pdf>`_ (FOSSGIS 2012 - 9.1MB)
+* `Open Source #10: GeoNetwork opensource <_static/Articles/opensource_intv7i5_GeoNetwork_opensource_05_2008.pdf>`_ (GEOconnexion International Magazine 2008 - 1.1MB)
+* `FAO: Eine weltweite Geodaten-Plattform <_static/Articles/17_0107_GeoNetwork_German_GIS-Business.pdf>`_ (GIS Business 2007 - 4.3MB)
+* `FAO breaks new ground in geographic data management <_static/Articles/FAO_breaks_new_ground_in_geographic_data_management.pdf>`_ (FAO 2004 - 115KB)
+* `FAO Spatial information infrastructure - United Nations GeoNetwork <_static/Articles/GIM_08-2004_FAO_GeoNetwork_Reprint.pdf>`_ (GIM International 2004 - 0.9MB)
 
 Trunk (under development)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
