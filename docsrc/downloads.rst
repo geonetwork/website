@@ -25,4 +25,4 @@ To checkout the current development version and build it, use::
     $ git submodule update --init
     $ mvn clean install
 
-For more information, have a look to `the developer manual <developers/development/index.html>`_
+For more information, have a look to `the developer manual <manuals/trunk/eng/developer/index.html>`_
