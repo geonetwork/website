@@ -6,7 +6,7 @@ Download GeoNetwork
 Releases
 --------
 
- * `v2.8.0 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v2.8.0/>`_
+ * `v2.10.0 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v2.10.0/>`_
 
  * `All releases <http://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource>`_
 
@@ -19,9 +19,9 @@ Source code
 
 To checkout the current development version and build it, use::
 
-    $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git master
-    $ cd master
-    $ git checkout master
+    $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git geonetwork
+    $ cd geonetwork
+    $ git checkout develop
     $ git submodule update --init
     $ mvn clean install
 
