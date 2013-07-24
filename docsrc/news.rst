@@ -3,8 +3,18 @@
 News
 ====
 
+GeoNetwork opensource v2.10.1 released
+--------------------------------------
+
+Date: 24 July 2013
+
+We're pleased to announce the release v2.10.1 of GeoNetwork opensource. This is a minor release. 
+
+:doc:`downloads`
+
+
 GeoNetwork opensource v2.10.0 released
--------------------------------------
+--------------------------------------
 
 Date: 14 June 2013
 

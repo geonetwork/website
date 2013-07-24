@@ -6,10 +6,10 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 2.10.0
+Version 2.10.1
 """""""""""""
 
-Documentation for the stable release version **2.10.0** of GeoNetwork opensource.
+Documentation for the stable release version **2.10.1** of GeoNetwork opensource.
 
 * `User manual <manuals/2.10.0/eng/users/index.html>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
 
