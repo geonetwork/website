@@ -1,4 +1,4 @@
 website
 =======
 
-Geonetwork website project
+GeoNetwork opensource website project
