@@ -44,8 +44,9 @@ can use the following information to connect.
 * Channel: `#geonetwork <irc://irc.freenode.net/#geonetwork>`_
 
 For a history of previous activity on the channel, search the `archives
-<http://logs.qgis.org/geonetwork/>`_.
+<http://irclogs.geoapt.com/geonetwork/>`_.
 
+IRC meetings take place on Tuesdays at 11:00 hours GMT+1 (Amsterdam)
 
 
 
