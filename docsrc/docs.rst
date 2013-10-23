@@ -24,11 +24,6 @@ Documentation for the stable release version **2.10.2** of GeoNetwork opensource
 
 Older versions
 """"""""""""""
-GeoNetwork opensource 2.8.0:
-	* `User manual <manuals/2.8.0/eng/users/index.html>`_ 
-
-	* `Developer manual <manuals/2.8.0/eng/developer/index.html>`_ 
-
 
 GeoNetwork opensource 2.6.4:
 	* `User manual <manuals/2.6.4/eng/users/index.html>`_ 

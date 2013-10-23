@@ -18,9 +18,9 @@ GeoNetwork opensource
    
 GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an embedded interactive web map viewer. It is currently used in numerous Spatial Data Infrastructure initiatives across the world.
 
-.. image:: homepage_gn260.jpg
+.. image:: gn210_result.jpg
     :align: right
-    :alt: Homepage of GeoNetwork v2.6.4
+    :alt: GeoNetwork v2.10 Search results
 
 GeoNetwork has been developed to connect spatial information communities and their data using a modern architecture, which is at the same time powerful and low cost, based on the principles of Free and Open Source Software (FOSS) and International and Open Standards for services and protocols (a.o. from ISO/TC211 and OGC).
  

@@ -15,13 +15,13 @@ git submodule update --init
 cd ..
 #rm -rf `find latest -type d -name .svn`
 
-# Create folder for 2.8.x branch and checkout v2.8.0
-rm -rf 28x
-cp -R latest 28x
-cd 28x
-./git-all checkout -b 2.8.0 remotes/origin/2.8.x
+# Create folder for 2.10.x branch and checkout v2.10.2
+rm -rf 210x
+cp -R latest 210x
+cd 210x
+./git-all checkout -b 2.10.2 remotes/origin/2.10.x
 cd ..
-#rm -rf `find 28x -type d -name .svn`
+#rm -rf `find 210x -type d -name .svn`
 
 # Create folder for 2.6.x branch and checkout v2.6.4
 rm -rf 26x
@@ -48,11 +48,11 @@ cd ../docs
 mvn install
 
 # -------------------------------------------------------
-# 2.8.x documentation ----------------------------------
+# 2.10.x documentation ----------------------------------
 # -------------------------------------------------------
 
-# Build javadoc for 2.8.x tag
-cd $current_dir/28x/web
+# Build javadoc for 2.10.x tag
+cd $current_dir/210x/web
 #mvn install
 mvn javadoc:javadoc
 
@@ -60,7 +60,7 @@ cd ../jeeves
 #mvn install
 mvn javadoc:javadoc
 
-# Build website docs for 2.8.x tag
+# Build website docs for 2.10.x tag
 cd ../docs
 mvn install
 
@@ -80,7 +80,6 @@ mvn javadoc:javadoc
 # Build website docs for 2.6.x tag
 cd ../docs
 mvn install
-
 
 # -------------------------------------------------------
 # geonetwork-opensource website -------------------------
@@ -125,37 +124,37 @@ cp -R apidocs/* $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apido
 cd $current_dir/latest/jeeves/target/site
 cp -R apidocs/* $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apidocs/jeeves
 
-# Copy docs to website folder (2.8.x)
+# Copy docs to website folder (2.10.x)
 # -------------------------------------------------------
-mkdir -p $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer/apidocs/geonetwork
-mkdir -p $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer/apidocs/jeeves
-mkdir $current_dir/docsrc/build/html/manuals/2.8.0/eng/users
-mkdir $current_dir/docsrc/build/html/manuals/2.8.0/eng/widgets
-mkdir $current_dir/docsrc/build/html/manuals/2.8.0/fra
-mkdir $current_dir/docsrc/build/html/manuals/2.8.0/fra/users
+mkdir -p $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer/apidocs/geonetwork
+mkdir -p $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer/apidocs/jeeves
+mkdir $current_dir/docsrc/build/html/manuals/2.10.2/eng/users
+mkdir $current_dir/docsrc/build/html/manuals/2.10.2/eng/widgets
+mkdir $current_dir/docsrc/build/html/manuals/2.10.2/fra
+mkdir $current_dir/docsrc/build/html/manuals/2.10.2/fra/users
 
 # ... Users
-cd $current_dir/28x/docs/eng/users/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.8.0/eng/users
-cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.8.0/eng/users
-cd $current_dir/28x/docs/fra/users/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.8.0/fra/users
-cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.8.0/fra/users
+cd $current_dir/210x/docs/eng/users/build
+cp -R html/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/users
+cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.10.2/eng/users
+cd $current_dir/210x/docs/fra/users/build
+cp -R html/* $current_dir/docsrc/build/html/manuals/2.10.2/fra/users
+cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.10.2/fra/users
 
 # ... Developer
-cd $current_dir/28x/docs/eng/developer/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer
-cp -R latex/GeoNetworkDeveloperManual.pdf $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer
+cd $current_dir/210x/docs/eng/developer/build
+cp -R html/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer
+cp -R latex/GeoNetworkDeveloperManual.pdf $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer
 
 # ... Widgets
-cd $current_dir/28x/docs/widgets/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.8.0/eng/widgets
+cd $current_dir/210x/docs/widgets/build
+cp -R html/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/widgets
 
 #javadoc
-cd $current_dir/28x/web/target/site
-cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer/apidocs/geonetwork
-cd $current_dir/28x/jeeves/target/site
-cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.8.0/eng/developer/apidocs/jeeves
+cd $current_dir/210x/web/target/site
+cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer/apidocs/geonetwork
+cd $current_dir/210x/jeeves/target/site
+cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer/apidocs/jeeves
 
 # Copy docs to website folder (2.6.4)
 # -------------------------------------------------------
