@@ -82,7 +82,7 @@ List of known GeoNetwork opensource based catalogues. Send us an email if you wa
          Le Service d'Administration Nationale des Données et Référentiels sur l'Eau
    * - 
      - SOPAC - Pacific Islands Applied Geoscience Commision - http://geonetwork.sopac.org
-         SOPAC Geonetwork for Oceanographic data and information
+         SOPAC GeoNetwork for Oceanographic data and information
    * - .. Image:: http://www.unsdi.nl/images/UNSDI-NL-64x64.gif 
      - UNSDI-NCO - http://www.geonetwork.nl/
          GeoNetwork portal of the Netherlands Coordination Office of UNSDI
@@ -163,6 +163,6 @@ List of known GeoNetwork opensource based catalogues. Send us an email if you wa
    * - .. Image:: http://geonet.icarda.cgiar.org/geonetwork/images/logos/my-org.gif
      - ICARDA GeoNetwork Node - http://geonet.icarda.cgiar.org/geonetwork
    * - .. Image:: http://www.csi.cgiar.org/images/logo/cpwf_logo_verysmall_trans.gif
-     - CPWP Project Geonetwork Node - http://geonetwork.waterandfood.org/
+     - CPWP Project GeoNetwork Node - http://geonetwork.waterandfood.org/
 
 
