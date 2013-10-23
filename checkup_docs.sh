@@ -24,11 +24,11 @@ cd ..
 #rm -rf `find 210x -type d -name .svn`
 
 # Create folder for 2.6.x branch and checkout v2.6.4
-rm -rf 26x
-cp -R latest 26x
-cd 26x
-./git-all checkout -b 2.6.4 remotes/origin/2.6.x
-cd ..
+#rm -rf 26x
+#cp -R latest 26x
+#cd 26x
+#./git-all checkout -b 2.6.4 remotes/origin/2.6.x
+#cd ..
 
 # -------------------------------------------------------
 # Trunk documentation -----------------------------------
@@ -69,17 +69,15 @@ mvn install
 # -------------------------------------------------------
 
 # Build javadoc for 2.6.x tag
-cd $current_dir/26x/web
-#mvn install
-mvn javadoc:javadoc
+#cd $current_dir/26x/web
+#mvn javadoc:javadoc
 
-cd ../jeeves
-#mvn install
-mvn javadoc:javadoc
+#cd ../jeeves
+#mvn javadoc:javadoc
 
 # Build website docs for 2.6.x tag
-cd ../docs
-mvn install
+#cd ../docs
+#mvn install
 
 # -------------------------------------------------------
 # geonetwork-opensource website -------------------------
@@ -158,23 +156,23 @@ cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.10.2/eng/developer/apid
 
 # Copy docs to website folder (2.6.4)
 # -------------------------------------------------------
-mkdir -p $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/geonetwork
-mkdir -p $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/jeeves
-mkdir $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
+#mkdir -p $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/geonetwork
+#mkdir -p $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/jeeves
+#mkdir $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
 
 # ... Users
-cd $current_dir/26x/docs/eng/users/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
-cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
+#cd $current_dir/26x/docs/eng/users/build
+#cp -R html/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
+#cp -R latex/GeoNetworkUserManual.pdf $current_dir/docsrc/build/html/manuals/2.6.4/eng/users
 
 # ... Developer
-cd $current_dir/26x/docs/eng/developer/build
-cp -R html/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer
-cp -R latex/GeoNetworkDeveloperManual.pdf $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer
+#cd $current_dir/26x/docs/eng/developer/build
+#cp -R html/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer
+#cp -R latex/GeoNetworkDeveloperManual.pdf $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer
 
 #javadoc
-cd $current_dir/26x/web/target/site
-cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/geonetwork
-cd $current_dir/26x/jeeves/target/site
-cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/jeeves
+#cd $current_dir/26x/web/target/site
+#cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/geonetwork
+#cd $current_dir/26x/jeeves/target/site
+#cp -R apidocs/* $current_dir/docsrc/build/html/manuals/2.6.4/eng/developer/apidocs/jeeves
 

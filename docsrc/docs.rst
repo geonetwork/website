@@ -22,21 +22,6 @@ Documentation for the stable release version **2.10.2** of GeoNetwork opensource
 
 	* `Jeeves <manuals/2.10.2/eng/developer/apidocs/jeeves/index.html>`_ - Jeeves javadocs.
 
-Older versions
-""""""""""""""
-
-GeoNetwork opensource 2.6.4:
-	* `User manual <manuals/2.6.4/eng/users/index.html>`_ 
-
-	* `Developer manual <manuals/2.6.4/eng/developer/index.html>`_ 
-
-* `GeoNetwork 2.4 User Manual <_static/Manuals/geonetwork24_eng.pdf>`_ (English)
-* `GeoNetwork 2.4 Manuel utilisateur <_static/Manuals/geonetwork24_fra.pdf>`_ (Français)
-* `GeoNetwork Quick Start Guide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_En_v1.1.doc>`_ (English - Word format - 2006)
-* `GeoNetwork Guide de démarrage rapide v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Fr.doc>`_ (French - Word format - 2006)
-* `GeoNetwork Guía de Inicio Rápido v2.0 <_static/Manuals/GeoNetwork_2_Quick_Start_Guide_Sp.doc>`_  (Spanish - Word format - 2006)
-
-
 Presentations
 ^^^^^^^^^^^^^
 
@@ -47,8 +32,8 @@ HowTo's and WIKI
 ^^^^^^^^^^^^^^^^
 
 * `List of contributed How-to's <http://trac.osgeo.org/geonetwork/wiki/ListOfHowTos>`_
-* `Developer Wiki <http://trac.osgeo.org/geonetwork/>`_
-.. * TODO : Add link to tutorial and how-to available in old website
+* `Developer Wiki on Github (from October 2013) <https://github.com/geonetwork/core-geonetwork/wiki>`_
+* `Developer Wiki on trac (until September 2013) <http://trac.osgeo.org/geonetwork/>`_
 
 Flyers
 ^^^^^^
