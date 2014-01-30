@@ -3,6 +3,40 @@
 News
 ====
 
+GeoNetwork opensource v2.10.3 released
+--------------------------------------
+
+Date: 30 January 2014
+
+We're pleased to announce the release v2.10.3 of GeoNetwork opensource. 
+This is a minor release that includes bug fixes discovered in earlier versions. 
+
+Proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members! 
+
+Jeroen Ticheler
+
+Here's an overview of fixes to this version:
+
+* #289 getGNServiceURL function adds extra slash if the parameter starts with slash
+* #299 Select all in page breaks IE8, fails in IE9, slows selection in Firefox
+* #305 Date filter calendars in Advanced Search (classic UI) render wrongly in Chrome/Safari bug
+* #308 CSW ExceptionReport version is incorrect
+* #318 SchemaLoader cannot use oasis catalogues
+* #319 GML3.2 namespace geometries not supported by SpatialIndexWriter
+* #334 Metadata editor: datetimes values are lost in IE after editing and saving the metadata bug
+* #339 xml-commons resolver library returns invalid urls on windows
+* #345 use eclipse URIUtil to handle URIs
+* #347 Using thesaurus name for radio button group in ConceptSelectionPanel.js can cause metadata.update to fail
+* #355 metadata select all on page in html5ui causes hundreds of metadata.select requests when catalogue has lots of records (eg. 20k)
+* #357 Autocompletion / value should be analyzed enhancement
+* #360 Localize tooltip for map preview 'open bigmap button' html5ui
+* #362 "home" button points to the wrong place
+* #363 Can't delete a logo 
+* #368 Widgets / relation panel / display relation if no distribution section
+* #373 LDAPUtils tries to put null into password field in Users table - causes database constraint violation in databases that care bug
+
 
 GeoNetwork opensource v2.10.2 released
 --------------------------------------
