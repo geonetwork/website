@@ -6,21 +6,21 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 2.10.2
+Version 2.10.3
 """"""""""""""
 
 Documentation for the stable release version **2.10.2** of GeoNetwork opensource.
 
-* `User manual <manuals/2.10.2/eng/users/index.html>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
+* `User manual <manuals/2.10.3/eng/users/index.html>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
 
-* `Developer manual <manuals/2.10.2/eng/developer/index.html>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
+* `Developer manual <manuals/2.10.3/eng/developer/index.html>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
 
-* `Widgets API Reference <manuals/2.10.2/eng/widgets/index.html>`_ - The manual is for those who want to develop custom GUI using javascript widgets library.
+* `Widgets API Reference <manuals/2.10.3/eng/widgets/index.html>`_ - The manual is for those who want to develop custom GUI using javascript widgets library.
 
 * Javadocs:
-	* `GeoNetwork <manuals/2.10.2/eng/developer/apidocs/geonetwork/index.html>`_ - GeoNetwork javadocs.
+	* `GeoNetwork <manuals/2.10.3/eng/developer/apidocs/geonetwork/index.html>`_ - GeoNetwork javadocs.
 
-	* `Jeeves <manuals/2.10.2/eng/developer/apidocs/jeeves/index.html>`_ - Jeeves javadocs.
+	* `Jeeves <manuals/2.10.3/eng/developer/apidocs/jeeves/index.html>`_ - Jeeves javadocs.
 
 Presentations
 ^^^^^^^^^^^^^
