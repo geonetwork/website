@@ -164,5 +164,9 @@ List of known GeoNetwork opensource based catalogues. Send us an email if you wa
      - ICARDA GeoNetwork Node - http://geonet.icarda.cgiar.org/geonetwork
    * - .. Image:: http://www.csi.cgiar.org/images/logo/cpwf_logo_verysmall_trans.gif
      - CPWP Project GeoNetwork Node - http://geonetwork.waterandfood.org/
+   * - .. Image:: http://www.webservice-energy.org/sites/www.webservice-energy.org/files/webservice-icon-texte-128.gif
+     - Webservice-Energy Catalog provides worldwide information about Renewable Energy and Environment.
+       It is developed by the Center Observation, Impacts, Energy (O.I.E.) of MINES ParisTech / ARMINES and supported by several international initiatives, various institutions, research project, SME's and learned societies. - http://geocatalog.webservice-energy.org/
+     
 
 
