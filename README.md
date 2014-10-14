@@ -8,7 +8,7 @@ Website build
 
 Required software: Linux, OSX or a unix emulator on Windows. furthermore you need git, sphinx, make
 
-First checkout the website source::
+First checkout the website source:
 
   git clone -b master https://github.com/geonetwork/website.git .
 
