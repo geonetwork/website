@@ -5,6 +5,11 @@ Gallery
 
 GeoNetwork screenshots
 ----------------------
+Géoportail du Labex CEBA Centre d’étude de la biodiversité amazonienne
+
+.. image:: vmcebagn-dev.ird.fr.png
+
+http://vmcebagn-dev.ird.fr
 
 Dutch National Georegistry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
