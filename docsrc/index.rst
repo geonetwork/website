@@ -13,54 +13,187 @@
     gallery/gallery.rst
     acknowledgements/acknowledgements.rst
 
-GeoNetwork opensource
-=====================
-   
-GeoNetwork is a catalog application to manage spatially referenced resources. It provides powerful metadata editing and search functions as well as an embedded interactive web map viewer. It is currently used in numerous Spatial Data Infrastructure initiatives across the world.
 
-.. image:: gn210_result.jpg
+GeoNetwork is a catalog application to **manage spatially referenced resources**.
+It provides powerful **metadata editing** and **search** functions as well as an
+interactive web map viewer.
+It is currently used in **numerous Spatial Data Infrastructure initiatives across the world**.
+
+Features
+========
+
+
+Find & get information
+----------------------
+
+.. image:: gn3-search.png
     :align: right
-    :alt: GeoNetwork v2.10 Search results
+    :width: 400 px
+    :alt: GeoNetwork v3 Search results
 
-GeoNetwork has been developed to connect spatial information communities and their data using a modern architecture, which is at the same time powerful and low cost, based on the principles of Free and Open Source Software (FOSS) and International and Open Standards for services and protocols (a.o. from ISO/TC211 and OGC).
- 
-The software provides an easy to use web interface to search geospatial data across multiple catalogs, combine distributed map services in the embedded map viewer, publish geospatial data using the online metadata editing tools and optionally the embedded GeoServer map server. Administrators have the option to manage user and group accounts, configure the server through web based and desktop utilities and schedule metadata harvesting from other catalogs. 
 
-Main features
--------------
-* Immediate search access to local and distributed geospatial catalogues
-* Up- and downloading of data, graphics, documents, pdf files and any other content type
-* An interactive Web Map Viewer to combine Web Map Services from distributed servers around the world
-* Online editing of metadata with a powerful template system
-* Scheduled harvesting and synchronization of metadata between distributed catalogs
-* Support for OGC-CSW 2.0.2 ISO Profile, OAI-PMH, Z39.50 protocols
-* Fine-grained access control with group and user management
-* Multi-lingual user interface
-More :doc:`functionality`
+GeoNetwork provides an easy to use web interface to search geospatial data
+across multiple catalogs. The search provides full-text search as well as
+faceted search on keywords, resource types, organizations, scale, ... Users
+can easily refine the search and quickly gets to the records of interests.
 
-Standards Implemented
-`````````````````````
 
-.. image:: _static/gn220_editor.png
-    :align: left
 
-You will find support for a range of standards. Metadata standards  (ISO19115/ISO19119/ISO19110 following ISO19139, FGDC and Dublin Core), Catalog interfaces (OGC-CSW2.0.2 ISO profile client and server, OAI-PMH client and server, GeoRSS server, GEO OpenSearch server, WebDAV harvesting, GeoNetwork to GeoNetwork harvesting support) and Map Services interfaces (OGC-WMS, WFS, WCS, KML and others) through the embedded GeoServer map server.
 
-Platform Independent
-````````````````````
+GeoSpatial layers, but also services, maps or even non geographic datasets
+can be described in the catalog. Easily navigate accross records and find
+sources or services publishing a dataset.
 
-A single, platform independent installer allows to install and run the software on a PC or a server on Windows, Linux and Mac OS X. The installer can be downloaded as an executable Windows file or as a platform independent .jar installer. It creates a Start menu on Windows computers. Command line installations are also possible for remote installations. Please refer to the manual for detailed installation instructions. 
- 
+
+
+
+
+Make your maps
+--------------
+
+.. image:: gn3-map.png
+    :align: right
+    :width: 400 px
+    :alt: Map viewer
+
+The interactive map viewer based on `OpenLayers 3 <http://openlayers.org/>`_
+provides access to OGC services (WMS, WMTS) and standards (KML, OWS). Connected
+to the catalog, users can easily find new services, layers and even dynamic maps
+to combine them together. User maps can be annotated and printed and shared
+with others.
+
+
+
+
+
+Publish & describe resources
+----------------------------
+
+.. image:: gn3-new.png
+    :align: right
+    :width: 400 px
+    :alt: Create a new record
+
+
+Describe information using the online metadata editing tools. The metadata
+editor support ISO19115/119/110 standards used for spatial resources and also
+Dublin Core format usually used for opendata portal.
+
+
+Based on user profiles (eg. reviewer, editor), a dashboard provides easy access
+to their informations and tasks. Online editing of metadata is based on
+a powerful template system and directories of information (eg. contacts, thesaurus).
+
+
+
+.. image:: gn3-edit.png
+    :align: right
+    :width: 400 px
+    :alt: Editing record
+
+
+The editor provides uploading of data, graphics, documents, pdf files and any
+other content type. It supports among other:
+
+* multilingual metadata editing,
+* validation system,
+* suggestion to improve metadata quality
+* geopublication of layers to publish geodata layers in OGC services (eg. GeoServer)
+
+
+Easy configuration
+------------------
+
+.. image:: gn3-admin.png
+    :align: right
+    :width: 400 px
+    :alt: GeoNetwork v3 admin console
+
+
+The administration console provides quick access to the system configuration.
+Easily manage user and group accounts, classification systems
+from the web interface and schedule metadata harvesting from many sources including:
+
+* OGC-CSW 2.0.2 ISO Profile,
+* OAI-PMH,
+* Z39.50 protocols,
+* Thredds,
+* Webdav,
+* Web Accessible Folders,
+* ESRI GeoPortal
+* Other GeoNetwork node.
+
+
+
+Analyze information
+-------------------
+
+Monitoring and reporting tools provide summarized information about the content of
+the catalog and statistics on the search. System maintainer can easily
+access to system status.
+
+
+.. image:: gn3-stats.png
+    :align: right
+    :width: 400 px
+    :alt: Content and search statistics
+
+
+API
+---
+
+
+GeoNetwork implements the following protocols:
+
+* OGC CSW
+* OAI-PMH
+* OpenSearch
+* Z39.50
+
+
+and also provides its own API to interact with other systems and
+a DCAT/RDF search service.
+
+
+Customise & extend
+------------------
+
+With version 3, you can easily customise the appearance of your GeoNetwork
+using Bootstrap theme.
+
+
+GeoNetwork provides a plugin mechanism for creating your own metadata schema (
+eg. `ISO19115-3 plugin <https://github.com/metadata101/iso19115-3>`_).
+
+
+OpenSource & standards
+----------------------
+
+GeoNetwork has been developed to connect spatial information communities and
+their data using a modern architecture, which is at the same time powerful and low cost,
+based on the principles of Free and Open Source Software (FOSS) and
+International and Open Standards for services and protocols (a.o. from ISO/TC211 and OGC).
+
+
 Community and OSGeo
-```````````````````
+===================
 
-The GeoNetwork community has been expanding quickly over the last years. The current release has been possible because of all those that contributed to the project through code contributions, testing, bug reports and fixes as well as many suggestions.  
+The GeoNetwork community has been expanding quickly over the last years.
+The current release has been possible because of all those that contributed
+to the project through code contributions, testing, bug reports and fixes as
+well as many suggestions.
  
-GeoNetwork is part of the Open Source Geospatial Foundation (OSGeo, http://www.osgeo.org) software stack, providing software you can trust tobe free, open and sustainable. Voluntary support is provided through mailing lists, websites and online forums.
+GeoNetwork is part of the Open Source Geospatial Foundation
+(OSGeo, http://www.osgeo.org) software stack, providing software you can
+trust tobe free, open and sustainable. Voluntary support is provided through
+mailing lists, websites and online forums.
 
 More: :doc:`community`
 
 Professional Support
-````````````````````
+====================
 
-Several companies also provide commercial support to help organizations to implement, integrate and maintain the software. You can find them in the `Service Provider directory <http://www.osgeo.org/search_profile>`_ on the OSGeo website.
+Several companies also provide commercial support to help organizations
+to implement, integrate and maintain the software. You can find them
+in the `Service Provider directory <http://www.osgeo.org/search_profile>`_ on the
+OSGeo website.

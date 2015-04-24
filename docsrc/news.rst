@@ -3,6 +3,19 @@
 News
 ====
 
+GeoNetwork opensource v3.0.0 released
+-------------------------------------
+
+Date: 28 April 2015
+
+We're pleased to announce the release v3.0.0 of GeoNetwork opensource.
+This is a major release with a completely new user interface and a lot of new functionality.
+
+Proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v2.10.4 released
 --------------------------------------
 
