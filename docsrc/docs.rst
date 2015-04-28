@@ -9,9 +9,8 @@ User and developer manuals
 Version 3.0.0
 """""""""""""
 
-- Under work for version 3 -
 
-* User guide (`english <manuals/trunk/eng/users/index.html>`_ | `french <manuals/trunk/fra/users/index.html>`_)
+* User guide (`english <manuals/trunk/eng/users/index.html>`_ | `french <manuals/trunk/fra/users/index.html>`_) - currently being updated
 
 * `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_
 
@@ -24,7 +23,7 @@ Version 2.10
 
 * `User guide <manuals/2.10.4/eng/users/index.html>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
 
-
+* `Developer manual <manuals/2.10.4/eng/developer/index.html>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
 
 
 Articles & links
