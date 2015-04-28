@@ -6,6 +6,34 @@ Gallery
 GeoNetwork screenshots
 ----------------------
 
+
+.. image:: ../gn3-search.png
+    :width: 600 px
+    :alt: GeoNetwork v3 Search results
+
+.. image:: ../gn3-map.png
+    :width: 600 px
+    :alt: Map viewer
+
+.. image:: ../gn3-new.png
+     :width: 600 px
+     :alt: Create a new record
+
+.. image:: ../gn3-edit.png
+     :width: 600 px
+     :alt: Editing record
+
+
+.. image:: ../gn3-admin.png
+    :width: 600 px
+    :alt: GeoNetwork v3 admin console
+
+
+
+Data portal screenshots
+-----------------------
+
+
 Dutch National Georegistry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -19,6 +47,8 @@ SwissTopo geocat.ch
 .. image:: geocat.ch.png
 
 http://www.geocat.ch
+
+
 
 GeoNetwork nodes
 ----------------
