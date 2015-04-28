@@ -3,7 +3,7 @@ General styles
 -----------------------*/
 body {
 background: #fff;
-color: #0076a1;
+color: #003366;
 font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
 text-align:left !important; /* override blueprint's ie.css */
 }
@@ -14,7 +14,7 @@ h3,
 h4, 
 h5, 
 h6 {
-color: #0082b6;
+color: #003366;
 font-family: "Lucida Sans", "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
 height: auto; /* override blueprint's screen.css */
 }
@@ -28,12 +28,12 @@ font-family: "Lucida Sans", "Lucida Sans Unicode", "Lucida Grande", Verdana, Ari
 }
 
 a {
-color: #0076a1;
+color: #003366;
 outline: none !important; /* avoid ugly dotted border for Firefox */
 }
 
 a:hover {
-color: #cc6d00;
+color: #b2ad09;
 text-decoration: underline;
 }
 
@@ -153,7 +153,7 @@ float: left;
 width: 191px;
 margin: 0 0 0 10px;
 padding: 143px 0 0;
-color: #0076a1;
+color: #003366;
 }
 
 * html #sidebar {
@@ -161,7 +161,7 @@ margin: 0 -5px 0 5px;
 }
 
 #footer {
-background: #0076a1 url(./chrome/footer-bg.png) repeat-x;
+background: #003366 url(./chrome/footer-bg.png) repeat-x;
 color: #d9d9d9;
 padding: 55px 0 75px;
 text-align: center;
@@ -197,7 +197,7 @@ margin: 0;
 }
 
 #account-nav a {
-color: #0076a1;
+color: #003366;
 text-decoration: none;
 }
 
@@ -208,7 +208,7 @@ color: #959532;
 #account-nav li {
 list-style-type: none;
 display: inline;
-border-right: 1px solid #c6e09b;
+border-right: 1px solid #b2ad09;
 padding: 0 0.8em;
 }
 
@@ -229,7 +229,7 @@ margin: 0;
 display: inline;
 margin: 0;
 padding: 0 8px;
-border-left: 1px solid #c6e09b;
+border-left: 1px solid #b2ad09;
 }
 
 #top-nav li:first-child, #top-nav li.first {
@@ -237,8 +237,7 @@ border-left: 0;
 }
 
 #top-nav li a {
-color: #0076a1;
-font-weight: bold;
+color: #003366;
 font-size: 1.2em;
 text-decoration: none;
 font-family: "Lucida Sans", "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
@@ -290,8 +289,8 @@ Content
 -----------------------*/
 #content #breadcrumbs {
 font-size: 0.85em;
-color: #cccd45;
-border-bottom: 1px solid #c6e09b;
+color: #003366;
+border-bottom: 1px solid #e1e1e1;
 margin: 0 0 1em;
 padding: 0 0 0.5em;
 }
@@ -302,23 +301,25 @@ display: inline;
 }
 
 #content #breadcrumbs a {
-color: #959532;
+color: #003399;
 text-decoration: none;
 }
 
 #content #breadcrumbs a:hover {
-color: #26b2dd;
+color: #b2ad09;
 }
 
 #content h1 {
-background: #f3f3f3;
+background: #f0f0f0;
 padding: 4px;
+border-radius: 3px;
+border: solid 1px #e1e1e1;
 }
 
 #content h2,
 #content h3, 
 #content h4 {
-border-bottom: 2px solid #e4f1d0;
+border-bottom: 1px solid #b2ad09;
 padding: 0 4px;
 }
 
@@ -562,7 +563,7 @@ font-size: 1.1em;
 th {
 text-align: left;
 padding-right: 5px;
-background-color: #0076a1;
+background-color: #003366;
 color: white;
 }
 
@@ -710,7 +711,7 @@ background: url(./chrome/download-link.png) no-repeat;
 
 #sidebar .section {
 padding: 0.9em 0;
-border-bottom: 2px solid #e4f1d0;
+border-bottom: 1px solid #b2ad09;
 margin: 0;
 }
 
@@ -897,7 +898,7 @@ color: #fff;
 
 .pagination-nav {
 margin: 1em 0 0;
-border-top: 2px solid #e4f1d0;
+border-top: 1px solid #b2ad09;
 }
 
 div.acklogo {
