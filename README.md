@@ -10,7 +10,7 @@ Website build
 Required software:
  
 * git, 
-* sphinx, 
+* sphinx (See http://sphinx-doc.org/latest/install.html), 
 * make (Linux, OSX or a unix emulator on Windows) or maven
 
 First checkout the website source:
