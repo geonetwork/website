@@ -20,7 +20,8 @@ First checkout the website source:
 ```
 
 
-Retrieve user and developer docs using shell script:
+If you need to build the user documentation, retrieve user and developer 
+docs using shell script:
 
 ```
   ./checkup_docs.sh
@@ -32,7 +33,7 @@ Run make html in docsrc to build website using sphinx:
   make html
 ```
 
-or maven
+or maven in the root folder:
 ```
   mvn clean install
 ```
