@@ -905,3 +905,7 @@ div.acklogo {
 	padding-bottom: 5px;
 	border-bottom: 1px solid #e4f1d0;
 }
+
+#geonetwork-nodes tr td img {
+    max-width: 100px;
+}
