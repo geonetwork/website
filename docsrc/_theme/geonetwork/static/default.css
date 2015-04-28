@@ -910,3 +910,8 @@ div.acklogo {
 #geonetwork-nodes tr td img {
     max-width: 100px;
 }
+
+.acklogo a {
+    display: block;
+    margin-bottom: 25px;
+}
