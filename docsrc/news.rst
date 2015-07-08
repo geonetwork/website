@@ -3,6 +3,26 @@
 News
 ====
 
+GeoNetwork opensource v3.0.1 released
+-------------------------------------
+
+Date: 9 July 2015
+
+We're pleased to announce the release v3.0.1 of GeoNetwork opensource.
+This is a minor release that includes bug fixes discovered in earlier versions.
+
+Proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
+Attend the GeoNetwork workshop at FOSS4G Seoul 2015
+---------------------------------------------------
+
+14th of September, GeoNetwork team is giving a workshop on "Build Your Own Data Portal Using GeoNetwork 3"
+Join us! See http://2015.foss4g.org/programme/workshop/ for the programme.
+
+
 GeoNetwork opensource v3.0.0 released
 -------------------------------------
 
