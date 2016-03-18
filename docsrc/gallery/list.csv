@@ -3,6 +3,7 @@ Logo, Description, Link, Description
 .. Image:: http://vmamapgn-test.mpl.ird.fr/geonetwork/images/logos/vmamapgn-test.mpl.ird.fr.gif, AMAP géoportail, http://vmamapgn-test.mpl.ird.fr,Géoportail de l'UMR AMAP botAnique et Modélisation de l’Architecture des Plantes et des végétations 
 , Brasil IBGE GeoNetwork, http://www.metadados.geo.ibge.gov.br/, IBGE - Instituto Brasileiro de Geografia e Estatstica (Brazilian Institute of Geography and Statistics) 
 , Brasil INDE, http://www.metadados.inde.gov.br/, Metadata catalog of INDE (National Infrastructure of Spatial Data)
+, Brasil IDE-SP GeoNetwork, http://www.metadados.idesp.sp.gov.br/geonetwork, São Paulo State's Catalogue node
 .. Image:: http://vmcebagn-dev.ird.fr/geonetwork/images/logos/vmcebagn-dev.ird.fr.gif, CEBA géoportail, http://vmcebagn-dev.ird.fr, Labex CEBA Centre d’étude de la biodiversité amazonienne
 .. Image:: http://www.csi.cgiar.org/images/logo/cgiar_gn_small_tran.gif, CGIAR-CSI Main GeoNetwork Node, http://geonetwork.csi.cgiar.org, CGIAR-CSI - Consortium for Spatial Information - Main node
 .. Image:: http://www.fao.org/geonetwork/images/logos/fao.gif, FAO GeoNetwork, http://www.fao.org/geonetwork,  Food and Agriculture Organization of the United Nations GeoNetwork
@@ -67,3 +68,5 @@ Logo, Description, Link, Description
 ,WFP VAM-SIE Headquarters, http://vam.wfp.org/geonetwork, United Nations World Food Programme GeoNetwork
 ,WHO Headquarters, http://www.who.int/geonetwork, World Health Organization GIS Resources
 ,ΚΑΤΑΛΟΓΟΣ (Elena),http://www1.okxe.gr:80/geonetwork/,
+,ΚΑΤΑΛΟΓΟΣ (Elena),http://www1.okxe.gr:80/geonetwork/,
+
