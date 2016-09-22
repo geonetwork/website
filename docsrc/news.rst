@@ -12,7 +12,7 @@ A GeoNetwork user meeting will be organized on Wednesday, 28th September as a si
 
 The meeting is organized in MOB main: `Calle Bailén 11, Bajos, Barcelona <https://www.google.es/maps/place/Carrer+de+Bail%C3%A8n,+11,+08010+Barcelona/@41.3917816,2.1750678,17z/data=!4m13!1m7!3m6!1s0x12a4a2e4de814225:0x9fc23554dc20696d!2sCarrer+de+Bail%C3%A8n,+11,+08010+Barcelona!3b1!8m2!3d41.3917816!4d2.1772565!3m4!1s0x12a4a2e4de814225:0x9fc23554dc20696d!8m2!3d41.3917816!4d2.1772565?hl=en>`_.
 
-Feel free to step in and join us at 18:30 until 20:30. RSVP is appreciated. Join us here: https://secure.meetup.com/register/?ctx=ref
+Feel free to step in and join us at 18:30 until 20:30. RSVP is appreciated. Join us here: http://meetu.ps/e/C2j3r/4S9ZM/a
 
 GeoNetwork opensource v3.0.4 released
 -------------------------------------
