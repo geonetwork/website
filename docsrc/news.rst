@@ -3,6 +3,16 @@
 News
 ====
 
+GeoNetwork user meeting in Barcelona
+------------------------------------
+
+Date: 28 September 2016
+
+A GeoNetwork user meeting will be organized on Wednesday, 28th September as a side event to the Inspire conference in Barcelona. In the meetup event, we will present new features of GeoNetwork and inquire about requested features. We are looking forward to hear from you how you use and have customized GeoNetwork. Don’t miss GeoBeers after the meetup event.
+
+The meeting is organized in MOB main: `Calle Bailén 11, Bajos, Barcelona <https://www.google.es/maps/place/Carrer+de+Bail%C3%A8n,+11,+08010+Barcelona/@41.3917816,2.1750678,17z/data=!4m13!1m7!3m6!1s0x12a4a2e4de814225:0x9fc23554dc20696d!2sCarrer+de+Bail%C3%A8n,+11,+08010+Barcelona!3b1!8m2!3d41.3917816!4d2.1772565!3m4!1s0x12a4a2e4de814225:0x9fc23554dc20696d!8m2!3d41.3917816!4d2.1772565?hl=en>`_.
+
+Feel free to step in and join us at 18:30 until 20:30. RSVP is appreciated. Join us here: https://secure.meetup.com/register/?ctx=ref
 
 GeoNetwork opensource v3.0.4 released
 -------------------------------------
@@ -75,12 +85,12 @@ GeoNetwork opensource v2.10.4 released
 
 Date: 22 December 2014
 
-We're pleased to announce the release v2.10.4 of GeoNetwork opensource. 
-This is a minor release that includes bug fixes discovered in earlier versions. 
+We're pleased to announce the release v2.10.4 of GeoNetwork opensource.
+This is a minor release that includes bug fixes discovered in earlier versions.
 
 Proceed to :doc:`downloads` and enjoy!
 
-Thanks and congratulations to the all community members! 
+Thanks and congratulations to the all community members!
 
 Jeroen Ticheler
 
@@ -121,7 +131,7 @@ Here's an overview of fixes to this version:
 * #582 CSW harvester: removing the search filter doesn't work
 * #612 xml.metadata.privileges returns an HTTP 403 error
 * #655 Add search criteria in harvesters fails in Internet Explorer
-* #656 Editing a harvester in IE causes a javascript 
+* #656 Editing a harvester in IE causes a javascript
 * #677 Classic UI: Metadata view links in metadata show cause a javascript error in debug mode
 
 
@@ -130,12 +140,12 @@ GeoNetwork opensource v2.10.3 released
 
 Date: 30 January 2014
 
-We're pleased to announce the release v2.10.3 of GeoNetwork opensource. 
-This is a minor release that includes bug fixes discovered in earlier versions. 
+We're pleased to announce the release v2.10.3 of GeoNetwork opensource.
+This is a minor release that includes bug fixes discovered in earlier versions.
 
 Proceed to :doc:`downloads` and enjoy!
 
-Thanks and congratulations to the all community members! 
+Thanks and congratulations to the all community members!
 
 Jeroen Ticheler
 
@@ -155,7 +165,7 @@ Here's an overview of fixes to this version:
 * #357 Autocompletion / value should be analyzed enhancement
 * #360 Localize tooltip for map preview 'open bigmap button' html5ui
 * #362 "home" button points to the wrong place
-* #363 Can't delete a logo 
+* #363 Can't delete a logo
 * #368 Widgets / relation panel / display relation if no distribution section
 * #373 LDAPUtils tries to put null into password field in Users table - causes database constraint violation in databases that care bug
 
@@ -165,12 +175,12 @@ GeoNetwork opensource v2.10.2 released
 
 Date: 22 October 2013
 
-We're pleased to announce the release v2.10.2 of GeoNetwork opensource. 
-This is a minor release that includes bug fixes discovered in earlier versions. 
+We're pleased to announce the release v2.10.2 of GeoNetwork opensource.
+This is a minor release that includes bug fixes discovered in earlier versions.
 
 Proceed to :doc:`downloads` and enjoy!
 
-Thanks and congratulations to the all community members! 
+Thanks and congratulations to the all community members!
 
 Jeroen Ticheler
 
@@ -204,7 +214,7 @@ GeoNetwork opensource v2.10.1 released
 
 Date: 24 July 2013
 
-We're pleased to announce the release v2.10.1 of GeoNetwork opensource. This is a minor release. 
+We're pleased to announce the release v2.10.1 of GeoNetwork opensource. This is a minor release.
 
 :doc:`downloads`
 
@@ -213,10 +223,8 @@ GeoNetwork opensource v2.10.0 released
 
 Date: 14 June 2013
 
-We're pleased to announce the release v2.10.0 of GeoNetwork opensource. This is a major release that adds a lot of new functionality to the software. 
+We're pleased to announce the release v2.10.0 of GeoNetwork opensource. This is a major release that adds a lot of new functionality to the software.
 
 :doc:`downloads`
 
 Here's a non-exhaustive list of `new features <http://geonetwork-opensource.org/manuals/2.10.0/eng/users/quickstartguide/newfeatures/index.html>`_.
-
-
