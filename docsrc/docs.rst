@@ -6,7 +6,7 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 3.0.4
+Version 3.2.0
 """""""""""""
 
 
