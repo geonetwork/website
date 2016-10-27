@@ -5,6 +5,7 @@ export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=256M"
 current_dir=$(pwd)
 
 tag210='2.10.4'
+tagold='3.0.5'
 
 echo "=======> Website creation started"
 
@@ -39,6 +40,28 @@ echo "=======> Download from GitHub docs to 'doc' folder"
 cd $current_dir
 rm -rf doc
 git clone https://github.com/geonetwork/doc.git
+
+
+# Download from GitHub docs to 'doc' folder
+echo "=======> Download from GitHub docs to 'doc' folder"
+cd $current_dir
+rm -rf doc$tagold
+git clone https://github.com/geonetwork/doc.git doc$tagold
+
+
+# -------------------------------------------------------
+# 3.0.x branch documentation ---------------------------
+# -------------------------------------------------------
+
+echo "=======> Build old stable branch manuals"
+pwd
+cd $current_dir/doc$tagold
+git fetch --tags
+git checkout tags/$tagold
+git submodule update --init
+git clean -fxd
+mvn clean install
+cd ..
 
 
 
@@ -81,18 +104,25 @@ make html
 
 # Copy GeoNetwork manuals to website folder (trunk)
 # -------------------------------------------------------
-echo "=======> Copy GeoNetwork trunk docs to website folder"
+echo "=======> Copy GeoNetwork 3.x.y docs to website folder"
 #mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apidocs/geonetwork
 #mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apidocs/jeeves
 mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/users
 mkdir -p $current_dir/docsrc/build/html/manuals/trunk/fra/users
 
+mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/eng/users
+mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/fra/users
+
 # ... Users
+cd $current_dir/doc$tagold/target/doc/en/
+cp -R * $current_dir/docsrc/build/html/manuals/$tagold/eng/users
+cd $current_dir/doc$tagold/target/doc/fr/
+cp -R * $current_dir/docsrc/build/html/manuals/$tagold/fra/users
+
 cd $current_dir/doc/target/doc/en/
 cp -R * $current_dir/docsrc/build/html/manuals/trunk/eng/users
 cd $current_dir/doc/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/trunk/fra/users
-
 
 # Copy docs to website folder (2.10.x)
 # -------------------------------------------------------

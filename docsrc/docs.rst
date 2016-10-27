@@ -9,7 +9,6 @@ User and developer manuals
 Version 3.2.0
 """""""""""""
 
-
 * User guide (`english <manuals/trunk/eng/users/index.html>`_ | `french <manuals/trunk/fra/users/index.html>`_) - currently being updated
 
 * `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_
@@ -17,6 +16,10 @@ Version 3.2.0
 * Javadocs:
 	* `GeoNetwork <manuals/3.0.0/eng/developer/apidocs/geonetwork/index.html>`_ - GeoNetwork javadocs.
 
+Version 3.0.5
+"""""""""""""
+
+* User guide (`english <manuals/3.0.5/eng/users/index.html>`_ | `french <manuals/3.0.5/fra/users/index.html>`_)
 
 Version 2.10
 """"""""""""
