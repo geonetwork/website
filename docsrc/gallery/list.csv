@@ -25,7 +25,7 @@ Logo, Description, Link, Description
 ,Cigal L'Alsace à la carte,https://www.cigalsace.org/geonetwork,
 .. Image:: http://www.csi.cgiar.org/images/logo/cpwf_logo_verysmall_trans.gif,CPWP Project GeoNetwork Node, http://geonetwork.waterandfood.org/,
 ,CSIRO, http://mdu-data.arrc.csiro.au/geonetwork/srv/en/main.home, Minerals Down Under
-.. Image:: http://www.nationaalgeoregister.nl/geonetwork/images/logos/geonovum.jpg,Dutch National Geo Registry, http://www.nationaalgeoregister.nl, Nationaal Geo Register - The Netherlands
+,Dutch National Geo Registry, http://www.nationaalgeoregister.nl, Nationaal Geo Register - The Netherlands
 ,ecoMundus - Network for Environmental Information and Data, http://www.ecomundus.net,
 ,FÖMI catalog service / FÖMI katalógus szolgáltatás,http://www.geoshop.hu:80/geonetwork,
 ,GEO/IDEP, http://www.geoportaligm.gob.ec/geonetwork/srv/en/main.home,
@@ -36,7 +36,7 @@ Logo, Description, Link, Description
 ,IDE, http://138.100.63.169:8082/geonetwork/srv/es/main.home, Comunidades Rurales del Milenio Universidad Politecnica de Madrid 
 ,Ifremer Sextant ,http://sextant.ifremer.fr/fr/geoservices/catalogue,
 ,IGM Geoportal, http://www.geoportaligm.gob.ec/geonetwork/srv/en/main.home,
-.. Image:: http://geonetwork.impetus.uni-koeln.de/images/logos/9952eed6-578b-4d71-bf23-ee97db0a7ec4.gif,Impetus GeoNetwork, http://geonetwork.impetus.uni-koeln.de, An interdisciplinary research project from Germany (University of Cologne and Bonn)
+,Impetus GeoNetwork, http://geonetwork.impetus.uni-koeln.de, An interdisciplinary research project from Germany (University of Cologne and Bonn)
 ,INDE, http://www.metadados.inde.gov.br/geonetwork/srv/en/main.home, Infraestrutura Nacional de Dados Espaciais
 ,Integrated Marine Observing System, http://imosmest.aodn.org.au/geonetwork/srv/en/main.home,
 ,ISRIC, http://85.214.194.220/geonetwork/srv/en/main.home, World Soil Information
@@ -45,13 +45,13 @@ Logo, Description, Link, Description
 ,Metawal - Catalogue pour l'information géographique de Wallonie,http://metawal.wallonie.be/geonetwork/,
 .. Image:: https://download.data.grandlyon.com/catalogue/images/harvesting/GrandLyon.gif,Métropole de Lyon,https://download.data.grandlyon.com/catalogue,
 .. Image:: http://mapas.mma.gov.br/geonetwork/images/logos/geonetwork-mma.gif,MMA, http://mapas.mma.gov.br/geonetwork/, Ministerio do Meio Ambiente
-.. Image:: http://www.gis.napier.govt.nz/geonetwork/images/logos/17689d3f-5a49-487e-93b7-d8c2f76c543d.gif,Napier City Council GeoNetwork, http://www.gis.napier.govt.nz/geonetwork, Napier City Council - New Zealand
+,Napier City Council GeoNetwork, http://www.gis.napier.govt.nz/geonetwork, Napier City Council - New Zealand
 ,NCCH, http://www.saeonocean.co.za/geonetwork/srv/en/main.home, South Africa portal
 ,North Pacific Marine Science Organization, http://67.212.128.197/geonetwork/srv/en/main.home,
 ,One Geology, http://onegeology-catalog.brgm.fr/geonetwork/srv/en/main.home,
 ,PACIVUR, http://www.pacivur-geocatalogo.ird.fr/geonetwork/srv/en/main.home,
 ,Paikkatietohakemisto (Maanmittauslaitos),http://www.paikkatietohakemisto.fi:80/geonetwork/,
-.. Image:: http://extranet.parcnational.fr/catalogue/images/harvesting/logo_pnx.png,Parcs Nationaux de France,http://extranet.parcnational.fr/catalogue/liste.html,
+.. Image:: http://catalogue.parcnational.fr/images/logo_pnx.png,Parcs Nationaux de France,http://catalogue.parcnational.fr/,
 ,PIGMA Plateforme D'information Géographique Mutualisée en Aquitaine,http://www.pigma.org/,
 ,Pilot kataloškog servera (Otišao),http://geoportal.nipp.hr/geonetwork,
 ,Pusat linkungan geologi, http://122.200.145.136/geonetwork/srv/en/main.home,
@@ -63,7 +63,7 @@ Logo, Description, Link, Description
 .. Image:: http://www.unsdi.nl/images/UNSDI-NL-64x64.gif ,UNSDI-NCO, http://www.geonetwork.nl/, GeoNetwork portal of the Netherlands Coordination Office of UNSDI
 ,Volta Basin Authority, http://131.220.109.2/geonetwork/srv/en/main.home,
 ,WAGCOE, https://wagcoe.ivec.org/geonetwork/srv/en/main.home, 
-.. Image:: http://www.webservice-energy.org/sites/www.webservice-energy.org/files/webservice-icon-texte-128.gif,Webservice-Energy Catalog provides worldwide information about Renewable Energy and Environment
+.. Image:: http://www.webservice-energy.org/sites/www.webservice-energy.org/files/webservice-icon-texte-128.gif,Webservice-Energy Catalog provides worldwide information about Renewable Energy and Environment,http://geocatalog.webservice-energy.org/,
 ,WFP VAM-SIE Headquarters, http://vam.wfp.org/geonetwork, United Nations World Food Programme GeoNetwork
 ,WHO Headquarters, http://www.who.int/geonetwork, World Health Organization GIS Resources
 ,ΚΑΤΑΛΟΓΟΣ (Elena),http://www1.okxe.gr:80/geonetwork/,
