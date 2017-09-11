@@ -255,6 +255,11 @@ Header
 #top-nav li a:hover {
   color: #959532;
 }
+/* selected top nav items */
+.news .link-news, .docs .link-documentation, .downloads .link-download,
+.community .link-community, [class="gallery/gallery"] .link-gallery {
+  font-weight: bold;
+} 
 
 #search-container {
   position: fixed;

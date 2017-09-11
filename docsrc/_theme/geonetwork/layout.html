@@ -175,13 +175,14 @@
       <div id="logo"><a href="http://geonetwork-opensource.org">{{ shorttitle }}</a></div>
       
       <ul id="top-nav">
-        <li class="first"><a href="{{ pathto('news') }}">News</a></li>
-        <li><a href="{{ pathto('docs') }}">Documentation</a></li>
-        <li><a href="{{ pathto('downloads') }}">Download</a></li>
-        <li><a href="{{ pathto('community') }}">Community</a></li>
-        <li><a href="{{ pathto('gallery/gallery') }}">Gallery</a></li>
+        <li class="first link-news"><a href="{{ pathto('news') }}">News</a></li>
+        <li class="link-documentation"><a href="{{ pathto('docs') }}">Documentation</a></li>
+        <li class="link-download"><a href="{{ pathto('downloads') }}">Download</a></li>
+        <li class="link-community"><a href="{{ pathto('community') }}">Community</a></li>
+        <li class="link-gallery"><a href="{{ pathto('gallery/gallery') }}">Gallery</a></li>
         <li><a href="#" onclick="toggleSearch();">Search</a>
       </ul>
+
       <div id="osgeo"><a href="http://osgeo.org" target="_blank"><img src="{{ pathto('_static/OSGeo_project.svg', 1) }}"></a></div>
     </div><!-- /.wrap -->
   </div><!-- /#header -->
@@ -200,6 +201,7 @@
     </div>
   </div>
   {%- endblock %}
+
   {%- endblock %}
   <div id="main">
     <div class="wrap selfclear">
@@ -226,7 +228,7 @@
         </ul>
       </div>
 
-      {%- if pagename in ['index', 'community', 'news', 'gallery', 'search'] %}
+      {%- if pagename in ['index', 'community', 'news', 'gallery', 'search', 'docs'] %}
         <div class="section">
           <h3>Download</h3>
           <p>Current release: <a href="https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v{{ release }}">{{ release }}</a></p>
