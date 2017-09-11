@@ -36,10 +36,7 @@ Find & get information
 GeoNetwork provides an easy to use web interface to search geospatial data
 across multiple catalogs. The search provides full-text search as well as
 faceted search on keywords, resource types, organizations, scale, ... Users
-can easily refine the search and quickly gets to the records of interests.
-
-
-
+can easily refine the search and quickly get to the records of interest.
 
 GeoSpatial layers, but also services, maps or even non geographic datasets
 can be described in the catalog. Easily navigate accross records and find
@@ -68,14 +65,14 @@ Publish & describe resources
 
 Describe information using the online metadata editing tools. The metadata
 editor support ISO19115/119/110 standards used for spatial resources and also
-Dublin Core format usually used for opendata portal.
+Dublin Core format usually used for opendata portals.
 
 Based on user profiles (eg. reviewer, editor), a dashboard provides easy access
 to their informations and tasks. Online editing of metadata is based on
 a powerful template system and directories of information (eg. contacts, thesaurus).
 
 The editor provides uploading of data, graphics, documents, pdf files and any
-other content type. It supports among other:
+other content type. It supports among others:
 
 * multilingual metadata editing,
 * validation system,
@@ -116,7 +113,7 @@ Analyze information
 
 Monitoring and reporting tools provide summarized information about the content of
 the catalog and statistics on the search. System maintainer can easily
-access to system status.
+access the system status.
 
 
 More
@@ -142,7 +139,7 @@ Customise & extend
 ------------------
 
 With version 3, you can easily customise the appearance of your GeoNetwork
-using Bootstrap theme.
+using Bootstrap themes.
 
 
 GeoNetwork provides a plugin mechanism for creating your own metadata schema (
