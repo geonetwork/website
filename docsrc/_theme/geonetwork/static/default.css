@@ -1028,8 +1028,8 @@ a.headerlink:hover {
 }
 
 div.acklogo {
-	padding-top: 8px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	border-bottom: 1px solid #e4f1d0;
 }
 
@@ -1038,6 +1038,6 @@ div.acklogo {
 }
 
 .acklogo a {
-  display: block;
+  // display: block;
   margin-bottom: 25px;
 }
