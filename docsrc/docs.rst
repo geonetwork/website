@@ -6,7 +6,7 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 3.2.1
+Version 3.2.2
 """""""""""""
 
 * User guide (`english <manuals/trunk/eng/users/index.html>`_ | `french <manuals/trunk/fra/users/index.html>`_) - currently being updated

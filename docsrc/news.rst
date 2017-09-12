@@ -3,6 +3,16 @@
 News
 ====
 
+GeoNetwork opensource v3.2.2 released
+------------------------------------------------
+
+Date: 12 September 2017
+
+We're pleased to announce the maintenance release 3.2.2 of GeoNetwork opensource.
+Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.2.2.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
 
 GeoNetwork opensource v3.2.1 released
 ------------------------------------------------
