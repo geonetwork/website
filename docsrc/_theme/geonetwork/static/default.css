@@ -71,11 +71,7 @@ li p {
 li blockquote {
   margin: 0;
 }
-
-
-table, 
-td, 
-th {
+table, td, th {
   vertical-align: baseline; /* override blueprint's screen.css */
 }
 
@@ -97,31 +93,24 @@ Utility Classes
   clear: both;
   visibility: hidden;
 }
-
 .selfclear {
   display: inline-block; /* IE 7 */
 }
-
 .selfclear {
   display: block;
 }
-
 .leftwise {
   float:left;
 }
-
 .rightwise {
   float:right;
 }
-
 .nobreak {
   white-space: nowrap;
 }
-
 .hidden {
   display: none;
 }
-
 .wrap {
   width: 950px;
   margin: 0 auto; 
@@ -144,7 +133,7 @@ Structural Elements
 #content {
   width: 920px; 
   float: left;
-  padding: 30px 20px 10px 20px;
+  padding: 30px 20px 30px 20px;
   background: #fff;
   color: #262523;
   font-size: 1.2em;
@@ -165,7 +154,6 @@ Structural Elements
   color: #d9d9d9;
   padding: 45px 0 30px;
   text-align: center;
-  margin-top: 30px;
 }
 
 /*-----------------------
@@ -185,7 +173,7 @@ Header
   overflow: hidden;
   text-indent: -9999em;
   background: url(./chrome/geonetwork3-logo.png) no-repeat;
-  height: 57px;
+  height: 70px;
   background-size: 305px;
   z-index: auto;
 }
@@ -307,23 +295,36 @@ Header
   margin: 7px;
 }
 
+/* search page */
+.search #content form input[type="text"] {
+  font-size: 14px;
+  padding: 5px 8px;
+  width: 300px;
+}
+.search #content form input[type="submit"] {
+  font-size: 14px;
+  padding: 6px 16px;
+  border: 1px solid #ddd;
+  background-color: #efefef
+}
+
 
 /*-----------------------
-Content
+Content & Acknowledegments
 -----------------------*/
 
 .index #content h1 {
   display: none;
 }
-#content h2 {
+#content h2, #acknowledgements h2 {
   font-size: 1.6em;
   color: #b1ac08;
   margin: 15px 0;
 }
-.index #content h2 {
+.index #content h2, .index #acknowledgements h2 {
   font-size: 1.75em;
 }
-#content p {
+.index #content p {
   font-size: 18px;
 }
 #content .section p {
@@ -380,11 +381,23 @@ img.align-left {
   -moz-box-shadow: 0.33em 0.33em 0.17em #888, 0.33em 0.33em 1em rgba(0,0,0,0.3);
   box-shadow: 0.33em 0.33em 0.17em #888, 0.33em 0.33em 1em rgba(0,0,0,0.3); 
 }
+
+#acknowledgements {
+  background-color: #efefef;
+}
+#acknowledgements #ack-content {
+  padding: 10px 20px 40px 20px;
+}
+#acknowledgements h2 a {
+  text-decoration: none;
+  color: #b1ac08; 
+}
+
 /* special for #more block */
 #more {
   padding: 25px 0;
 }
-#more .section {
+#more .section, #acknowledgements .section {
   width: 270px;
   margin-right: 20px;
   float: left;
@@ -392,11 +405,17 @@ img.align-left {
   padding: 10px;
   min-height: 310px;
 }
+#acknowledgements .section {
+  min-height: 140px;
+  margin-right: 30px;
+  padding: 0;
+  margin-top: 10px;
+}
 #more .section h2 {
   font-size: 1.5em;
   margin-top: 0;
 }
-#more .section:last-child {
+#more .section:last-child, #acknowledgements .section:last-child {
   margin-right: 0;
 }
 #more .section ul {
@@ -944,19 +963,11 @@ Footer
   background: #79abab;
 }
 #footer .acklist a {
-  margin-bottom: 20px;
+  line-height: 1.7;
+  font-size: 14px;
 }
 #footer .acklist a:last-child {
   margin-bottom: 0;
-}
-#footer .acklist a img {
-  filter: grayscale(100%); 
-}
-#footer .acklist a.contrast img {
-  filter: contrast(0.1); 
-}
-#footer .acklist a:hover img {
-  filter: none !important; 
 }
 #footer strong, #footer em, #footer dt, #footer b, #footer i {
   color: #d9d9d9;

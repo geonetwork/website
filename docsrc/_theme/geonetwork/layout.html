@@ -211,8 +211,41 @@
         {% block body %}{% endblock %}
       {%- endblock %}
       </div><!-- /#content> -->
-  </div><!-- /.wrap> -->
-</div><!-- /#main -->
+
+    </div><!-- /.wrap> -->
+  </div><!-- /#main -->
+
+  {%- if pagename in ['index'] %}
+  <div id="acknowledgements">
+    <div class="wrap selfclear">
+      <div id="ack-content" class="selfclear">
+        <h2>
+          <a href="{{ pathto('acknowledgements/acknowledgements.html', 1) }}">
+            Acknowledgements
+          </a>
+        </h2>
+        <div class="section">
+          <a href="http://camptocamp.com" alt="Camptocamp - Innovative Solutions by Open Source Experts" target="_blank">
+            <img src="{{ pathto('_static/camptocamp.svg', 1) }}" />
+          </a>
+        </div>
+        <div class="section">
+          <a href="http://geocat.net" alt="GeoCat bv - Government Geographic Data Publishing" target="_blank">
+            <img src="{{ pathto('_static/geocat-logo.png', 1) }}" />
+          </a>
+        </div>
+        <div class="section">
+          <a href="http://titellus.net" alt="titellus" target="_blank">
+            <img src="{{ pathto('_static/titellus.png', 1) }}" />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  {%- endif %}
+  <!-- /#acknowledgements -->
+  
+
 {%- block footer %}
 <div id="footer">
   <div class="wrap">
@@ -244,20 +277,32 @@
           <p>Current release: <a href="{{ pathto('downloads') }}">{{ release }}</a></p>
           <h3>Latest commits</h3>
           <script language="JavaScript" src="http://landmark-project.com/feed2js/feed2js.php?src=http%3A%2F%2Fosgeo-org.1560.n6.nabble.com%2FGeoNetwork-users-f3860293.xml&amp;num=7&amp;targ=y&amp;utf=y"  charset="UTF-8" type="text/javascript"></script>
-          <span><a href="http://osgeo-org.1560.n6.nabble.com/GeoNetwork-users-f3860293.html">Join the discussion</a></span>
+          <span><a class="btn" href="http://osgeo-org.1560.n6.nabble.com/GeoNetwork-users-f3860293.html">Join the discussion</a></span>
         </div>
       {%- endif %}
     
+      {%- if pagename in ['downloads', 'community', 'news', 'gallery', 'search', 'docs'] %}
       <div class="section">
         <a href="{{ pathto('acknowledgements/acknowledgements.html', 1) }}">
           <h3>Acknowledgements</h3>
         </a>
         <div class="acklist">
-          <a href="http://camptocamp.com" alt="Camptocamp - Innovative Solutions by Open Source Experts" target="_blank"><img src="{{ pathto('_static/camptocamp.svg', 1) }}" width="135px" /></a>
-          <a href="http://geocat.net" alt="GeoCat bv - Government Geographic Data Publishing" class="contrast" target="_blank"><img src="{{ pathto('_static/geocat-logo.png', 1) }}" width="150" /></a>
-          <a href="http://titellus.net" alt="titellus" target="_blank"><img src="{{ pathto('_static/titellus.png', 1) }}" width="135px" /></a>
+          <a href="http://camptocamp.com" alt="Camptocamp - Innovative Solutions by Open Source Experts" target="_blank">
+            Camptocamp
+            <!-- <img src="{{ pathto('_static/camptocamp.svg', 1) }}" width="135px" /> -->
+          </a>
+          <a href="http://geocat.net" alt="GeoCat bv - Government Geographic Data Publishing" class="contrast" target="_blank">
+            GeoCat
+            <!-- <img src="{{ pathto('_static/geocat-logo.png', 1) }}" width="150" /> -->
+          </a>
+          <a href="http://titellus.net" alt="titellus" target="_blank">
+            Titellus
+            <!-- <img src="{{ pathto('_static/titellus.png', 1) }}" width="135px" /> -->
+          </a>
         </div>
       </div>
+      {%- endif %}
+
     </div> 
   </div><!-- /.wrap> -->
 </div><!-- /#footer --> 
