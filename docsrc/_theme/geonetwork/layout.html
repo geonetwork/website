@@ -264,7 +264,7 @@
       {%- if pagename in ['index', 'community', 'news', 'gallery', 'search', 'docs'] %}
         <div class="section">
           <h3>Download</h3>
-          <p>Current release: <a href="https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v{{ release }}">{{ release }}</a></p>
+          <p>Current release: <a class="version" href="https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v{{ release }}">{{ release }}</a></p>
           <h3>Latest posts</h3>
           <script language="JavaScript" src="http://landmark-project.com/feed2js/feed2js.php?src=http%3A%2F%2Fosgeo-org.1560.n6.nabble.com%2FGeoNetwork-users-f3860293.xml&amp;num=7&amp;targ=y&amp;utf=y"  charset="UTF-8" type="text/javascript"></script>
           <span><a class="btn" href="http://osgeo-org.1560.n6.nabble.com/GeoNetwork-users-f3860293.html">Join the discussion</a></span>
@@ -274,7 +274,7 @@
       {%- if pagename in ['downloads'] %}
         <div class="section">
           <h3>Download</h3>
-          <p>Current release: <a href="{{ pathto('downloads') }}">{{ release }}</a></p>
+          <p>Current release: <a class="version" href="{{ pathto('downloads') }}">{{ release }}</a></p>
           <h3>Latest commits</h3>
           <script language="JavaScript" src="http://landmark-project.com/feed2js/feed2js.php?src=http%3A%2F%2Fosgeo-org.1560.n6.nabble.com%2FGeoNetwork-users-f3860293.xml&amp;num=7&amp;targ=y&amp;utf=y"  charset="UTF-8" type="text/javascript"></script>
           <span><a class="btn" href="http://osgeo-org.1560.n6.nabble.com/GeoNetwork-users-f3860293.html">Join the discussion</a></span>

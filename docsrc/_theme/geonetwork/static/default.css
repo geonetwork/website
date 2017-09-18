@@ -962,6 +962,10 @@ Footer
   color: #000;
   background: #79abab;
 }
+#footer .version {
+  font-size: 26px;
+  margin: 5px 0;
+}
 #footer .acklist a {
   line-height: 1.7;
   font-size: 14px;
