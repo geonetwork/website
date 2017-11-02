@@ -51,7 +51,7 @@ Data portal screenshots
 Dutch National Georegistry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: dutch_national_georegistry.png
+.. image:: nationaalgeoregister.png
     :width: 440 px
 
 http://www.nationaalgeoregister.nl
@@ -59,7 +59,7 @@ http://www.nationaalgeoregister.nl
 SwissTopo geocat.ch
 ^^^^^^^^^^^^^^^^^^^
 
-.. image:: geocat.ch.png
+.. image:: geocat.png
     :width: 440 px
 
 http://www.geocat.ch
