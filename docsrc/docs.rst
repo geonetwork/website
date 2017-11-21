@@ -41,7 +41,7 @@ Version Unstable
 Version 3.2.2
 """""""""""""
 
-* User guide (`english <manuals/3.2.2/eng/users/index.html>`_ | `french <manuals/3.2.2/fra/users/index.html>`_) - currently being updated
+* User guide (`english <manuals/3.2.2/eng/users/html/index.html>`_ | `french <manuals/3.2.2/fra/users/html/index.html>`_) - currently being updated
 
 * `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/3.2.2/software_development>`_
 
