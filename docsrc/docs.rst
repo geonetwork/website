@@ -9,33 +9,33 @@ User and developer manuals
 Version 3.4.x
 """""""""""""
 
-* `Catalan <manuals/3.4.x/ca/index.html>`_ 
-* `Česky <manuals/3.4.x/cz/index.html>`_
-* `English <manuals/3.4.x/en/index.html>`_
-* `Español <manuals/3.4.x/es/index.html>`_
-* `Suomalainen <manuals/3.4.x/fi/index.html>`_
-* `Français <manuals/3.4.x/fr/index.html>`_
-* `Deutsch <manuals/3.4.x/ge/index.html>`_
-* `Íslensku <manuals/3.4.x/is/index.html>`_
-* `Italiano <manuals/3.4.x/it/index.html>`_
-* `한국어 <manuals/3.4.x/ko/index.html>`_
-* `Nederlands <manuals/3.4.x/nl/index.html>`_
+* `Catalan <manuals/3.4.x/ca/html/index.html>`_ 
+* `Česky <manuals/3.4.x/cz/html/index.html>`_
+* `English <manuals/3.4.x/en/html/index.html>`_
+* `Español <manuals/3.4.x/es/html/index.html>`_
+* `Suomalainen <manuals/3.4.x/fi/html/index.html>`_
+* `Français <manuals/3.4.x/fr/html/index.html>`_
+* `Deutsch <manuals/3.4.x/ge/html/index.html>`_
+* `Íslensku <manuals/3.4.x/is/html/index.html>`_
+* `Italiano <manuals/3.4.x/it/html/index.html>`_
+* `한국어 <manuals/3.4.x/ko/html/index.html>`_
+* `Nederlands <manuals/3.4.x/nl/html/index.html>`_
 
 
 Version Unstable
 """"""""""""""""
 
-* `Catalan <manuals/trunk/ca/index.html>`_ 
-* `Česky <manuals/trunk/cz/index.html>`_
-* `English <manuals/trunk/en/index.html>`_
-* `Español <manuals/trunk/es/index.html>`_
-* `Suomalainen <manuals/trunk/fi/index.html>`_
-* `Français <manuals/trunk/fr/index.html>`_
-* `Deutsch <manuals/trunk/ge/index.html>`_
-* `Íslensku <manuals/trunk/is/index.html>`_
-* `Italiano <manuals/trunk/it/index.html>`_
-* `한국어 <manuals/trunk/ko/index.html>`_
-* `Nederlands <manuals/trunk/nl/index.html>`_
+* `Catalan <manuals/trunk/ca/html/index.html>`_ 
+* `Česky <manuals/trunk/cz/html/index.html>`_
+* `English <manuals/trunk/en/html/index.html>`_
+* `Español <manuals/trunk/es/html/index.html>`_
+* `Suomalainen <manuals/trunk/fi/html/index.html>`_
+* `Français <manuals/trunk/fr/html/index.html>`_
+* `Deutsch <manuals/trunk/ge/html/index.html>`_
+* `Íslensku <manuals/trunk/is/html/index.html>`_
+* `Italiano <manuals/trunk/it/html/index.html>`_
+* `한국어 <manuals/trunk/ko/html/index.html>`_
+* `Nederlands <manuals/trunk/nl/html/index.html>`_
 
 	
 Version 3.2.2
