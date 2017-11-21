@@ -6,20 +6,47 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Version 3.4.x
+"""""""""""""
+
+* `Catalan <manuals/3.4.x/ca/index.html>`_ 
+* `Česky <manuals/3.4.x/cz/index.html>`_
+* `English <manuals/3.4.x/en/index.html>`_
+* `Español <manuals/3.4.x/es/index.html>`_
+* `Suomalainen <manuals/3.4.x/fi/index.html>`_
+* `Français <manuals/3.4.x/fr/index.html>`_
+* `Deutsch <manuals/3.4.x/ge/index.html>`_
+* `Íslensku <manuals/3.4.x/is/index.html>`_
+* `Italiano <manuals/3.4.x/it/index.html>`_
+* `한국어 <manuals/3.4.x/ko/index.html>`_
+* `Nederlands <manuals/3.4.x/nl/index.html>`_
+
+
+Version Unstable
+""""""""""""""""
+
+* `Catalan <manuals/trunk/ca/index.html>`_ 
+* `Česky <manuals/trunk/cz/index.html>`_
+* `English <manuals/trunk/en/index.html>`_
+* `Español <manuals/trunk/es/index.html>`_
+* `Suomalainen <manuals/trunk/fi/index.html>`_
+* `Français <manuals/trunk/fr/index.html>`_
+* `Deutsch <manuals/trunk/ge/index.html>`_
+* `Íslensku <manuals/trunk/is/index.html>`_
+* `Italiano <manuals/trunk/it/index.html>`_
+* `한국어 <manuals/trunk/ko/index.html>`_
+* `Nederlands <manuals/trunk/nl/index.html>`_
+
+	
 Version 3.2.2
 """""""""""""
 
-* User guide (`english <manuals/trunk/eng/users/index.html>`_ | `french <manuals/trunk/fra/users/index.html>`_) - currently being updated
+* User guide (`english <manuals/3.2.2/eng/users/index.html>`_ | `french <manuals/3.2.2/fra/users/index.html>`_) - currently being updated
 
-* `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_
+* `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/3.2.2/software_development>`_
 
 * Javadocs:
 	* `GeoNetwork <manuals/3.0.0/eng/developer/apidocs/geonetwork/index.html>`_ - GeoNetwork javadocs.
-
-Version 3.0.5
-"""""""""""""
-
-* User guide (`english <manuals/3.0.5/eng/users/index.html>`_ | `french <manuals/3.0.5/fra/users/index.html>`_)
 
 Version 2.10
 """"""""""""
