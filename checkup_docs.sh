@@ -22,8 +22,6 @@ if [ ! -e "latest" ]; then
   git clone git://github.com/geonetwork/core-geonetwork.git latest;
 else 
   cd $current_dir/latest;   
-  git clean -ffxd;   
-  git reset --hard;
   git pull 
 fi
 
@@ -49,8 +47,6 @@ fi
 cd $current_dir/210x 
 echo "==========> Cleanup repository"
 git fetch --tags
-git clean -ffxd;   
-git reset --hard; 
 echo "==========> Checkout tag "$tag210
 git checkout tags/$tag210
 git submodule update --init
@@ -73,8 +69,6 @@ if [ ! -e "doc"$tagold ]; then
 else 
   echo "==========> Cleanup repository"
   cd $current_dir/doc$tagold;   
-  git clean -ffxd;   
-  git reset --hard; 
 fi
 
 echo "=======> Build "$tagold" branch manuals"
@@ -107,12 +101,9 @@ else
   echo "==========> Checkout tag "$current
   if git show-ref --quiet refs/heads/$current; then   
     git checkout $current
-    git pull
   else
     git checkout --track $current
   fi
-  git clean -ffxd;   
-  git reset --hard; 
   git pull
 fi
 
@@ -136,8 +127,7 @@ if [ ! -e "doc" ]; then
   git clone https://github.com/geonetwork/doc.git doc; 
 else 
   cd $current_dir/doc;   
-  git clean -ffxd;   
-  git reset --hard; 
+  git pull
 fi
 
 echo "=======> Build develop branch manuals"
