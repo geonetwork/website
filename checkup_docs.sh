@@ -83,7 +83,7 @@ else
 fi
 git submodule update --init
 echo "=======> Build "$tagold" manuals"
-mvn -q clean install -DskipTests
+mvn -q clean install -DskipTests -Dlatest
 echo "=======> "$branchold" manual created"
 cd ..
 
