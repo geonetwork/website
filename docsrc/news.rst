@@ -3,6 +3,15 @@
 News
 ====
 
+GeoNetwork opensource v3.4.0 released
+------------------------------------------------
+
+Date: 7 December 2017
+
+We're pleased to announce the new major release 3.4.0 of GeoNetwork opensource.
+Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.4.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
 
 GeoNetwork opensource v3.2.1 released
 ------------------------------------------------
@@ -10,7 +19,7 @@ GeoNetwork opensource v3.2.1 released
 Date: 10 February 2017
 
 We're pleased to announce the maintenance release 3.2.1 of GeoNetwork opensource.
-Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.2.1.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <manuals/3.2.2/eng/users/html/overview/change-log/version-3.2.1.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -21,7 +30,7 @@ GeoNetwork opensource v3.2.0 and v3.0.5 released
 Date: 28 September 2016
 
 We're pleased to announce the maintenance release v3.0.5 and the new major release 3.2.0 of GeoNetwork opensource.
-Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.2.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <manuals/3.2.2/eng/users/html/overview/change-log/version-3.2.0.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -42,7 +51,7 @@ GeoNetwork opensource v3.0.4 released
 Date: 18 March 2016
 
 We're pleased to announce the release v3.0.4 of GeoNetwork opensource.
-Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.0.4.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <manuals/3.2.2/eng/users/html/overview/change-log/version-3.0.4.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -53,7 +62,7 @@ GeoNetwork opensource v3.0.3 released
 Date: 15 December 2015
 
 We're pleased to announce the release v3.0.3 of GeoNetwork opensource.
-Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.0.4.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <manuals/3.2.2/eng/users/html/overview/change-log/version-3.0.3.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -64,7 +73,7 @@ GeoNetwork opensource v3.0.2 released
 Date: 8 September 2015
 
 We're pleased to announce the release v3.0.2 of GeoNetwork opensource.
-Check the `changelog </manuals/trunk/eng/users/overview/change-log/version-3.0.2.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <manuals/3.2.2/eng/users/html/overview/change-log/version-3.0.2.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
