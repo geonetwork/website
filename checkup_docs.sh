@@ -5,98 +5,142 @@ export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=256M"
 current_dir=$(pwd)
 
 tag210='2.10.4'
-tagold='3.0.5'
+tagold='3.2.2'
+branchold='3.2.x'
+current='3.4.x'
 
-echo "=======> Website creation started"
+echo "=> WEBSITE CREATION STARTED"
 
 # -------------------------------------------------------
 # GIT ---------------------------------------------------
 # -------------------------------------------------------
 
 # Download from GitHub master to 'latest' folder"
-echo "=======> Download from GitHub develop branch to 'latest' folder"
+echo "=======> Downloading from GitHub develop branch to 'latest' folder"
 
-rm -rf latest
-git clone git://github.com/geonetwork/core-geonetwork.git latest
+if [ ! -e "latest" ]; then 
+  git clone git://github.com/geonetwork/core-geonetwork.git latest;
+else 
+  cd $current_dir/latest;   
+  git pull 
+fi
 
 cd $current_dir/latest
-git checkout -b develop --track origin/develop
+if git show-ref --quiet refs/heads/develop; then   
+  git checkout develop
+  git pull
+else
+  git checkout --track develop
+fi
 git submodule update --init
+
+# -------------------------------------------------------
+# 2.10.4 branch documentation ---------------------------
+# -------------------------------------------------------
 
 # Create folder for 2.10.x branch to '210x' folder
-echo "=======> Create folder for 2.10.x branch"
-
+echo "=======> Create folder for 2.10.x branch (tag "$tag210")"
 cd $current_dir
-rm -rf 210x
-cp -R latest 210x
-cd $current_dir/210x
+if [ ! -e "210x" ]; then 
+  cp -R latest 210x
+fi
+cd $current_dir/210x 
+echo "==========> Cleanup repository"
 git fetch --tags
+echo "==========> Checkout tag "$tag210
 git checkout tags/$tag210
 git submodule update --init
-git clean -fxd
 
-# Download from GitHub docs to 'doc' folder
-echo "=======> Download from GitHub docs to 'doc' folder"
-cd $current_dir
-rm -rf doc
-git clone https://github.com/geonetwork/doc.git
-
-
-# Download from GitHub docs to 'doc' folder
-echo "=======> Download from GitHub docs to 'doc' folder"
-cd $current_dir
-rm -rf doc$tagold
-git clone https://github.com/geonetwork/doc.git doc$tagold
-
+echo "=========> Build "$tag210" branch manuals"
+# Build website docs for 2.10.x tag
+cd docs
+mvn -q clean install -DskipTests
+echo "=========> "$tag210"  manuals created"
 
 # -------------------------------------------------------
-# 3.0.x branch documentation ---------------------------
+# 3.x.y branch documentation ---------------------------
 # -------------------------------------------------------
 
-echo "=======> Build old stable branch manuals"
-pwd
+# Download from GitHub docs to 'doc' folder
+echo "=======> Create folder for old stable 3.x.y branch (tag "$tagold")"
+cd $current_dir
+if [ ! -e "doc"$tagold ]; then 
+  git clone https://github.com/geonetwork/doc.git doc$tagold; 
+else 
+  echo "==========> Cleanup repository"
+  cd $current_dir/doc$tagold;   
+fi
+
+echo "=======> Build "$tagold" branch manuals"
 cd $current_dir/doc$tagold
+echo "==========> Checkout branch "$branchold
 git fetch --tags
-git checkout tags/$tagold
+if git show-ref --quiet refs/heads/$branchold; then   
+  git checkout $branchold
+  git pull
+else
+  git checkout --track $branchold
+fi
 git submodule update --init
-git clean -fxd
-mvn clean install
+echo "=======> Build "$tagold" manuals"
+mvn -q clean install -DskipTests -Dlatest
+echo "=======> "$branchold" manual created"
 cd ..
 
+
+# Download from GitHub docs to 'doc' folder
+echo "=======> Create folder for old stable 3.x.y branch (tag "$current")"
+cd $current_dir
+if [ ! -e "doc"$current ]; then 
+  git clone https://github.com/geonetwork/doc.git doc$current; 
+  echo "==========> Checkout tag "$current
+  cd doc$current
+  git checkout --track $current
+else 
+  cd $current_dir/doc$current;     
+  echo "==========> Checkout tag "$current
+  if git show-ref --quiet refs/heads/$current; then   
+    git checkout $current
+  else
+    git checkout --track $current
+  fi
+  git pull
+fi
+
+echo "=======> Build "$current" branch manuals"
+git submodule update --init
+echo "=======> Build "$current" manuals"
+mvn -q clean install -DskipTests -Dlatest
+echo "=======> "$current" manuals created"
+cd ..
 
 
 # -------------------------------------------------------
 # Develop branch documentation ---------------------------
 # -------------------------------------------------------
 
-#echo "=======> Build develop branch javadocs"
-# Build javadoc for trunk
-#cd latest
-#mvn clean site
+
+# Download from GitHub docs to 'doc' folder
+echo "==========> Create folder for stable 3.x.y branch (latest)"
+cd $current_dir
+if [ ! -e "doc" ]; then 
+  git clone https://github.com/geonetwork/doc.git doc; 
+else 
+  cd $current_dir/doc;   
+  git pull
+fi
 
 echo "=======> Build develop branch manuals"
-pwd
 cd $current_dir/doc
-mvn clean install
+echo "=======> Build latest manuals"
+mvn -q clean install -DskipTests -Dlatest
+echo "=======> latest manuals created"
 
 
-# -------------------------------------------------------
-# 2.10.x documentation ----------------------------------
-# -------------------------------------------------------
-
-echo "=======> Build 2.10.x branch manuals"
-# Build website docs for 2.10.x tag
-cd $current_dir/210x/docs
-mvn install
-
-
-# -------------------------------------------------------
-# geonetwork-opensource website -------------------------
-# -------------------------------------------------------
 
 # Build geonetwork-opensource website
 # -------------------------------------------------------
-echo "=======> Build website"
+echo "=> Build website"
 
 cd $current_dir/docsrc
 make clean
@@ -105,13 +149,14 @@ make html
 # Copy GeoNetwork manuals to website folder (trunk)
 # -------------------------------------------------------
 echo "=======> Copy GeoNetwork 3.x.y docs to website folder"
-#mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apidocs/geonetwork
-#mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/developer/apidocs/jeeves
-mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/users
-mkdir -p $current_dir/docsrc/build/html/manuals/trunk/fra/users
-
 mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/eng/users
 mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/fra/users
+
+mkdir -p $current_dir/docsrc/build/html/manuals/$current/eng/users
+mkdir -p $current_dir/docsrc/build/html/manuals/$current/fra/users
+
+mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/users
+mkdir -p $current_dir/docsrc/build/html/manuals/trunk/fra/users
 
 # ... Users
 cd $current_dir/doc$tagold/target/doc/en/
@@ -119,10 +164,21 @@ cp -R * $current_dir/docsrc/build/html/manuals/$tagold/eng/users
 cd $current_dir/doc$tagold/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/$tagold/fra/users
 
+cd $current_dir/doc$current/target/doc/en/
+cp -R * $current_dir/docsrc/build/html/manuals/$current/eng/users
+cd $current_dir/doc$current/target/doc/fr/
+cp -R * $current_dir/docsrc/build/html/manuals/$current/fra/users
+
 cd $current_dir/doc/target/doc/en/
 cp -R * $current_dir/docsrc/build/html/manuals/trunk/eng/users
 cd $current_dir/doc/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/trunk/fra/users
+
+#Copy i18n manuals
+cp -R $current_dir/doc$tagold/target/doc/* $current_dir/docsrc/build/html/manuals/$tagold/
+cp -R $current_dir/doc$current/target/doc/* $current_dir/docsrc/build/html/manuals/$current/
+cp -R $current_dir/doc/target/doc/* $current_dir/docsrc/build/html/manuals/trunk/
+
 
 # Copy docs to website folder (2.10.x)
 # -------------------------------------------------------
