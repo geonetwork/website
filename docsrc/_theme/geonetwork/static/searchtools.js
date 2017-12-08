@@ -462,6 +462,17 @@ var Search = {
   }
 }
 
+function toggleSearch() {
+
+  var $searchBox = $('#search-container');
+
+  if ($searchBox.is(':visible')) {
+    $searchBox.hide();
+  } else {
+    $searchBox.show();
+  }
+}
+
 $(document).ready(function() {
   Search.init();
 });
