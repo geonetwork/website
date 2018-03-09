@@ -6,7 +6,7 @@ Download GeoNetwork
 Releases
 --------
 
- * `v3.4.0 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.4.0/>`_
+ * `v3.4.1 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.4.1/>`_
 
  * `v3.2.2  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.2.2/>`_
  
