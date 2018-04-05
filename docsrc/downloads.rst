@@ -13,6 +13,8 @@ Releases
  * `v3.0.5 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.0.5/>`_
 
  * `All releases <http://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource>`_
+ 
+ * `Nightly builds <http://nightlybuild.geonetwork-opensource.org/>`_
 
  * `Development releases (unstable)  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork%20unstable%20development%20versions/>`_
 
