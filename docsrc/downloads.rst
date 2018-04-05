@@ -16,7 +16,7 @@ Releases
  
  * `Nightly builds <http://nightlybuild.geonetwork-opensource.org/>`_
 
- * `Development releases (unstable)  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork%20unstable%20development%20versions/>`_
+ * `Development releases (unstable)  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_unstable_development_versions//>`_
 
 Source code
 -----------
