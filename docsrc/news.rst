@@ -3,13 +3,24 @@
 News
 ====
 
+GeoNetwork opensource v3.4.2 released
+------------------------------------------------
+
+Date: 4 May 2018
+
+We're pleased to announce the maintenance release 3.4.2 of GeoNetwork opensource.
+Check the `changelog </manuals/3.4.x/en/overview/change-log/version-3.4.2.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v3.4.1 released
 ------------------------------------------------
 
 Date: 15 December 2017
 
 We're pleased to announce the maintenance release 3.4.1 of GeoNetwork opensource.
-Check the `changelog </manuals/3.2.2/eng/users/html/overview/change-log/version-3.4.1.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/3.4.x/en/overview/change-log/version-3.4.0.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -19,7 +30,7 @@ GeoNetwork opensource v3.4.0 released
 Date: 7 December 2017
 
 We're pleased to announce the new major release 3.4.0 of GeoNetwork opensource.
-Check the `changelog </manuals/3.2.2/eng/users/html/overview/change-log/version-3.4.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/3.4.x/en/overview/change-log/version-3.4.0.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
