@@ -2,6 +2,13 @@
 
 export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=256M"
 
+if [ $1 == "--help" ]; then
+  echo "Usage: ./checkup_docs only for basic english version"
+  echo "Usage: ./checkup_docs -Pall for all languages using cached translations"
+  echo "Usage: ./checkup_docs -Platest,all for all languages using latest translations on transifex"
+  exit 0;
+fi
+
 current_dir=$(pwd)
 
 tag210='2.10.4'
@@ -83,7 +90,7 @@ else
 fi
 git submodule update --init
 echo "=======> Build "$tagold" manuals"
-mvn -q clean install -DskipTests -Dlatest
+mvn -q clean install $1
 echo "=======> "$branchold" manual created"
 cd ..
 
@@ -110,7 +117,7 @@ fi
 echo "=======> Build "$current" branch manuals"
 git submodule update --init
 echo "=======> Build "$current" manuals"
-mvn -q clean install -DskipTests -Dlatest
+mvn -q clean install -DskipTests $1
 echo "=======> "$current" manuals created"
 cd ..
 
@@ -133,7 +140,7 @@ fi
 echo "=======> Build develop branch manuals"
 cd $current_dir/doc
 echo "=======> Build latest manuals"
-mvn -q clean install -DskipTests -Dlatest
+mvn -q clean install -DskipTests -Dlatest,all
 echo "=======> latest manuals created"
 
 
