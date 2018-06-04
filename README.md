@@ -27,7 +27,11 @@ sudo pip install sphinx_rtd_theme
 ```
 
 The internationalization is build used [sphinx-intl](http://www.sphinx-doc.org/es/stable/intl.html)
-You can install it by pip install sphinx-intl or easy_install sphinx-intl.
+You can install it with:
+
+```
+sudo pip install sphinx-intl
+```
 
 To download the translations from Transifex (optional), you will need the transifex command line client:
 https://docs.transifex.com/client/installing-the-client
