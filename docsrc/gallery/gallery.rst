@@ -56,13 +56,13 @@ Dutch National Georegistry
 
 http://www.nationaalgeoregister.nl
 
-SwissTopo geocat.ch
-^^^^^^^^^^^^^^^^^^^
+Swiss Geographic Catalogue
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: geocat.png
     :width: 440 px
 
-http://www.geocat.ch
+https://www.geocat.ch
 
 
 GeoNetwork nodes
