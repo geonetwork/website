@@ -11,15 +11,17 @@ Version 3.4.x
 
 * `Catalan <manuals/3.4.x/ca/index.html>`_ 
 * `Česky <manuals/3.4.x/cz/index.html>`_
+* `Deutsch <manuals/3.4.x/ge/index.html>`_
 * `English <manuals/3.4.x/en/index.html>`_
 * `Español <manuals/3.4.x/es/index.html>`_
-* `Suomalainen <manuals/3.4.x/fi/index.html>`_
 * `Français <manuals/3.4.x/fr/index.html>`_
-* `Deutsch <manuals/3.4.x/ge/index.html>`_
 * `Íslensku <manuals/3.4.x/is/index.html>`_
 * `Italiano <manuals/3.4.x/it/index.html>`_
 * `한국어 <manuals/3.4.x/ko/index.html>`_
 * `Nederlands <manuals/3.4.x/nl/index.html>`_
+* `Portuguese (BR) <manuals/3.4.x/pt_BR/index.html>`_
+* `Suomalainen <manuals/3.4.x/fi/index.html>`_
+* `српски <manuals/3.4.x/sr/index.html>`_
 
 
 Version Unstable
@@ -27,15 +29,17 @@ Version Unstable
 
 * `Catalan <manuals/trunk/ca/index.html>`_ 
 * `Česky <manuals/trunk/cz/index.html>`_
+* `Deutsch <manuals/trunk/ge/index.html>`_
 * `English <manuals/trunk/en/index.html>`_
 * `Español <manuals/trunk/es/index.html>`_
-* `Suomalainen <manuals/trunk/fi/index.html>`_
 * `Français <manuals/trunk/fr/index.html>`_
-* `Deutsch <manuals/trunk/ge/index.html>`_
 * `Íslensku <manuals/trunk/is/index.html>`_
 * `Italiano <manuals/trunk/it/index.html>`_
 * `한국어 <manuals/trunk/ko/index.html>`_
 * `Nederlands <manuals/trunk/nl/index.html>`_
+* `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`_
+* `Suomalainen <manuals/trunk/fi/index.html>`_
+* `српски <manuals/trunk/sr/index.html>`_
 
 	
 Version 3.2.2
