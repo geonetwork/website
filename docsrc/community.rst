@@ -34,19 +34,13 @@ below:
    from unsubscribed people are rejected with no notification sent to the
    mailing list administrator.
 
-IRC
----
+Discussions
+-----------
 
-GeoNetwork has a an IRC channel hosted on `Freenode <http://freenode.net/>`_. You
-can use the following information to connect.
+GeoNetwork has a gitter channel https://gitter.im/geonetwork/core-geonetwork that you can join.
 
-* Server: irc.freenode.net
-* Channel: `#geonetwork <irc://irc.freenode.net/#geonetwork>`_
-
-For a history of previous activity on the channel, search the `archives
+For a history of previous activity on the IRC channel, search the `archives
 <http://irclogs.geoapt.com/geonetwork/>`_.
-
-IRC meetings take place on Tuesdays at 11:00 hours GMT+1 (Amsterdam)
 
 
 
