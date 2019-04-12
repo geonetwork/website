@@ -42,15 +42,23 @@ Version Unstable
 * `српски <manuals/trunk/sr/index.html>`_
 
 	
-Version 3.2.2
+Version 3.4.4
 """""""""""""
 
-* User guide (`english <manuals/3.2.2/eng/users/html/index.html>`_ | `french <manuals/3.2.2/fra/users/html/index.html>`_) - currently being updated
+* `Catalan <manuals/3.4.4/ca/index.html>`_ 
+* `Česky <manuals/3.4.4/cz/index.html>`_
+* `Deutsch <manuals/3.4.4/ge/index.html>`_
+* `English <manuals/3.4.4/en/index.html>`_
+* `Español <manuals/3.4.4/es/index.html>`_
+* `Français <manuals/3.4.4/fr/index.html>`_
+* `Íslensku <manuals/3.4.4/is/index.html>`_
+* `Italiano <manuals/3.4.4/it/index.html>`_
+* `한국어 <manuals/3.4.4/ko/index.html>`_
+* `Nederlands <manuals/3.4.4/nl/index.html>`_
+* `Portuguese (BR) <manuals/3.4.4/pt_BR/index.html>`_
+* `Suomalainen <manuals/3.4.4/fi/index.html>`_
+* `српски <manuals/3.4.4/sr/index.html>`_
 
-* `Developer guide <https://github.com/geonetwork/core-geonetwork/tree/3.2.2/software_development>`_
-
-* Javadocs:
-	* `GeoNetwork <manuals/3.0.0/eng/developer/apidocs/geonetwork/index.html>`_ - GeoNetwork javadocs.
 
 Version 2.10
 """"""""""""
