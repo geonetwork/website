@@ -3,6 +3,17 @@
 News
 ====
 
+GeoNetwork opensource v3.8.0 released
+------------------------------------------------
+
+Date: 26 August 2019
+
+We're pleased to announce the new major release 3.8.0 of GeoNetwork opensource.
+Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v3.6.0 released
 ------------------------------------------------
 
