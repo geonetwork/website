@@ -12,9 +12,9 @@ fi
 current_dir=$(pwd)
 
 tag210='2.10.4'
-tagold='3.4.4'
-branchold='3.4.x'
-current='3.6.x'
+tagold='3.6.0'
+branchold='3.6.x'
+current='3.8.x'
 
 echo "=> WEBSITE CREATION STARTED"
 
