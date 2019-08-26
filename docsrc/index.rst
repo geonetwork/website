@@ -143,7 +143,7 @@ using Bootstrap themes.
 
 
 GeoNetwork provides a plugin mechanism for creating your own metadata schema (
-eg. `ISO19115-3 plugin <https://github.com/metadata101/iso19115-3>`_).
+eg. `ISO19115-3 plugin <https://github.com/metadata101/iso19115-3.2018>`_).
 
 
 OpenSource & standards
