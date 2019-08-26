@@ -14,6 +14,22 @@ Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.0.html>`
 Thanks and congratulations to the all community members!
 
 
+GeoNetwork opensource at FOSS4G 2019 Bucharest
+----------------------------------------------
+
+Date: 26 August 2019
+
+Learn more about GeoNetwork at FOSS4G Bucharest:
+
+* Workshop: Introduction to GeoNetwork Opensource, Tuesday 27 at 09h00
+* Workshop: GeoNetwork Advanced: User Interface and Schema customization, Tuesday 27 at 14h00
+* Presentation: Metadata workflow, history and draft in GeoNetwork, Thursday at 11h00
+* Presentation: GeoNetwork Opensource: What’s Happening and Upcoming, Thursday at 17h00
+
+Check the `FOSS4G 2019 Bucharest <https://2019.foss4g.org/>`_ schedule.
+
+
+
 GeoNetwork opensource v3.6.0 released
 ------------------------------------------------
 
