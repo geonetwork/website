@@ -6,26 +6,8 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 3.8.x
-"""""""""""""
-
-* `Catalan <manuals/3.8.x/ca/index.html>`_ 
-* `Česky <manuals/3.8.x/cz/index.html>`_
-* `Deutsch <manuals/3.8.x/ge/index.html>`_
-* `English <manuals/3.8.x/en/index.html>`_
-* `Español <manuals/3.8.x/es/index.html>`_
-* `Français <manuals/3.8.x/fr/index.html>`_
-* `Íslensku <manuals/3.8.x/is/index.html>`_
-* `Italiano <manuals/3.8.x/it/index.html>`_
-* `한국어 <manuals/3.8.x/ko/index.html>`_
-* `Nederlands <manuals/3.8.x/nl/index.html>`_
-* `Portuguese (BR) <manuals/3.8.x/pt_BR/index.html>`_
-* `Suomalainen <manuals/3.8.x/fi/index.html>`_
-* `српски <manuals/3.8.x/sr/index.html>`_
-
-
-Version 3.6.x
-"""""""""""""
+Stable version (3.4/3.6/3.8)
+""""""""""""""""""""""""""""
 
 * `Catalan <manuals/3.6.x/ca/index.html>`_ 
 * `Česky <manuals/3.6.x/cz/index.html>`_
@@ -42,7 +24,7 @@ Version 3.6.x
 * `српски <manuals/3.6.x/sr/index.html>`_
 
 
-Version Unstable
+Unstable version
 """"""""""""""""
 
 * `Catalan <manuals/trunk/ca/index.html>`_ 
@@ -58,24 +40,6 @@ Version Unstable
 * `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`_
 * `Suomalainen <manuals/trunk/fi/index.html>`_
 * `српски <manuals/trunk/sr/index.html>`_
-
-
-Version 3.4.4
-"""""""""""""
-
-* `Catalan <manuals/3.4.4/ca/index.html>`_ 
-* `Česky <manuals/3.4.4/cz/index.html>`_
-* `Deutsch <manuals/3.4.4/ge/index.html>`_
-* `English <manuals/3.4.4/en/index.html>`_
-* `Español <manuals/3.4.4/es/index.html>`_
-* `Français <manuals/3.4.4/fr/index.html>`_
-* `Íslensku <manuals/3.4.4/is/index.html>`_
-* `Italiano <manuals/3.4.4/it/index.html>`_
-* `한국어 <manuals/3.4.4/ko/index.html>`_
-* `Nederlands <manuals/3.4.4/nl/index.html>`_
-* `Portuguese (BR) <manuals/3.4.4/pt_BR/index.html>`_
-* `Suomalainen <manuals/3.4.4/fi/index.html>`_
-* `српски <manuals/3.4.4/sr/index.html>`_
 
 
 Version 2.10
