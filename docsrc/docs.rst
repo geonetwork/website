@@ -9,19 +9,19 @@ User and developer manuals
 Stable version (3.4/3.6/3.8)
 """"""""""""""""""""""""""""
 
-* `Catalan <manuals/3.6.x/ca/index.html>`_ 
-* `Česky <manuals/3.6.x/cz/index.html>`_
-* `Deutsch <manuals/3.6.x/ge/index.html>`_
-* `English <manuals/3.6.x/en/index.html>`_
-* `Español <manuals/3.6.x/es/index.html>`_
-* `Français <manuals/3.6.x/fr/index.html>`_
-* `Íslensku <manuals/3.6.x/is/index.html>`_
-* `Italiano <manuals/3.6.x/it/index.html>`_
-* `한국어 <manuals/3.6.x/ko/index.html>`_
-* `Nederlands <manuals/3.6.x/nl/index.html>`_
-* `Portuguese (BR) <manuals/3.6.x/pt_BR/index.html>`_
-* `Suomalainen <manuals/3.6.x/fi/index.html>`_
-* `српски <manuals/3.6.x/sr/index.html>`_
+* `Catalan <manuals/3.8.x/ca/index.html>`_ 
+* `Česky <manuals/3.8.x/cz/index.html>`_
+* `Deutsch <manuals/3.8.x/ge/index.html>`_
+* `English <manuals/3.8.x/en/index.html>`_
+* `Español <manuals/3.8.x/es/index.html>`_
+* `Français <manuals/3.8.x/fr/index.html>`_
+* `Íslensku <manuals/3.8.x/is/index.html>`_
+* `Italiano <manuals/3.8.x/it/index.html>`_
+* `한국어 <manuals/3.8.x/ko/index.html>`_
+* `Nederlands <manuals/3.8.x/nl/index.html>`_
+* `Portuguese (BR) <manuals/3.8.x/pt_BR/index.html>`_
+* `Suomalainen <manuals/3.8.x/fi/index.html>`_
+* `српски <manuals/3.8.x/sr/index.html>`_
 
 
 Unstable version
