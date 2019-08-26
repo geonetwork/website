@@ -8,7 +8,7 @@ Releases
 
  * `v3.8.0 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.8.0/>`_
 
- * `v3.6.0 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.6.0/>`_
+ * `v3.6.0 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.6.0/>`_
 
  * `v3.4.4 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.4.4/>`_
 
