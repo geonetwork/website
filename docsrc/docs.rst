@@ -25,24 +25,6 @@ Stable version (3.4/3.6/3.8)
 
 
 
-Unstable version
-""""""""""""""""
-
-* `Catalan <manuals/trunk/ca/index.html>`_ 
-* `Česky <manuals/trunk/cz/index.html>`_
-* `Deutsch <manuals/trunk/ge/index.html>`_
-* `English <manuals/trunk/en/index.html>`_
-* `Español <manuals/trunk/es/index.html>`_
-* `Français <manuals/trunk/fr/index.html>`_
-* `Íslensku <manuals/trunk/is/index.html>`_
-* `Italiano <manuals/trunk/it/index.html>`_
-* `한국어 <manuals/trunk/ko/index.html>`_
-* `Nederlands <manuals/trunk/nl/index.html>`_
-* `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`_
-* `Suomalainen <manuals/trunk/fi/index.html>`_
-* `српски <manuals/trunk/sr/index.html>`_
-
-
 Version 2.10
 """"""""""""
 
