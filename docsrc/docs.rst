@@ -6,8 +6,8 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Stable version (3.4/3.6/3.8)
-""""""""""""""""""""""""""""
+Stable version (3.4/3.6/3.8/3.10)
+"""""""""""""""""""""""""""""""""
 
 * `Catalan <manuals/3.8.x/ca/index.html>`_ 
 * `Česky <manuals/3.8.x/cz/index.html>`_
