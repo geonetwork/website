@@ -3,6 +3,18 @@
 News
 ====
 
+GeoNetwork opensource v3.8.3 released
+------------------------------------------------
+
+Date: 22 January 2020
+
+We're pleased to announce the new maintenance release 3.8.4 of GeoNetwork opensource for users using 3.8 version. Remember that the current latest stable version is 3.10.0.
+Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.4.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
+
 GeoNetwork opensource v3.10.0 released
 ------------------------------------------------
 
