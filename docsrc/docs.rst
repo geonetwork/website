@@ -9,19 +9,19 @@ User and developer manuals
 Stable version
 """"""""""""""
 
-* `Catalan <manuals/trunk/ca/index.html>`__ ( `3.10 <manuals/3.10.x/ca/index.html>`__ | `3.8 <manuals/3.8.x/ca/index.html>`__ | `3.6 <manuals/3.6.x/ca/index.html>`__ | `3.4 <manuals/3.4.x/ca/index.html>`__ )
-* `Česky <manuals/trunk/cz/index.html>`__ ( `3.10 <manuals/3.10.x/cz/index.html>`__ | `3.8 <manuals/3.8.x/cz/index.html>`__ | `3.6 <manuals/3.6.x/cz/index.html>`__ | `3.4 <manuals/3.4.x/cz/index.html>`__ )
-* `Deutsch <manuals/trunk/ge/index.html>`__ ( `3.10 <manuals/3.10.x/ge/index.html>`__ | `3.8 <manuals/3.8.x/ge/index.html>`__ | `3.6 <manuals/3.6.x/ge/index.html>`__ | `3.4 <manuals/3.4.x/ge/index.html>`__ )
-* `English <manuals/trunk/en/index.html>`__ ( `3.10 <manuals/3.10.x/en/index.html>`__ | `3.8 <manuals/3.8.x/en/index.html>`__ | `3.6 <manuals/3.6.x/en/index.html>`__ | `3.4 <manuals/3.4.x/en/index.html>`__ )
-* `Español <manuals/trunk/es/index.html>`__ ( `3.10 <manuals/3.10.x/es/index.html>`__ | `3.8 <manuals/3.8.x/es/index.html>`__ | `3.6 <manuals/3.6.x/es/index.html>`__ | `3.4 <manuals/3.4.x/es/index.html>`__ )
-* `Français <manuals/trunk/fr/index.html>`__ ( `3.10 <manuals/3.10.x/fr/index.html>`__ | `3.8 <manuals/3.8.x/fr/index.html>`__ | `3.6 <manuals/3.6.x/fr/index.html>`__ | `3.4 <manuals/3.4.x/fr/index.html>`__ )
-* `Íslensku <manuals/trunk/is/index.html>`__ ( `3.10 <manuals/3.10.x/is/index.html>`__ | `3.8 <manuals/3.8.x/is/index.html>`__ | `3.6 <manuals/3.6.x/is/index.html>`__ | `3.4 <manuals/3.4.x/is/index.html>`__ )
-* `Italiano <manuals/trunk/it/index.html>`__ ( `3.10 <manuals/3.10.x/it/index.html>`__ | `3.8 <manuals/3.8.x/it/index.html>`__ | `3.6 <manuals/3.6.x/it/index.html>`__ | `3.4 <manuals/3.4.x/it/index.html>`__ )
-* `한국어 <manuals/trunk/ko/index.html>`__ ( `3.10 <manuals/3.10.x/ko/index.html>`__ | `3.8 <manuals/3.8.x/ko/index.html>`__ | `3.6 <manuals/3.6.x/ko/index.html>`__ | `3.4 <manuals/3.4.x/ko/index.html>`__ )
-* `Nederlands <manuals/trunk/nl/index.html>`__ ( `3.10 <manuals/3.10.x/nl/index.html>`__ | `3.8 <manuals/3.8.x/nl/index.html>`__ | `3.6 <manuals/3.6.x/nl/index.html>`__ | `3.4 <manuals/3.4.x/nl/index.html>`__ )
-* `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`__ ( `3.10 <manuals/3.10.x/pt_BR/index.html>`__ | `3.8 <manuals/3.8.x/pt_BR/index.html>`__ | `3.6 <manuals/3.6.x/pt_BR/index.html>`__ | `3.4 <manuals/3.4.x/pt_BR/index.html>`__ )
-* `Suomalainen <manuals/trunk/fi/index.html>`__ ( `3.10 <manuals/3.10.x/fi/index.html>`__ | `3.8 <manuals/3.8.x/fi/index.html>`__ | `3.6 <manuals/3.6.x/fi/index.html>`__ | `3.4 <manuals/3.4.x/fi/index.html>`__ )
-* `српски <manuals/trunk/sr/index.html>`__ ( `3.10 <manuals/3.10.x/sr/index.html>`__ | `3.8 <manuals/3.8.x/sr/index.html>`__ | `3.6 <manuals/3.6.x/sr/index.html>`__ | `3.4 <manuals/3.4.x/sr/index.html>`__ )
+* `Catalan <manuals/trunk/ca/index.html>`__ ( `3.10 <manuals/3.10.x/ca/index.html>`__ | `3.8 <manuals/3.8.x/ca/index.html>`__ )
+* `Česky <manuals/trunk/cz/index.html>`__ ( `3.10 <manuals/3.10.x/cz/index.html>`__ | `3.8 <manuals/3.8.x/cz/index.html>`__ )
+* `Deutsch <manuals/trunk/ge/index.html>`__ ( `3.10 <manuals/3.10.x/ge/index.html>`__ | `3.8 <manuals/3.8.x/ge/index.html>`__)
+* `English <manuals/trunk/en/index.html>`__ ( `3.10 <manuals/3.10.x/en/index.html>`__ | `3.8 <manuals/3.8.x/en/index.html>`__)
+* `Español <manuals/trunk/es/index.html>`__ ( `3.10 <manuals/3.10.x/es/index.html>`__ | `3.8 <manuals/3.8.x/es/index.html>`__)
+* `Français <manuals/trunk/fr/index.html>`__ ( `3.10 <manuals/3.10.x/fr/index.html>`__ | `3.8 <manuals/3.8.x/fr/index.html>`__)
+* `Íslensku <manuals/trunk/is/index.html>`__ ( `3.10 <manuals/3.10.x/is/index.html>`__ | `3.8 <manuals/3.8.x/is/index.html>`__ )
+* `Italiano <manuals/trunk/it/index.html>`__ ( `3.10 <manuals/3.10.x/it/index.html>`__ | `3.8 <manuals/3.8.x/it/index.html>`__ )
+* `한국어 <manuals/trunk/ko/index.html>`__ ( `3.10 <manuals/3.10.x/ko/index.html>`__ | `3.8 <manuals/3.8.x/ko/index.html>`__ )
+* `Nederlands <manuals/trunk/nl/index.html>`__ ( `3.10 <manuals/3.10.x/nl/index.html>`__ | `3.8 <manuals/3.8.x/nl/index.html>`__ )
+* `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`__ ( `3.10 <manuals/3.10.x/pt_BR/index.html>`__ | `3.8 <manuals/3.8.x/pt_BR/index.html>`__ )
+* `Suomalainen <manuals/trunk/fi/index.html>`__ ( `3.10 <manuals/3.10.x/fi/index.html>`__ | `3.8 <manuals/3.8.x/fi/index.html>`__ )
+* `српски <manuals/trunk/sr/index.html>`__ ( `3.10 <manuals/3.10.x/sr/index.html>`__ | `3.8 <manuals/3.8.x/sr/index.html>`__ )
 
 Version 2.10
 """"""""""""
