@@ -1,6 +1,7 @@
 #!/bin/bash
 
 export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=256M"
+MAVEN_PROFILES=$1
 
 if [ $1 == "--help" ]; then
   echo "Usage: ./checkup_docs only for basic english version"
@@ -90,7 +91,7 @@ else
 fi
 git submodule update --init
 echo "=======> Build "$tagold" manuals"
-mvn -q clean install $1
+mvn -q clean install $MAVEN_PROFILES
 echo "=======> "$branchold" manual created"
 cd ..
 
@@ -117,7 +118,7 @@ fi
 echo "=======> Build "$current" branch manuals"
 git submodule update --init
 echo "=======> Build "$current" manuals"
-mvn -q clean install -DskipTests $1
+mvn -q clean install -DskipTests $MAVEN_PROFILES
 echo "=======> "$current" manuals created"
 cd ..
 
@@ -140,7 +141,7 @@ fi
 echo "=======> Build develop branch manuals"
 cd $current_dir/doc
 echo "=======> Build latest manuals"
-mvn -q clean install -DskipTests -Dlatest,all
+mvn -q clean install -DskipTests $MAVEN_PROFILES
 echo "=======> latest manuals created"
 
 
