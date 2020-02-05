@@ -12,7 +12,7 @@ fi
 current_dir=$(pwd)
 
 tag210='2.10.4'
-tagold='3.8.3'
+tagold='3.8.x'
 branchold='3.8.x'
 current='3.10.x'
 
