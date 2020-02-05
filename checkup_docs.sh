@@ -23,7 +23,7 @@ echo "=> WEBSITE CREATION STARTED"
 # -------------------------------------------------------
 
 # Download from GitHub master to 'latest' folder"
-echo "=======> Downloading from GitHub develop branch to 'latest' folder"
+echo "=======> Downloading from GitHub master branch to 'latest' folder"
 
 if [ ! -e "latest" ]; then 
   git clone git://github.com/geonetwork/core-geonetwork.git latest;
@@ -33,11 +33,11 @@ else
 fi
 
 cd $current_dir/latest
-if git show-ref --quiet refs/heads/develop; then   
-  git checkout develop
+if git show-ref --quiet refs/heads/master; then   
+  git checkout master
   git pull
 else
-  git checkout --track develop
+  git checkout --track master
 fi
 git submodule update --init
 
