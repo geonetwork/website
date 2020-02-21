@@ -3,13 +3,24 @@
 News
 ====
 
+
+GeoNetwork opensource v3.10.1 released
+------------------------------------------------
+
+Date: 21 February 2020
+
+We're pleased to announce the new minor release 3.10.1 of GeoNetwork opensource.
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.10.1.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
 GeoNetwork opensource v3.8.3 released
 ------------------------------------------------
 
 Date: 22 January 2020
 
 We're pleased to announce the new maintenance release 3.8.4 of GeoNetwork opensource for users using 3.8 version. Remember that the current latest stable version is 3.10.0.
-Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.4.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.8.4.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -21,7 +32,7 @@ GeoNetwork opensource v3.10.0 released
 Date: 17 January 2020
 
 We're pleased to announce the new major release 3.10.0 of GeoNetwork opensource.
-Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.10.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.10.0.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -31,7 +42,7 @@ GeoNetwork opensource v3.8.2 released
 Date: 31 October 2019
 
 We're pleased to announce the new major release 3.8.2 of GeoNetwork opensource.
-Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.2.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.8.2.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -41,7 +52,7 @@ GeoNetwork opensource v3.8.1 released
 Date: 25 September 2019
 
 We're pleased to announce the new major release 3.8.1 of GeoNetwork opensource.
-Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.1.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.8.1.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -51,7 +62,7 @@ GeoNetwork opensource v3.8.0 released
 Date: 26 August 2019
 
 We're pleased to announce the new major release 3.8.0 of GeoNetwork opensource.
-Check the `changelog </manuals/3.8.x/en/overview/change-log/version-3.8.0.html>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.8.0.html>`_ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
