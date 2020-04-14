@@ -52,7 +52,7 @@ Make your maps
     :width: 400 px
     :alt: Map viewer
 
-The interactive map viewer based on `OpenLayers 3 <http://openlayers.org/>`_
+The interactive map viewer based on `OpenLayers <http://openlayers.org/>`_
 provides access to OGC services (WMS, WMTS) and standards (KML, OWS). Connected
 to the catalog, users can easily find new services, layers and even dynamic maps
 to combine them together. User maps can be annotated and printed and shared
