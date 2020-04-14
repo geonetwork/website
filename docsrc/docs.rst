@@ -9,19 +9,8 @@ User and developer manuals
 Stable version
 """"""""""""""
 
-* `Catalan <manuals/trunk/ca/index.html>`__
-* `Česky <manuals/trunk/cz/index.html>`__
-* `Deutsch <manuals/trunk/ge/index.html>`__
 * `English <manuals/trunk/en/index.html>`__
-* `Español <manuals/trunk/es/index.html>`__
 * `Français <manuals/trunk/fr/index.html>`__
-* `Íslensku <manuals/trunk/is/index.html>`__
-* `Italiano <manuals/trunk/it/index.html>`__
-* `한국어 <manuals/trunk/ko/index.html>`__
-* `Nederlands <manuals/trunk/nl/index.html>`__
-* `Portuguese (BR) <manuals/trunk/pt_BR/index.html>`__
-* `Suomalainen <manuals/trunk/fi/index.html>`__
-* `српски <manuals/trunk/sr/index.html>`__
 
 Version 2.10
 """"""""""""
