@@ -10,7 +10,13 @@ Stable version
 """"""""""""""
 
 * `English <manuals/trunk/en/index.html>`__
-* `Français <manuals/trunk/fr/index.html>`__
+
+
+Version 4.0 (Development version)
+"""""""""""""""""""""""""""""""""
+
+* `English <manuals/4.0.x/en/index.html>`__
+
 
 Version 2.10
 """"""""""""

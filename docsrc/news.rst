@@ -3,6 +3,21 @@
 News
 ====
 
+
+GeoNetwork opensource v4.0.0-alpha.1 released
+---------------------------------------------
+
+Date: 29 April 2020
+
+We're pleased to announce the first alpha release of GeoNetwork opensource 4.0.0.
+Check the `changelog </manuals/4.0.x/en/overview/change-log/version-4.0.0-alpha.1.html>`_
+and proceed to :doc:`downloads` and enjoy! This is a development version for testing
+and to report feedback. Note that this version requires Elasticsearch to be installed.
+Check `the installation guide </manuals/4.0.x/en/maintainer-guide/installing/installing-from-war-file.html>` for more details.
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v3.10.2 released
 ------------------------------------------------
 
