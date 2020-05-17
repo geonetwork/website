@@ -3,7 +3,7 @@
 export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=256M"
 MAVEN_PROFILES=$1
 
-if [ $1 == "--help" ]; then
+if [ "$1" == "--help" ]; then
   echo "Usage: ./checkup_docs only for basic english version"
   echo "Usage: ./checkup_docs -Pall for all languages using cached translations"
   echo "Usage: ./checkup_docs -Platest,all for all languages using latest translations on transifex"
