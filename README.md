@@ -58,17 +58,18 @@ hostname = https://www.transifex.com
 
 First checkout the website source:
 
-```
-  git clone -b master https://github.com/geonetwork/website.git .
+```bash
+  git clone -b master https://github.com/geonetwork/website.git website
 ```
 Then use the shell script:
 
-```
+```bash
+  cd website
   ./checkup_docs.sh
 ```
 
 You can use parameters to make sure you build the website as you expect:
-```
+```bash
 ./checkup_docs.sh --help
 Usage: ./checkup_docs only for basic english version
 Usage: ./checkup_docs -Pall for all languages using cached translations
