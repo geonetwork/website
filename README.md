@@ -72,6 +72,7 @@ You can use parameters to make sure you build the website as you expect:
 ```bash
 ./checkup_docs.sh --help
 Usage: ./checkup_docs only for basic english version
+Usage: ./checkpu_docs -Platest for English and French using latest translations on Transifex
 Usage: ./checkup_docs -Pall for all languages using cached translations
 Usage: ./checkup_docs -Platest,all for all languages using latest translations on transifex
 ```
