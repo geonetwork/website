@@ -52,7 +52,7 @@ function build_docs() {
 
   git submodule update --init
   echo "=======> Build "${BRANCH_OR_TAG}" docs"
-  mvn -q clean install -DskipTests $MAVEN_PROFILES
+  mvn -B -q clean install -DskipTests $MAVEN_PROFILES
   echo "=======> "$BRANCH_OR_TAG" manuals created"
   
 }
@@ -86,7 +86,7 @@ git submodule update --init --recursive
 echo "=========> Build "$tag210" tag manuals"
 # Build website docs for 2.10.x tag
 cd docs
-mvn clean install -DskipTests
+mvn -B clean install -DskipTests
 echo "=========> "$tag210"  manuals created"
 
 # -------------------------------------------------------
@@ -125,13 +125,12 @@ mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/eng/users
 mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
 
 # ... Users
-# 2.10.x
+# 3.x.y
 cd $current_dir/target/doc_$tagold/target/doc/en/
 cp -R * $current_dir/docsrc/build/html/manuals/$tagold/eng/users
 cd $current_dir/target/doc_$tagold/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/$tagold/fra/users
 
-# 3.x.y
 cd $current_dir/target/doc_$current/target/doc/en/
 cp -R * $current_dir/docsrc/build/html/manuals/$current/eng/users
 cd $current_dir/target/doc_$current/target/doc/fr/
@@ -175,3 +174,4 @@ cp -R html/* $current_dir/docsrc/build/html/manuals/$tag210/eng/developer
 cp -R latex/GeoNetworkDeveloperManual.pdf $current_dir/docsrc/build/html/manuals/$tag210/eng/developer
 
 echo "=======> Website creation finished"
+echo "=======> Website files are in  ${current_dir}/docsrc/build/html"
