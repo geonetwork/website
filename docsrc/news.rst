@@ -3,6 +3,11 @@
 News
 ====
 
+GeoNetwork User Meeting 23rd of june, 2020
+------------------------------------------
+
+Camptocamp, Titellus and GeoCat are organising the 2020 Online GeoNetwork Meeting on Tuesday, the 23rd of June, 2020.
+Main topic will be the upcoming release of GeoNetwork 4.0. Check `the article <usermeeting2020.html>`_ for more details.
 
 GeoNetwork opensource v4.0.0-alpha.1 released
 ---------------------------------------------
