@@ -1,3 +1,5 @@
+.. _usermeeting2020:
+
 User meeting 2020 
 =================
 
