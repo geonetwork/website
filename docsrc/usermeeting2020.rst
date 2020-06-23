@@ -35,3 +35,18 @@ Also do not hesitate to pass the information to anyone who might be interested a
 For more information, do not hesitate to contact frederic.jacon@camptocamp.com.
 
 We are looking forward to meeting you soon!
+
+
+
+Agenda & presentation
+=====================
+
+* 09:30 : `Welcome Message <documents/gn-user-meeting-202006-WelcomeMessage.pdf>`_
+* 09:45 : `Session 1 : GeoNetwork 4 / User expectations? It is all about search - François Prunayre (titellus) and Paul Van Genuchten (Geocat BV) <documents/gn-user-meeting-202006-GeoNetwork4-All-about-search.pdf>`_
+* 10:45 : `Session 2 : Architecture : going to micro-services - Pierre Mauduit (Camptocamp)
+* 11:15 : Break (15 minutes) <documents/gn-user-meeting-202006-GeoNetwork-Going-to-microservices.pdf>`_
+* 11:30 : `Session 3 : A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
+* 12:15 : Lunch Break
+* 14:00 : Session 4 : GeoNetwork live: Real life examples
+* 15:30 : Session 5 : Plenary discussion on future collaboration opportunities
+* 17:00 : Wrap up of the day
