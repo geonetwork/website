@@ -48,5 +48,16 @@ Agenda & presentation
 * 11:30 : `Session 3 : A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
 * 12:15 : Lunch Break
 * 14:00 : Session 4 : GeoNetwork live: Real life examples
-* 15:30 : Session 5 : Plenary discussion on future collaboration opportunities
+
+  * `geocat.ch the Swiss metadata geographic catalogue (Raphaëlle Arnaud) <documents/geocat.ch meeting GeoNetwork 2020_06_23.pptx.pdf>`_
+  * `GeoNetwork implementation at the European Environment Agency (Jose Miguel Rubio Iglesias) <documents/EEA_SDI_GNW.pdf>`_
+  * `LifeWatch ERIC Metadata Catalogue (Lucia Vaira) <documents/LifeWatch ERIC Metadata Catalogue.pdf>`_
+  * `Institut Cartogràfic i Geològic de Catalunya (ICGC) - Infraestructura de Dades Espacials de Catalunya (IDEC) (Jordi Escriu) <documents/Experience_IDEC_Catalogue.pdf>`_
+  * `Mon GéoSource - Use of GeoNetwork portals for public organization in France (Thierry Vilmus) <documents/2020-06-23_monGeosource - use of GeoNetwork portals_v2.pptx.pdf>`_
+  * `GeoNetwork @ DTAG, Deutsche Telekom (Christoph Dittmann) <documents/GDI@TD_GNOS_v2.pdf>`_
+  * `Moving toward INSPIRE Technical Guidance 2 conformity using GeoNetwork, Service Public de Wallonie (Stéphane Ritzenthaler) <documents/GN_MEETING_200623_metawal.pdf>`_
+  * Old-fashioned GeoNetwork Integrations, Astun Technology (Jo Cook)
+  * `DCAT-AP plug-in into GeoNetwork 3.8 (Geraldine Nolf) <https://inspire.ec.europa.eu/sites/default/files/20200612_inspiresession_fromnichetomainstreamloveabledata.pdf>`_
+  * Harmonized North American Profile (HNAP) (David Blasby and Jody Garnett, GeoCat Canada)
+* 15:30 : `Session 5 : Plenary discussion on future collaboration opportunities <documents/gn-user-meeting-202006-GeonetworkMeeting-Session5.pdf>`_
 * 17:00 : Wrap up of the day
