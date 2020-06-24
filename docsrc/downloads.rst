@@ -10,7 +10,7 @@ Releases
 
  * `v3.10.3 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.3/>`_
 
- * `v3.10.2 (Current release) <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.2/>`_
+ * `v3.10.2 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.2/>`_
 
  * `v3.10.1  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.1/>`_
 
