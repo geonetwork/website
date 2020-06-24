@@ -4,6 +4,12 @@
 Gallery
 =======
 
+Data portal using GeoNetwork
+----------------------------
+
+See https://geonetwork-opensource.org/manuals/trunk/en/annexes/gallery/gallery.html
+
+
 GeoNetwork screenshots
 ----------------------
 
@@ -42,37 +48,5 @@ The Editor
      :alt: Editing record
 
 Publish and describe resources
-
-
-
-Data portal screenshots
------------------------
-
-Dutch National Georegistry
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: nationaalgeoregister.png
-    :width: 440 px
-
-http://www.nationaalgeoregister.nl
-
-Swiss Geographic Catalogue
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: geocat.png
-    :width: 440 px
-
-https://www.geocat.ch
-
-
-GeoNetwork nodes
-----------------
-
-List of known GeoNetwork opensource based catalogues. Send us an email if you want your node to be listed here.
-
-.. csv-table::
-     :widths: 10, 20, 20, 50
-     :header-rows: 1
-     :file: list.csv
 
 
