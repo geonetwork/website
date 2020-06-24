@@ -56,8 +56,8 @@ Agenda & presentation
   * `Mon GéoSource - Use of GeoNetwork portals for public organization in France (Thierry Vilmus) <documents/gn-user-meeting-202006-2020-06-23_monGeosource-useofGeoNetworkportals_v2.pptx.pdf>`_
   * `GeoNetwork @ DTAG, Deutsche Telekom (Christoph Dittmann) <documents/gn-user-meeting-202006-GDI-TD_GNOS_v2.pdf>`_
   * `Moving toward INSPIRE Technical Guidance 2 conformity using GeoNetwork, Service Public de Wallonie (Stéphane Ritzenthaler) <documents/gn-user-meeting-202006-GN_MEETING_200623_metawal.pdf>`_
-  * Old-fashioned GeoNetwork Integrations, Astun Technology (Jo Cook)
+  * `Old-fashioned GeoNetwork Integrations, Astun Technology (Jo Cook) <https://archaeogeek.github.io/geonetworkug-2020/#/>`_
   * `DCAT-AP plug-in into GeoNetwork 3.8 (Geraldine Nolf) <https://inspire.ec.europa.eu/sites/default/files/20200612_inspiresession_fromnichetomainstreamloveabledata.pdf>`_
-  * Harmonized North American Profile (HNAP) (David Blasby and Jody Garnett, GeoCat Canada)
+  * `Harmonized North American Profile (HNAP) (David Blasby and Jody Garnett, GeoCat Canada) <documents/gn-user-meeting-202006-HNAPProfileCommunityUpdate.pdf>`_
 * 15:30 : `Session 5 : Plenary discussion on future collaboration opportunities <documents/gn-user-meeting-202006-GeonetworkMeeting-Session5.pdf>`_
 * 17:00 : Wrap up of the day
