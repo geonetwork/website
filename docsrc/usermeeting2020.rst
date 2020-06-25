@@ -41,11 +41,11 @@ We are looking forward to meeting you soon!
 Agenda & presentation
 =====================
 
-* 09:30 : `Welcome Message <documents/gn-user-meeting-202006-WelcomeMessage.pdf>`_
+* 09:30 : `Welcome Message <_static/documents/gn-user-meeting-202006-WelcomeMessage.pdf>`_
 * 09:45 : `Session 1 : GeoNetwork 4 / User expectations? It is all about search - François Prunayre (titellus) and Paul Van Genuchten (Geocat BV) <documents/gn-user-meeting-202006-GeoNetwork4-All-about-search.pdf>`_
-* 10:45 : `Session 2 : Architecture : going to micro-services - Pierre Mauduit (Camptocamp) <documents/gn-user-meeting-202006-GeoNetwork-Going-to-microservices.pdf>`_
+* 10:45 : `Session 2 : Architecture : going to micro-services - Pierre Mauduit (Camptocamp) <_static/documents/gn-user-meeting-202006-GeoNetwork-Going-to-microservices.pdf>`_
 * 11:15 : Break (15 minutes)
-* 11:30 : `Session 3 : A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
+* 11:30 : `Session 3 : A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <_static/documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
 * 12:15 : Lunch Break
 * 14:00 : Session 4 : GeoNetwork live: Real life examples
 
