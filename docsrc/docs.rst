@@ -31,6 +31,11 @@ Version 2.10
 Articles & links
 ^^^^^^^^^^^^^^^^
 
+* User meetings
+
+  * `User meeting 2020 <usermeeting2020.html>`_
+
+
 * Presentations
 
   * `GeoNetwork opensource 3.0, FOSS4G 2014 <https://vimeo.com/106222166>`_
