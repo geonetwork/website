@@ -38,6 +38,15 @@ Releases
 
  * `Development releases (unstable)  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_unstable_development_versions//>`_
 
+
+Third-party distributions
+-------------------------
+
+Some contributors release alternative distributions of GeoNetwork opensource. For example:
+
+ * `GeoNetwork Windows Installer <https://my.geocat.net/download/category/6/GeoNetwork.html>`_: easy setup wizard (.exe) that allows to install GeoNetwork as a Windows service.
+
+
 Source code
 -----------
 
@@ -56,4 +65,4 @@ To checkout the current development version and build it, use::
 and open a browser on http://localhost:8080/geonetwork.
 
 
-For more information, refer to the `developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_
+For more information, please refer to the `developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_.
