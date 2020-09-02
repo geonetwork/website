@@ -4,14 +4,18 @@
 Gallery
 =======
 
-Data portal using GeoNetwork
-----------------------------
+Data portals using GeoNetwork
+-----------------------------
 
-See https://geonetwork-opensource.org/manuals/trunk/en/annexes/gallery/gallery.html
+The product documentation contains a list of portals which are based on GeoNetwork. 
+
+The list is available at https://geonetwork-opensource.org/manuals/trunk/en/annexes/gallery/gallery.html
 
 
 GeoNetwork screenshots
 ----------------------
+
+This paragraph lists a visual representation of some of the main functionalities of GeoNetwork.
 
 Search
 ^^^^^^
