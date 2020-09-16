@@ -3,6 +3,20 @@
 News
 ====
 
+
+GeoNetwork opensource v4.0.0-alpha.2 released
+---------------------------------------------
+
+Date: 16 September 2020
+
+We're pleased to announce the second alpha release of GeoNetwork opensource 4.0.0.
+Check the `changelog </manuals/4.0.x/en/overview/change-log/version-4.0.0-alpha.2.html>`_
+and proceed to :doc:`downloads` and enjoy! This is a development version for testing
+and to report feedback.
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v3.10.3 released
 ------------------------------------------------
 
@@ -17,7 +31,7 @@ Thanks and congratulations to the all community members!
 GeoNetwork User Meeting 23rd of june, 2020
 ------------------------------------------
 
-Camptocamp, Titellus and GeoCat are organising the 2020 Online GeoNetwork Meeting on Tuesday, the 23rd of June, 2020.
+Camptocamp, titellus and GeoCat are organising the 2020 Online GeoNetwork Meeting on Tuesday, the 23rd of June, 2020.
 Main topic will be the upcoming release of GeoNetwork 4.0. Check `the article <usermeeting2020.html>`_ for more details.
 
 GeoNetwork opensource v4.0.0-alpha.1 released
