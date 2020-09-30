@@ -1,4 +1,4 @@
-# Website
+# Website - GeoNetwork..
 
 GeoNetwork opensource website project. The content of this repository is deployed as a website at http://geonetwork-opensource.org
 
@@ -9,28 +9,28 @@ GeoNetwork opensource website project. The content of this repository is deploye
 To build the documentation you need to have [make](https://www.gnu.org/software/make/) installed in your system:
 
 ```
-sudo apt-get install make
+# sudo apt-get install make
 ```
 
 Sphinx is required to build documentation.See http://sphinx-doc.org/latest/install.html.
 You can install it with [pip](https://pip.pypa.io/en/stable/installing/):
 ```
-sudo easy_install pip
-sudo pip install sphinx
+# sudo easy_install pip
+# sudo pip install sphinx
 ```
 
 The theme is based on [sphinx_rtd_theme](https://github.com/snide/sphinx_rtd_theme) and the sphinx_bootstrap_theme.
 You can install the style with pip too:
 ```
-sudo pip install sphinx-bootstrap-theme
-sudo pip install sphinx_rtd_theme
+# sudo pip install sphinx-bootstrap-theme
+# sudo pip install sphinx_rtd_theme
 ```
 
 The internationalization is build used [sphinx-intl](http://www.sphinx-doc.org/es/stable/intl.html)
 You can install it with:
 
 ```
-sudo pip install sphinx-intl
+# sudo pip install sphinx-intl
 ```
 
 To download the translations from Transifex (optional), you will need the transifex command line client:
@@ -38,7 +38,7 @@ https://docs.transifex.com/client/installing-the-client
 The Transifex Client is written in Python, so it runs on most systems. The easiest way to install it is with pip:
 
 ```
-sudo pip install transifex-client
+# sudo pip install transifex-client
 ```
 
 ### Configuring your local (Optional)
