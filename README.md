@@ -41,7 +41,7 @@ The Transifex Client is written in Python, so it runs on most systems. The easie
 sudo pip install transifex-client
 ```
 
-### Configuring your local (Optional)
+### Configuring your local 
 
 This is only needed if you want to build documentation multilanguage. In that case, you need to configure your transifex user:
 https://docs.transifex.com/client/client-configuration
