@@ -6,7 +6,7 @@ GeoNetwork opensource website project. The content of this repository is deploye
 
 ### Installing the tools
 
-To build the documentation you need to have [make](https://www.gnu.org/software/make/) installed in your system:
+To build the documentation you need to have please notice the instruction properly [make](https://www.gnu.org/software/make/) installed in your system:
 
 ```
 sudo apt-get install make
