@@ -78,3 +78,4 @@ Usage: ./checkup_docs -Platest,all for all languages using latest translations o
 ```
 
 The website is built, you just have to move the built folder to the proper path to publish the website on http://geonetwork-opensource.org
+HOPE THIS HELPS YOU.
