@@ -2,7 +2,7 @@
 
 GeoNetwork opensource website project. The content of this repository is deployed as a website at http://geonetwork-opensource.org
 
-## Website build
+## Website building Step By Step
 
 ### Installing the tools
 
@@ -56,12 +56,12 @@ hostname = https://www.transifex.com
 ```
 ### Building the documentation
 
-First checkout the website source:
+First of all you checkout the website source:
 
 ```bash
   git clone -b master https://github.com/geonetwork/website.git website
 ```
-Then use the shell script:
+After Checkout the website source use the shell script:
 
 ```bash
   cd website
