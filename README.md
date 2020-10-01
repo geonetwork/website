@@ -6,7 +6,7 @@ GeoNetwork opensource website project. The content of this repository is deploye
 
 ### Installing the tools
 
-To build the documentation you need to have [make](https://www.gnu.org/software/make/) installed in your system:
+To build the documentation you need to have [make](https://www.gnu.org/software/make/) installed in your system firstly:
 
 ```
 sudo apt-get install make
@@ -54,7 +54,7 @@ token =
 password = p@ssw0rd/api_token
 hostname = https://www.transifex.com
 ```
-### Building the documentation
+### Building the documentation project 
 
 First checkout the website source:
 
