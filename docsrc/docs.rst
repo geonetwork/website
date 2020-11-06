@@ -13,8 +13,8 @@ Stable version
 * `French <manuals/trunk/fr/index.html>`__
 
 
-Version 4.0 (Development version)
-"""""""""""""""""""""""""""""""""
+Version 4.0
+"""""""""""
 
 * `English <manuals/4.0.x/en/index.html>`__
 * `French <manuals/4.0.x/fr/index.html>`__
