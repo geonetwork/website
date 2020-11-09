@@ -5,7 +5,7 @@ MAVEN_PROFILES=$1
 
 if [ "$1" == "--help" ]; then
   echo "Usage: ./checkup_docs only for basic english version"
-  echo "Usage: ./checkpu_docs -Platest for English and French using latest translations on Transifex"
+  echo "Usage: ./checkup_docs -Platest for English and French using latest translations on Transifex"
   echo "Usage: ./checkup_docs -Pall for all languages using cached translations"
   echo "Usage: ./checkup_docs -Platest,all for all languages using latest translations on Transifex"
   exit 0;
@@ -43,7 +43,7 @@ function build_docs() {
     git checkout ${BRANCH_OR_TAG}
   else
     # If the folder already exists reuse it
-    echo "==========> Local directory $current_dir/doc${BRANCH_OR_TAG} alredy exists. Skipping git clone command"
+    echo "==========> Local directory $current_dir/doc${BRANCH_OR_TAG} already exists. Skipping git clone command"
     cd doc_${BRANCH_OR_TAG};     
     echo "==========> Checkout tag/branch "${BRANCH_OR_TAG}
     git checkout ${BRANCH_OR_TAG}

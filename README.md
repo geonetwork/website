@@ -43,9 +43,10 @@ sudo pip install transifex-client
 
 ### Configuring your local (Optional)
 
-This is only needed if you want to build documentation multilanguage. In that case, you need to configure your transifex user:
+This is only needed if you want to build a multilingual documentation. In that case, you need to configure your 
+Transifex user:
 https://docs.transifex.com/client/client-configuration
-~/.transifexrc stores your Transifex.com credentials. This config file is unique per user, and it's stored in your home directory.
+~/.transifexrc stores your Transifex.com credentials. This config file is unique per user and it's stored in your home directory.
 
 ```
 [https://www.transifex.com]
@@ -72,9 +73,9 @@ You can use parameters to make sure you build the website as you expect:
 ```bash
 ./checkup_docs.sh --help
 Usage: ./checkup_docs only for basic english version
-Usage: ./checkpu_docs -Platest for English and French using latest translations on Transifex
+Usage: ./checkup_docs -Platest for English and French using latest translations on Transifex
 Usage: ./checkup_docs -Pall for all languages using cached translations
 Usage: ./checkup_docs -Platest,all for all languages using latest translations on transifex
 ```
 
-The website is built, you just have to move the built folder to the proper path to publish the website on http://geonetwork-opensource.org
+Once the website has been built, you only have to move the contents of the ``build`` folder to the proper URL to publish the website on https://geonetwork-opensource.org.
