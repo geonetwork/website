@@ -78,7 +78,7 @@ To checkout the current development version and build it, use::
 
     $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git geonetwork
     $ cd geonetwork
-    $ git checkout master
+    $ git checkout main
     $ git submodule update --init
     $ mvn clean install
     $ cd web
@@ -87,4 +87,4 @@ To checkout the current development version and build it, use::
 and open a browser on http://localhost:8080/geonetwork.
 
 
-For more information, please refer to the `developer guide <https://github.com/geonetwork/core-geonetwork/tree/develop/software_development>`_.
+For more information, please refer to the `developer guide <https://github.com/geonetwork/core-geonetwork/tree/main/software_development>`_.
