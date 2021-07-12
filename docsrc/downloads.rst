@@ -24,6 +24,8 @@ Releases
 
  * `v3.12.0 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.12.0/>`_
 
+ * `v3.10.7 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.7/>`_
+
  * `v3.10.6 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.6/>`_
 
  * `v3.10.5 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.5/>`_
