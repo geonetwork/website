@@ -169,7 +169,7 @@ well as many suggestions.
  
 GeoNetwork is part of the Open Source Geospatial Foundation
 (OSGeo, http://www.osgeo.org) software stack, providing software you can
-trust tobe free, open and sustainable. Voluntary support is provided through
+trust to be free, open and sustainable. Voluntary support is provided through
 mailing lists, websites and online forums.
 
 More: :doc:`community`
