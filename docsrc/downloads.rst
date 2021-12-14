@@ -22,6 +22,8 @@ Releases
 
  * `v4.0.0-alpha.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_unstable_development_versions/4.0.0-alpha.1/>`_
 
+ * `v3.12.2 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.12.2/>`_
+
  * `v3.12.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.12.1/>`_
 
  * `v3.12.0 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.12.0/>`_
