@@ -3,6 +3,16 @@
 News
 ====
 
+GeoNetwork opensource v3.12.3 released
+------------------------------------------------
+
+Date: 21 January 2021
+
+We're pleased to announce the new minor release 3.12.3 of GeoNetwork opensource.
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.12.3.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
 GeoNetwork opensource v3.12.2 released
 ------------------------------------------------
 
