@@ -6,6 +6,8 @@ Download GeoNetwork
 Releases
 --------
 
+ * `v4.0.6 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.0.6/>`_ - Before migrating to version 4.0.6, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+
  * `v4.0.5 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.0.5/>`_ - Before migrating to version 4.0.5, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
  * `v4.0.4 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.0.4/>`_ - Before migrating to version 4.0.4, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
