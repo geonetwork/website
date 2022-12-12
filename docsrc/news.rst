@@ -3,7 +3,7 @@
 News
 ====
 
-eoNetwork opensource v4.2.2 released
+GeoNetwork opensource v4.2.2 released
 ------------------------------------------------
 
 Date: 12 December 2022
