@@ -3,6 +3,28 @@
 News
 ====
 
+eoNetwork opensource v4.2.2 released
+------------------------------------------------
+
+Date: 12 December 2022
+
+We're pleased to announce the release 4.2.2 of GeoNetwork opensource.
+Check the `changelog </manuals/4.0.x/en/overview/change-log/version-4.2.2.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
+GeoNetwork opensource v3.12.8 released
+------------------------------------------------
+
+Date: 12 December 2022
+
+We're pleased to announce the new minor release 3.12.8 of GeoNetwork opensource.
+Check the `changelog </manuals/trunk/en/overview/change-log/version-3.12.8.html>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+
 GeoNetwork opensource v4.2.1 released
 ------------------------------------------------
 
