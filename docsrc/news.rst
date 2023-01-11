@@ -52,9 +52,9 @@ GeoNetwork at FOSS4G 2022
 
 Date: August 2022
 
-* `GeoNetwork workshop <_static/foss4g2022/GeoNetwork Workshop - FOSS4G2022.pdf>`_
+* `GeoNetwork workshop <_static/foss4g2022/GeoNetworkWorkshopFoss4g2022.pdf>`_
 
-* `State of GeoNetwork <_static/foss4g2022/State of GeoNetwork.pdf>`_
+* `State of GeoNetwork <_static/foss4g2022/StateofGeoNetwork.pdf>`_
 
 
 GeoNetwork opensource v3.12.6 released
