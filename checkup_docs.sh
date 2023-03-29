@@ -73,7 +73,7 @@ echo "=======> Generating web for 2.10.x branch (tag "$tag210")"
 cd $current_dir/target
 if [ ! -e "web_210x" ]; then 
   echo "=======> Downloading from GitHub Geonetwork branch to 'core-geonetwork' folder"
-  git clone -b ${tag210} --depth 1 git://github.com/geonetwork/core-geonetwork.git web_210x; 
+  git clone -b ${tag210} --depth 1 https://github.com/geonetwork/core-geonetwork.git web_210x; 
 fi
 
 cd web_210x 
