@@ -14,9 +14,7 @@ fi
 current_dir=$(pwd)
 
 tag210='2.10.4'
-tagold='3.8.x'
-branchold='3.8.x'
-current='3.10.x'
+current='3.12.x'
 pre_release='4.0.x'
 
 ###############################################################################
@@ -94,9 +92,7 @@ echo "=========> "$tag210"  manuals created"
 # -------------------------------------------------------
 
 # Download from GitHub docs to 'doc' folder
-build_docs "${tagold}"
 build_docs "${current}"
-build_docs 'develop'
 build_docs "${pre_release}"
 
 
@@ -112,9 +108,6 @@ make html
 # Copy GeoNetwork manuals to website folder (trunk)
 # -------------------------------------------------------
 echo "=======> Copy GeoNetwork 3.x.y docs to website folder"
-mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/eng/users
-mkdir -p $current_dir/docsrc/build/html/manuals/$tagold/fra/users
-
 mkdir -p $current_dir/docsrc/build/html/manuals/$current/eng/users
 mkdir -p $current_dir/docsrc/build/html/manuals/$current/fra/users
 
@@ -126,11 +119,6 @@ mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
 
 # ... Users
 # 3.x.y
-cd $current_dir/target/doc_$tagold/target/doc/en/
-cp -R * $current_dir/docsrc/build/html/manuals/$tagold/eng/users
-cd $current_dir/target/doc_$tagold/target/doc/fr/
-cp -R * $current_dir/docsrc/build/html/manuals/$tagold/fra/users
-
 cd $current_dir/target/doc_$current/target/doc/en/
 cp -R * $current_dir/docsrc/build/html/manuals/$current/eng/users
 cd $current_dir/target/doc_$current/target/doc/fr/
@@ -148,7 +136,6 @@ cd $current_dir/target/doc_${pre_release}/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
 
 #Copy i18n manuals
-cp -R $current_dir/target/doc_$tagold/target/doc/* $current_dir/docsrc/build/html/manuals/$tagold/
 cp -R $current_dir/target/doc_$current/target/doc/* $current_dir/docsrc/build/html/manuals/$current/
 cp -R $current_dir/target/doc_develop/target/doc/* $current_dir/docsrc/build/html/manuals/trunk/
 cp -R $current_dir/target/doc_${pre_release}/target/doc/* $current_dir/docsrc/build/html/manuals/${pre_release}/
