@@ -9,16 +9,15 @@ User and developer manuals
 Stable version
 """"""""""""""
 
-* `English <manuals/trunk/en/index.html>`__
-* `French <manuals/trunk/fr/index.html>`__
-
-
-Version 4.0
-"""""""""""
-
 * `English <manuals/4.0.x/en/index.html>`__
 * `French <manuals/4.0.x/fr/index.html>`__
 
+
+Version 3.12
+""""""""""""
+
+* `English <manuals/3.12.x/en/index.html>`__
+* `French <manuals/3.12.x/fr/index.html>`__
 
 Version 2.10
 """"""""""""
