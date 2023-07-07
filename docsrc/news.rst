@@ -3,6 +3,26 @@
 News
 ====
 
+GeoNetwork opensource v4.2.5 released
+------------------------------------------------
+
+Date: 7 July 2023
+
+We're pleased to announce the release 4.2.5 of GeoNetwork opensource.
+Check the `changelog </manuals/4.0.x/en/overview/change-log/version-4.2.5.html>`_ and proceed to :doc:`downloads` and enjoy!
+q
+Thanks and congratulations to the all community members!
+
+
+GeoNetwork at FOSS4G 2023
+------------------------------------------------
+
+Date: June 2023
+
+* `State of GeoNetwork <_static/foss4g2023/state_of_geonetwork.pdf>`_
+
+
+
 GeoNetwork opensource v4.2.4 released
 ------------------------------------------------
 
