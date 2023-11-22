@@ -3,7 +3,7 @@
 News
 ====
 
-GeoNetwork opensource v4.4.0 released
+GeoNetwork opensource v4.4.1 released
 ------------------------------------------------
 
 Date: 22 November 2023
