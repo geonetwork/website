@@ -6,25 +6,25 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Stable version
-""""""""""""""
+Version 4.4 Latest
+""""""""""""""""""
 
 * `English <https://docs.geonetwork-opensource.org/4.4>`__
 * `French <https://docs.geonetwork-opensource.org/4.4/fr>`__
 
-Version 4.2
-""""""""""""
+Version 4.2 Stable
+""""""""""""""""""
 * `English <https://docs.geonetwork-opensource.org/4.2>`__
 * `French <https://docs.geonetwork-opensource.org/4.2/fr>`__
 
-Version 3.12
-""""""""""""
+Version 3.12 Maintenance
+""""""""""""""""""""""""
 
 * `English <https://docs.geonetwork-opensource.org/3.12>`__
 * `French <https://docs.geonetwork-opensource.org/3.12/fr>`__
 
-Version 2.10
-""""""""""""
+Version 2.10 Legacy
+"""""""""""""""""""
 
 * `User guide <https://docs.geonetwork-opensource.org/2.10/users>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
 
