@@ -3,6 +3,26 @@
 News
 ====
 
+GeoNetwork opensource v4.4.2 released
+------------------------------------------------
+
+Date: 23 January 2024
+
+We're pleased to announce the release 4.4.2 of GeoNetwork opensource.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.2/>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+GeoNetwork opensource v4.2.8 released
+------------------------------------------------
+
+Date: 23 January 2024
+
+We're pleased to announce the release 4.2.8 of GeoNetwork opensource.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.8/>`_ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
 GeoNetwork opensource v4.4.1 released
 ------------------------------------------------
 
