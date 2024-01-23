@@ -93,7 +93,7 @@ echo "=========> "$tag210"  manuals created"
 
 # Download from GitHub docs to 'doc' folder
 build_docs "${current}"
-build_docs "${pre_release}"
+#build_docs "${pre_release}"
 
 
 
@@ -114,8 +114,8 @@ mkdir -p $current_dir/docsrc/build/html/manuals/$current/fra/users
 mkdir -p $current_dir/docsrc/build/html/manuals/trunk/eng/users
 mkdir -p $current_dir/docsrc/build/html/manuals/trunk/fra/users
 
-mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/eng/users
-mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
+#mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/eng/users
+#mkdir -p $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
 
 # ... Users
 # 3.x.y
@@ -130,15 +130,15 @@ cd $current_dir/target/doc_develop/target/doc/fr/
 cp -R * $current_dir/docsrc/build/html/manuals/trunk/fra/users
 
 # 4.x.y
-cd $current_dir/target/doc_${pre_release}/target/doc/en/
-cp -R * $current_dir/docsrc/build/html/manuals/${pre_release}/eng/users
-cd $current_dir/target/doc_${pre_release}/target/doc/fr/
-cp -R * $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
+#cd $current_dir/target/doc_${pre_release}/target/doc/en/
+#cp -R * $current_dir/docsrc/build/html/manuals/${pre_release}/eng/users
+#cd $current_dir/target/doc_${pre_release}/target/doc/fr/
+#cp -R * $current_dir/docsrc/build/html/manuals/${pre_release}/fra/users
 
 #Copy i18n manuals
 cp -R $current_dir/target/doc_$current/target/doc/* $current_dir/docsrc/build/html/manuals/$current/
 cp -R $current_dir/target/doc_develop/target/doc/* $current_dir/docsrc/build/html/manuals/trunk/
-cp -R $current_dir/target/doc_${pre_release}/target/doc/* $current_dir/docsrc/build/html/manuals/${pre_release}/
+#cp -R $current_dir/target/doc_${pre_release}/target/doc/* $current_dir/docsrc/build/html/manuals/${pre_release}/
 
 
 
