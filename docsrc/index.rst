@@ -10,6 +10,7 @@
     docs.rst
     downloads.rst
     community.rst
+    usermeeting2020.rst
     gallery/gallery.rst
     acknowledgements/acknowledgements.rst
 
