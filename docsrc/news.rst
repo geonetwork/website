@@ -9,7 +9,7 @@ GeoNetwork opensource v4.4.2 released
 Date: 23 January 2024
 
 We're pleased to announce the release 4.4.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -19,7 +19,7 @@ GeoNetwork opensource v4.2.8 released
 Date: 23 January 2024
 
 We're pleased to announce the release 4.2.8 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.8/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.8/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -29,7 +29,7 @@ GeoNetwork opensource v4.4.1 released
 Date: 22 November 2023
 
 We're pleased to announce the release 4.4.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -39,7 +39,7 @@ GeoNetwork opensource v4.2.7 released
 Date: 22 November 2023
 
 We're pleased to announce the release 4.2.7 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.7/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.7/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -49,7 +49,7 @@ GeoNetwork opensource v4.4.0 released
 Date: 4 October 2023
 
 We're pleased to announce the release 4.4.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -59,7 +59,7 @@ GeoNetwork opensource v4.2.6 released
 Date: 4 October 2023
 
 We're pleased to announce the release 4.2.6 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.6/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.6/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -69,7 +69,7 @@ GeoNetwork opensource v3.12.11 released
 Date: 4 October 2023
 
 We're pleased to announce the new minor release 3.12.11 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.11/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.11/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -80,7 +80,7 @@ GeoNetwork opensource v4.2.5 released
 Date: 7 July 2023
 
 We're pleased to announce the release 4.2.5 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.5/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.5/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -90,7 +90,7 @@ GeoNetwork at FOSS4G 2023
 
 Date: June 2023
 
-* `State of GeoNetwork <_static/foss4g2023/state_of_geonetwork.pdf>`_
+* `State of GeoNetwork <_static/foss4g2023/state_of_geonetwork.pdf>`__
 
 
 
@@ -100,7 +100,7 @@ GeoNetwork opensource v4.2.4 released
 Date: 10 May 2023
 
 We're pleased to announce the release 4.2.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.4/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.4/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -111,7 +111,7 @@ GeoNetwork opensource v3.12.10 released
 Date: 10 May 2023
 
 We're pleased to announce the new minor release 3.12.10 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.10/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.10/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -122,7 +122,7 @@ GeoNetwork opensource v4.2.3 released
 Date: 7 March 2023
 
 We're pleased to announce the release 4.2.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.3/>`__ and proceed to :doc:`downloads` and enjoy!
 q
 Thanks and congratulations to the all community members!
 
@@ -133,7 +133,7 @@ GeoNetwork opensource v3.12.9 released
 Date: 7 March 2023
 
 We're pleased to announce the new minor release 3.12.9 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.9/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.9/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -144,7 +144,7 @@ GeoNetwork opensource v4.2.2 released
 Date: 12 December 2022
 
 We're pleased to announce the release 4.2.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -155,7 +155,7 @@ GeoNetwork opensource v3.12.8 released
 Date: 12 December 2022
 
 We're pleased to announce the new minor release 3.12.8 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.8/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.8/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -166,7 +166,7 @@ GeoNetwork opensource v4.2.1 released
 Date: 16 September 2022
 
 We're pleased to announce the release 4.2.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -177,7 +177,7 @@ GeoNetwork opensource v3.12.7 released
 Date: 16 September 2022
 
 We're pleased to announce the new minor release 3.12.7 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.7/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.7/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -189,7 +189,7 @@ Date: August 2022
 
 * `GeoNetwork workshop <_static/foss4g2022/GeoNetworkWorkshopFoss4g2022.pdf>`_
 
-* `State of GeoNetwork <_static/foss4g2022/StateofGeoNetwork.pdf>`_
+* `State of GeoNetwork <_static/foss4g2022/StateofGeoNetwork.pdf>`__
 
 
 GeoNetwork opensource v3.12.6 released
@@ -198,7 +198,7 @@ GeoNetwork opensource v3.12.6 released
 Date: 22 June 2022
 
 We're pleased to announce the new minor release 3.12.6 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.6/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.6/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -209,7 +209,7 @@ GeoNetwork opensource v4.2.0 released
 Date: 20 May 2022
 
 We're pleased to announce the release 4.2.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.0/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.2.0, check migration instructions related to H2 and read the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.0/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.2.0, check migration instructions related to H2 and read the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -220,7 +220,7 @@ GeoNetwork opensource v3.12.5 released
 Date: 20 May 2022
 
 We're pleased to announce the new minor release 3.12.5 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.5/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.5/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -231,7 +231,7 @@ GeoNetwork opensource v3.12.4 released
 Date: 11 April 2022
 
 We're pleased to announce the new minor release 3.12.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.4/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.4/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -241,7 +241,7 @@ GeoNetwork opensource v4.0.6 released
 Date: 2 February 2022
 
 We're pleased to announce the release 4.0.6 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.6/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.6, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.6/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.6, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -252,7 +252,7 @@ GeoNetwork opensource v3.12.3 released
 Date: 21 January 2022
 
 We're pleased to announce the new minor release 3.12.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.3/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -262,7 +262,7 @@ GeoNetwork opensource v3.12.2 released
 Date: 14 December 2021
 
 We're pleased to announce the new minor release 3.12.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -273,7 +273,7 @@ GeoNetwork opensource v3.10.10 released
 Date: 13 December 2021
 
 We're pleased to announce the new minor release 3.10.10 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.10/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.10/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -284,7 +284,7 @@ GeoNetwork opensource v3.10.9 released
 Date: 29 November 2021
 
 We're pleased to announce the new minor release 3.10.9 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.9/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.9/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -295,7 +295,7 @@ GeoNetwork opensource v3.10.8 released
 Date: 21 October 2021
 
 We're pleased to announce the new minor release 3.10.8 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.8/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.8/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -306,7 +306,7 @@ GeoNetwork opensource v3.12.1 released
 Date: 15 July 2021
 
 We're pleased to announce the release 3.12.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -317,7 +317,7 @@ GeoNetwork opensource v3.10.7 released
 Date: 12 July 2021
 
 We're pleased to announce the new minor release 3.10.7 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.7/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.7/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -328,7 +328,7 @@ GeoNetwork opensource v4.0.5 released
 Date: 18 June 2021
 
 We're pleased to announce the release 4.0.5 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.5/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.5, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.5/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.5, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -338,7 +338,7 @@ GeoNetwork opensource v4.0.4 released
 Date: 7 May 2021
 
 We're pleased to announce the release 4.0.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.4/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.4, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.4/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.4, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -348,7 +348,7 @@ GeoNetwork opensource v3.12.0 released
 Date: 7 May 2021
 
 We're pleased to announce the release 3.12.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.12.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -358,7 +358,7 @@ GeoNetwork opensource v4.0.3 released
 Date: 26 February 2021
 
 We're pleased to announce the release 4.0.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.3/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.3, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.3/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.3, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -368,7 +368,7 @@ GeoNetwork opensource v4.0.2 released
 Date: 15 January 2021
 
 We're pleased to announce the release 4.0.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.2/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.2, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.2/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.2, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -379,7 +379,7 @@ GeoNetwork opensource v3.10.6 released
 Date: 15 January 2021
 
 We're pleased to announce the new minor release 3.10.6 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.6/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.6/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -390,7 +390,7 @@ GeoNetwork opensource v4.0.1 released
 Date: 6 November 2020
 
 We're pleased to announce the release 4.0.01 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.1/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.1, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.1/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.1, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -401,7 +401,7 @@ GeoNetwork opensource v3.10.5 released
 Date: 6 November 2020
 
 We're pleased to announce the new minor release 3.10.5 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.5/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.5/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -411,7 +411,7 @@ GeoNetwork opensource v4.0.0 released
 Date: 23 October 2020
 
 We're pleased to announce the release 4.0.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.0/>`_ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.0, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.0/>`__ and proceed to :doc:`downloads` and enjoy! Before migrating to version 4.0.0, read carefully the `list of missing features <https://github.com/geonetwork/core-geonetwork/issues/4727>`_.
 
 Thanks and congratulations to the all community members!
 
@@ -421,7 +421,7 @@ GeoNetwork opensource v3.10.4 released
 Date: 1 October 2020
 
 We're pleased to announce the new minor release 3.10.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.4/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.4/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -444,7 +444,7 @@ GeoNetwork opensource v3.10.3 released
 Date: 24 June 2020
 
 We're pleased to announce the new minor release 3.10.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.3/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to all community members!
 
@@ -461,7 +461,7 @@ GeoNetwork opensource v4.0.0-alpha.1 released
 Date: 29 April 2020
 
 We're pleased to announce the first alpha release of GeoNetwork opensource 4.0.0.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.0-alpha.1/>`_
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.0.0-alpha.1/>`__
 and proceed to :doc:`downloads` and enjoy! This is a development version for testing
 and to report feedback. Note that this version requires Elasticsearch to be installed.
 Check `the installation guide </manuals/4.0.x/en/maintainer-guide/installing/installing-from-war-file.html>`_ for more details.
@@ -475,7 +475,7 @@ GeoNetwork opensource v3.10.2 released
 Date: 7 April 2020
 
 We're pleased to announce the new minor release 3.10.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -486,7 +486,7 @@ GeoNetwork opensource v3.10.1 released
 Date: 21 February 2020
 
 We're pleased to announce the new minor release 3.10.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -496,7 +496,7 @@ GeoNetwork opensource v3.8.3 released
 Date: 22 January 2020
 
 We're pleased to announce the new maintenance release 3.8.4 of GeoNetwork opensource for users using 3.8 version. Remember that the current latest stable version is 3.10.0.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.3/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -508,7 +508,7 @@ GeoNetwork opensource v3.10.0 released
 Date: 17 January 2020
 
 We're pleased to announce the new major release 3.10.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.10.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -518,7 +518,7 @@ GeoNetwork opensource v3.8.2 released
 Date: 31 October 2019
 
 We're pleased to announce the new major release 3.8.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -528,7 +528,7 @@ GeoNetwork opensource v3.8.1 released
 Date: 25 September 2019
 
 We're pleased to announce the new major release 3.8.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -538,7 +538,7 @@ GeoNetwork opensource v3.8.0 released
 Date: 26 August 2019
 
 We're pleased to announce the new major release 3.8.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.8.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -565,7 +565,7 @@ GeoNetwork opensource v3.6.0 released
 Date: 23 January 2019
 
 We're pleased to announce the new major release 3.6.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.6.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.6.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -576,7 +576,7 @@ GeoNetwork opensource v3.4.4 released
 Date: 22 October 2018
 
 We're pleased to announce the maintenance release 3.4.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.4/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.4/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -587,7 +587,7 @@ GeoNetwork opensource v3.4.3 released
 Date: 20 July 2018
 
 We're pleased to announce the maintenance release 3.4.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.3/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -598,7 +598,7 @@ GeoNetwork opensource v3.4.2 released
 Date: 4 May 2018
 
 We're pleased to announce the maintenance release 3.4.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -609,7 +609,7 @@ GeoNetwork opensource v3.4.1 released
 Date: 15 December 2017
 
 We're pleased to announce the maintenance release 3.4.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -619,7 +619,7 @@ GeoNetwork opensource v3.4.0 released
 Date: 7 December 2017
 
 We're pleased to announce the new major release 3.4.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.4.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -630,7 +630,7 @@ GeoNetwork opensource v3.2.2 released
 Date: 12 September 2017
 
 We're pleased to announce the maintenance release 3.2.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -641,7 +641,7 @@ GeoNetwork opensource v3.2.1 released
 Date: 10 February 2017
 
 We're pleased to announce the maintenance release 3.2.1 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.1/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.1/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -652,7 +652,7 @@ GeoNetwork opensource v3.2.0 and v3.0.5 released
 Date: 28 September 2016
 
 We're pleased to announce the maintenance release v3.0.5 and the new major release 3.2.0 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.0/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.2.0/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -673,7 +673,7 @@ GeoNetwork opensource v3.0.4 released
 Date: 18 March 2016
 
 We're pleased to announce the release v3.0.4 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.4/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.4/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -684,7 +684,7 @@ GeoNetwork opensource v3.0.3 released
 Date: 15 December 2015
 
 We're pleased to announce the release v3.0.3 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.3/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.3/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
@@ -695,7 +695,7 @@ GeoNetwork opensource v3.0.2 released
 Date: 8 September 2015
 
 We're pleased to announce the release v3.0.2 of GeoNetwork opensource.
-Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.2/>`_ and proceed to :doc:`downloads` and enjoy!
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-3.0.2/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
 
