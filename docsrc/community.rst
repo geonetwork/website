@@ -9,7 +9,15 @@ You can get involved in the GeoNetwork project by joining user forum or finding 
 User forum
 ----------
 
-Join discussion on `OSGeo discourse <https://discourse.osgeo.org/c/geonetwork/55/none>`_. There are also forum for `spanish <https://discourse.osgeo.org/c/geonetwork/user-es/56>`_, `french <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_, `developers <https://discourse.osgeo.org/c/geonetwork/user-fr/58>`_  and one for the `geonetwork-ui project <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_.
+Join discussion on `OSGeo Discourse <https://discourse.osgeo.org/c/geonetwork/55/none>`_.
+
+The forum has GeoNetwork User categories for `English <https://discourse.osgeo.org/c/geonetwork/user/54>`_, `Spanish <https://discourse.osgeo.org/c/geonetwork/user-es/56>`_, and `French <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_ discussion. 
+
+There is a category for the `geonetwork-ui project <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_.
+
+For programmers there is a category `GeoNetwork Developer <https://discourse.osgeo.org/c/geonetwork/user-fr/58>`_  discussion.
+
+Each category has an introduction describing how to sign in, post a topic, or configure for use as a mailing list.
 
 
 Gitter
