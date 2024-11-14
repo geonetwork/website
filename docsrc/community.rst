@@ -3,7 +3,22 @@
 Community
 =========
 
-You can get involved in the GeoNetwork project by signing up for a mailing list or finding us on Gitter and StackExchange.
+You can get involved in the GeoNetwork project by joining user forum or finding us on Gitter and StackExchange.
+
+
+User forum
+----------
+
+Join discussion on `OSGeo Discourse <https://discourse.osgeo.org/c/geonetwork/55/none>`_.
+
+The forum has GeoNetwork User categories for `English <https://discourse.osgeo.org/c/geonetwork/user/54>`_, `Spanish <https://discourse.osgeo.org/c/geonetwork/user-es/56>`_, and `French <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_ discussion. 
+
+There is a category for the `geonetwork-ui project <https://discourse.osgeo.org/c/geonetwork/user-fr/57>`_.
+
+For programmers there is a category `GeoNetwork Developer <https://discourse.osgeo.org/c/geonetwork/user-fr/58>`_  discussion.
+
+Each category has an introduction describing how to sign in, post a topic, or configure for use as a mailing list.
+
 
 Gitter
 ------
@@ -39,35 +54,6 @@ suggesting fixes.
 
 Issues with no activity in the last 6 months will be automatically closed.
 If an issue is really important to you, please help us look for funding to work on it.
-
-Mailing list
-------------
-
-The GeoNetwork mailing lists provide a public place for ongoing discussion about the project.
-Please note: Mailing lists are **not** intended for support.
-
-Find instructions on signing up for the users or developers lists on the pages
-below:
-
-* For users:
-
- * GeoNetwork Users List: https://lists.sourceforge.net/lists/listinfo/geonetwork-users
-
- * Liste d'utilisateurs GeoNetwork francophone: https://lists.sourceforge.net/lists/listinfo/geonetwork-users-fr
-
- * Lista de Usuarios de GeoNetwork español: https://lists.sourceforge.net/lists/listinfo/geonetwork-usuarios-es
-
-* For developers:
-
- * GeoNetwork Developers List: https://lists.sourceforge.net/mailman/listinfo/geonetwork-devel
-
- * GeoNetwork Commit List: https://lists.sourceforge.net/mailman/listinfo/geonetwork-commit
-
-
-.. warning::
-   Make sure you are subscribed to the mailing list prior to posting, posts
-   from unsubscribed people are rejected with no notification sent to the
-   mailing list administrator.
 
 
 
