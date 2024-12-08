@@ -1,3 +1,5 @@
+[![CLA assistant](https://cla-assistant.io/readme/badge/geonetwork/website)](https://cla-assistant.io/geonetwork/website)
+
 # Website
 
 GeoNetwork opensource website project. The content of this repository is deployed as a website at http://geonetwork-opensource.org
