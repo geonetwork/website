@@ -1,4 +1,4 @@
-[![CLA assistant](https://cla-assistant.io/readme/badge/geonetwork/website)](https://cla-assistant.io/geonetwork/website)
+[![CLA assistant](https://cla-assistant.io/readme/badge/geonetwork/geonetwork)](https://cla-assistant.io/geonetwork/geonetwork)
 
 # Website
 
