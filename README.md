@@ -43,7 +43,7 @@ The Transifex Client is written in Python, so it runs on most systems. The easie
 
 You can install these with [pip](https://pip.pypa.io/en/stable/installing/):
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ### Configuring your local (Optional)
