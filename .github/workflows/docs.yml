@@ -1,0 +1,35 @@
+---
+name: Docs CI
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    paths:
+      - docssrc/**
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  geocat-map-docs:
+    name: GeoNetwork Website
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup python for docs
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: pip
+      - name: Setup python pip requirements for building docs
+        run: |
+          pip install -r requirements.txt
+      - name: Build docs
+        run: |
+          sphinx-build -a -b html docsrc target/website
+      - name: Check index.html
+        run: |
+          if test ! -f target/website/index.html; then
+            echo sphinx-build did not generate target/website/index.html >&2
+            exit 1
+          fi
