@@ -1,12 +1,12 @@
 ---
 name: Docs CI
 on:
+  pull_request:
+    paths:
+      - docsrc/**
   push:
     branches:
       - master
-  pull_request:
-    paths:
-      - docssrc/**
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true

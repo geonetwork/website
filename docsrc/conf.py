@@ -11,10 +11,15 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
+import datetime
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 # sys.path.append(os.path.abspath('.'))
+
+now = datetime.datetime.now()
+
 
 # -- General configuration -----------------------------------------------------
 
@@ -36,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'GeoNetwork'
-copyright = u'2025, Open Source Geospatial Foundation'
+copyright = u'{}, Open Source Geospatial Foundation'.format(now.year)
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
