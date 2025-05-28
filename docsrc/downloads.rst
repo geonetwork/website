@@ -6,6 +6,8 @@ Download GeoNetwork
 Releases
 --------
 
+ * `v4.4.8 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.8/>`_
+
  * `v4.4.7 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.7/>`_
 
  * `v4.4.6 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.6/>`_
@@ -19,6 +21,8 @@ Releases
  * `v4.4.2 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.2/>`_
 
  * `v4.4.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.1/>`_
+
+ * `v4.2.13 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.13/>`_
 
  * `v4.2.12 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.12/>`_
 
