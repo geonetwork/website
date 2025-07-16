@@ -11,6 +11,7 @@
     downloads.rst
     community.rst
     usermeeting2020.rst
+    crowdfunding.rst
     gallery/gallery.rst
     acknowledgements/acknowledgements.rst
 

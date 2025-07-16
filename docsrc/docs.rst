@@ -34,6 +34,11 @@ Version 2.10 Legacy
 Articles & links
 ^^^^^^^^^^^^^^^^
 
+* Funding
+
+  * `GeoNetwork 5 Crowdfunding <crowdfunding.html>`_
+
+
 * User meetings
 
   * `User meeting 2020 <usermeeting2020.html>`_
