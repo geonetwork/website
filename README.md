@@ -8,9 +8,9 @@ GeoNetwork opensource website project. The content of this repository is deploye
 
 ## Website build
 
-### Quick test
+### Local build
 
-Quick test on command line:
+Quick build on command line:
 ```
 sphinx-build -a -b html docsrc target/website
 ```
@@ -19,6 +19,15 @@ Or with maven:
 ```
 mvn prepare-package
 ```
+
+### Local test
+
+Test locally in browser while writing:
+```
+sphinx-autobuild -a docsrc target/website
+```
+
+Use browser to preview: http://127.0.0.1:8000
 
 ### Installing the tools
 
@@ -29,8 +38,13 @@ virtualenv venv
 ```
 source venv/bin/activate
 ```
+```
+pip install -r requirements.txt
+```
 
 Sphinx is used to build the documentation: https://sphinx-doc.org/
+
+The sphinx-autobuild is used for local testing.
 
 The theme is based on [sphinx_rtd_theme](https://github.com/snide/sphinx_rtd_theme) and the sphinx_bootstrap_theme.
 
@@ -40,8 +54,3 @@ To download the translations from Transifex (optional), you will need the transi
 https://docs.transifex.com/client/installing-the-client
 
 The Transifex Client is written in Python, so it runs on most systems. The easiest way to install it is with pip:
-
-You can install these with [pip](https://pip.pypa.io/en/stable/installing/):
-```
-pip install -r requirements.txt
-```
