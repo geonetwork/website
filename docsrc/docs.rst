@@ -6,25 +6,29 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Stable version
-""""""""""""""
+Version 4.4 Latest
+""""""""""""""""""
 
-* `English <manuals/4.0.x/en/index.html>`__
-* `French <manuals/4.0.x/fr/index.html>`__
+* `English <https://docs.geonetwork-opensource.org/4.4>`__
+* `French <https://docs.geonetwork-opensource.org/4.4/fr>`__
 
+Version 4.2 Stable
+""""""""""""""""""
+* `English <https://docs.geonetwork-opensource.org/4.2>`__
+* `French <https://docs.geonetwork-opensource.org/4.2/fr>`__
 
-Version 3.12
-""""""""""""
+Version 3.12 Maintenance
+""""""""""""""""""""""""
 
-* `English <manuals/3.12.x/en/index.html>`__
-* `French <manuals/3.12.x/fr/index.html>`__
+* `English <https://docs.geonetwork-opensource.org/3.12>`__
+* `French <https://docs.geonetwork-opensource.org/3.12/fr>`__
 
-Version 2.10
-""""""""""""
+Version 2.10 Legacy
+"""""""""""""""""""
 
-* `User guide <manuals/2.10.4/eng/users/index.html>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
+* `User guide <https://docs.geonetwork-opensource.org/2.10/users>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
 
-* `Developer manual <manuals/2.10.4/eng/developer/index.html>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
+* `Developer manual <https://docs.geonetwork-opensource.org/2.10/developer>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
 
 
 Articles & links

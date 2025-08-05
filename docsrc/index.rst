@@ -10,6 +10,7 @@
     docs.rst
     downloads.rst
     community.rst
+    usermeeting2020.rst
     gallery/gallery.rst
     acknowledgements/acknowledgements.rst
 
@@ -179,5 +180,5 @@ Professional Support
 
 Several companies also provide commercial support to help organizations
 to implement, integrate and maintain the software. You can find them
-in the `Service Provider directory <http://www.osgeo.org/search_profile>`_ on the
+in the `Service Provider directory <https://www.osgeo.org/service-providers/?p=geonetwork>`_ on the
 OSGeo website.
