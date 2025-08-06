@@ -8,9 +8,12 @@ GeoNetwork at FOSS4G-EU 2025
 
 Date: 20 July 2025
 
-* `geonetwork-ui to sublime your opendata platform <https://talks.osgeo.org/foss4g-europe-2025/talk/RSYJTJ/>`__
-* `State of GeoNetwork 4.4.8 <https://player.vimeo.com/video/1102249772?h=0e9331b1f3#t=40m0s>`__
-* `GeoNetwork 5 Status Report <https://player.vimeo.com/video/1101779403?h=a2874dff0e#t=259m20s>`__
+* `geonetwork-ui to sublime your opendata platform <https://docs.google.com/presentation/d/13P9ywMnnMZnjqnGLoOKsZfGz8QI0uDTwcDp3Dn4sRnU/edit?slide=id.p#slide=id.p>`__ 
+  (`video <https://vimeo.com/1101909012#t=5h36m40s>`_)
+* `State of GeoNetwork 4.4.8 <https://docs.google.com/presentation/d/1-f3EG0UGoPR4u_CrT1ndQqFRnLaEDn6VkTvDkcuJcv4/edit?slide=id.p#slide=id.p>`__
+  (`video <https://player.vimeo.com/video/1102249772?h=0e9331b1f3#t=40m0s>`__)
+* `GeoNetwork 5 Status Report <https://docs.google.com/presentation/d/1JYckZwhqrEQAVd5AxAWX32CxWAS9b-AVcn2hpdnISZU/edit?slide=id.p#slide=id.p>`__
+  (`video <https://player.vimeo.com/video/1101779403?h=a2874dff0e#t=259m20s>`__)
 
 GeoNetwork opensource v4.4.8 released
 ------------------------------------------------
