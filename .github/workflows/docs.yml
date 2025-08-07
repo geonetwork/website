@@ -26,7 +26,7 @@ jobs:
           pip install -r requirements.txt
       - name: Build docs
         run: |
-          sphinx-build -a -b html docsrc target/website
+          sphinx-build -n -W -a -b html docsrc target/website
       - name: Check index.html
         run: |
           if test ! -f target/website/index.html; then

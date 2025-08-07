@@ -3,3 +3,4 @@ sphinx-bootstrap-theme
 sphinx_rtd_theme
 sphinx-intl
 transifex-client
+sphinx-autobuild
