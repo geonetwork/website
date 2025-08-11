@@ -6,7 +6,7 @@ Download GeoNetwork
 Releases
 --------
 
- * `v4.4.8 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.8/>`_
+ * `v4.4.8 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.8/>`_ - latest
 
  * `v4.4.7 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.7/>`_
 
@@ -22,7 +22,7 @@ Releases
 
  * `v4.4.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.1/>`_
 
- * `v4.2.13 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.13/>`_
+ * `v4.2.13 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.13/>`_ - stable
 
  * `v4.2.12 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.12/>`_
 
@@ -140,23 +140,28 @@ Releases
 
  * `All releases <http://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource>`_
 
- * `Nightly builds <http://nightlybuild.geonetwork-opensource.org/>`_
+ * `Nightly builds <https://nightlybuild.geonetwork-opensource.org/>`_
 
- * `Development releases (unstable)  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_unstable_development_versions//>`_
+Docker
+------
 
+Official GeoNetwork docker image:
+
+* https://hub.docker.com/_/geonetwork
 
 Third-party distributions
 -------------------------
 
-Some contributors release alternative distributions of GeoNetwork opensource. For example:
+Some contributors release alternative distributions build with GeoNetwork opensource. For example:
 
- * `GeoNetwork Windows Installer <https://my.geocat.net/download/category/6/GeoNetwork.html>`_: easy setup wizard (.exe) that allows to install GeoNetwork as a Windows service.
+ * `geOrchestra <https://packages.georchestra.org>`__
+ * `GeoCat Find <https://www.geocat.net/find>`__
 
 
 Source code
 -----------
 
- * `GitHub repository <https://github.com/geonetwork/core-geonetwork>`_
+ * `GitHub repository <https://github.com/geonetwork/core-geonetwork>`__
 
 To checkout the current development version and build it, use::
 
@@ -165,7 +170,9 @@ To checkout the current development version and build it, use::
     $ git checkout main
     $ git submodule update --init
     $ mvn clean install
-    $ cd web
+    $ cd es
+    $ docker compose up -d
+    $ cd ../web
     $ mvn jetty-run
 
 and open a browser on http://localhost:8080/geonetwork.
