@@ -116,24 +116,24 @@ Schedule metadata harvesting to synchronize records from many sources including:
 * GeoPortal REST and ArcSDE
 * Other GeoNetwork catalogs
 
-Monitoring and reporting tools provide administrators about the content of
-the catalog and statistics on the search. System maintainer can easily
-access the system status.
-
+Monitoring and reporting tools provide administrators insight into catalog contents and statistics on the search use. System maintainer can easily access the system status.
 
 Customise & extend
 ==================
 
-GeoNetwork provides a plugin mechanism for creating your own metadata schema (
-eg. `ISO19115-3 plugin <https://github.com/geonetwork/core-geonetwork/tree/main/schemas/iso19115-3.2018>`_).
+.. image:: img/datahub.png
+    :align: left
+    :width: 400 px
+    :alt: datahub-integration-plugin
+
+GeoNetwork provides a plugin mechanism for creating your own metadata schema (eg. `ISO19115-3 plugin <https://github.com/geonetwork/core-geonetwork/tree/main/schemas/iso19115-3.2018>`_).
 Schemas can be `refined to match national and regional requirements <https://metadata101.org>`__, providing
 validation and feedback directly within the metadata editor.
 
 GeoNetwork offers built-in support to adjust colors and logos used for each
 portal. Further customise the appearance of GeoNetwork using Bootstrap themes.
 
-Additional clients are available, with GeoNetwork-UI offers a web component facade
-for the GeoNetwork 4 catalogue. 
+GeoNetwork plugins extend the application with optional functionality. The gn-datahub-integration plugin is used to provide a portal with a modern with GeoNetwork-UI web component facade. Additional plugins are provided for different cloud storage options (S3, CMIS, JCloud) for data directory and attachments.
 
 API
 ===
@@ -148,7 +148,7 @@ GeoNetwork works with the following protocols:
 * INSPIRE ATOM
 * OGC Catalog Service (CSW)
 * Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)
-* OGC API Records under development
+* OGC API Records (under development)
 
 GeoNetwork provides an API to interact with other systems and a DCAT/RDF search service.
 
