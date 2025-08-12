@@ -25,48 +25,52 @@ GeoNetwork is a vital component of numerous **Spatial Data Infrastructure** init
 Find & retrieve information
 ===========================
 
+GeoNetwork provides an easy to use web interface to search geospatial data
+across multiple catalogs.
+
 
 .. image:: gn-search.png
     :align: right
     :width: 400 px
     :alt: GeoNetwork v3 Search results
 
-
-GeoNetwork provides an easy to use web interface to search geospatial data
-across multiple catalogs. The search provides full-text search as well as
+The search provides full-text search as well as
 faceted search on keywords, resource types, organizations, scale, and more. 
 Users can easily refine the search and quickly locate their records of interest.
 
 GeoNetwork is a general purpose catalog for sharing information.
 Easily navigate accross records and find sources, or services, publishing a dataset.
+
 GeoNetwork is built with love by the geospatial community
 with special attention to geographic datasets, layers, services, and maps.
 
 Make your maps
 ===========================
 
+Using the GeoNework catalog visitors can easily find new services, layers and produce dynamic maps
+combining information from multiple services.
+
 .. image:: gn-map.png
     :align: left
     :width: 400 px
     :alt: Map viewer
-
+    
 The `OpenLayers <http://openlayers.org/>`_ interactive map viewer provides access to open OGC services (WMS, WMTS),
 and REST services (Feature Service, MapService), along with standards formats (KML, OWS).
 
-Using the GeoNework catalog visitors can easily find new services, layers and produce dynamic maps
-combining information from multiple services. User maps can be annotated and printed and shared
+User maps can be annotated and printed and shared
 with others.
 
 Describe resources
 ==================
 
+Describe information using the online metadata editing tools. The metadata
+editor support Dublin Core format used by opendata portals, and geospatial data and services with ISO-19115, service categories with ISO-19119, and data categories with ISO-19110 standards.
+
 .. image:: img/editor.png
     :align: right
     :width: 400 px
     :alt: GeoNetwork admin console
-
-Describe information using the online metadata editing tools. The metadata
-editor support Dublin Core format used by opendata portals, and geospatial data and services with ISO-19115, service categories with ISO-19119, and data categories with ISO-19110 standards.
 
 Online editing of records is based on a powerful template system, information lookup (eg. contacts),
 and authoritative definitions (eg. thesaurus).
@@ -82,28 +86,30 @@ other content type. It supports among others:
 Publish resources
 =================
 
+Carefully manage the publication of information, using permissions share records with different groups. 
+GeoNetwork supports multiple portals, allowing each group their own browsable catalog and web services.
+
 .. image:: img/editor-board.png
     :align: left
     :width: 400 px
     :alt: GeoNetwork admin console
-    
-Based on user profiles an Editor dashboard provides easy access to information and tasks
-for reviewers and editors. The publication workflow allows changes to be reviewed and approved prior to publication.
 
-Carefully manage the publication of information, using permissions share records with different groups. 
-GeoNetwork supports multiple portals, allowing each group their own browsable catalog and web services.
+The Editor dashboard provides easy access to information and tasks for reviewers and editors.
+
+The full publication workflow allows changes to be reviewed and approved prior to publication.
+
 
 Easy configuration
 ==================
+
+The administration console provides quick access to the system configuration.
+Easily manage user and group accounts, classification systems
+from the web interface
 
 .. image:: gn-admin.png
     :align: right
     :width: 400 px
     :alt: GeoNetwork admin console
-
-The administration console provides quick access to the system configuration.
-Easily manage user and group accounts, classification systems
-from the web interface
 
 Schedule metadata harvesting to synchronize records from many sources including:
 
@@ -121,37 +127,36 @@ Monitoring and reporting tools provide administrators insight into catalog conte
 Customise & extend
 ==================
 
+GeoNetwork provides a plugin mechanism for creating your own metadata schema (eg. `ISO19115-3 plugin <https://github.com/geonetwork/core-geonetwork/tree/main/schemas/iso19115-3.2018>`_).
+Schemas can be `refined to match national and regional requirements <https://metadata101.org>`__, providing
+validation and feedback directly within the metadata editor.
+
 .. image:: img/datahub.png
     :align: left
     :width: 400 px
     :alt: datahub-integration-plugin
 
-GeoNetwork provides a plugin mechanism for creating your own metadata schema (eg. `ISO19115-3 plugin <https://github.com/geonetwork/core-geonetwork/tree/main/schemas/iso19115-3.2018>`_).
-Schemas can be `refined to match national and regional requirements <https://metadata101.org>`__, providing
-validation and feedback directly within the metadata editor.
-
 GeoNetwork offers built-in support to adjust colors and logos used for each
 portal. Further customise the appearance of GeoNetwork using Bootstrap themes.
 
-GeoNetwork plugins extend the application with optional functionality. The gn-datahub-integration plugin is used to provide a portal with a modern with GeoNetwork-UI web component facade. Additional plugins are provided for different cloud storage options (S3, CMIS, JCloud) for data directory and attachments.
+GeoNetwork plugins extend the application with optional functionality. The gn-datahub-integration plugin is used to provide a portal with a modern with GeoNetwork-UI web component facade. 
 
-API
-===
+Additional plugins are provided for different cloud storage options (S3, CMIS, JCloud) for data directory and attachments.
+
+API & web services
+==================
+
+GeoNetwork provides entry points for interacting with the catalog:
 
 .. image:: img/api.png
     :align: right
     :width: 400 px
     :alt: GeoNetwork admin console
 
-GeoNetwork works with the following protocols:
-
-* INSPIRE ATOM
-* OGC Catalog Service (CSW)
-* Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)
-* OGC API Records (under development)
-
-GeoNetwork provides an API to interact with other systems and a DCAT/RDF search service.
-
+* Search service for fast and flexible record retrieval
+* OGC Catalog Service for the Web (CSW) standards compliant search, retrieval, record management. 
+* OGC API Records next generation REST / JSON standards presently under development
+* GeoNetwork REST API working with GeoNetwork clients and external systems.
 
 OpenSource & open standards
 ===========================
