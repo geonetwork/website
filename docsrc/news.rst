@@ -55,6 +55,13 @@ Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change
 
 Thanks and congratulations to the all community members!
 
+GeoNetwork Sponsorship Opportunities 2025
+-----------------------------------------
+
+Date: 25 November 2024
+
+* `GeoNetwork 2025 Sponsorship Opportunities <https://github.com/geonetwork/core-geonetwork/wiki/GeoNetwork-2025-Sponsorship-Opportunities>`__
+
 GeoNetwork opensource v4.4.6 released
 ------------------------------------------------
 
@@ -156,6 +163,13 @@ We're pleased to announce the release 4.2.8 of GeoNetwork opensource.
 Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.8/>`__ and proceed to :doc:`downloads` and enjoy!
 
 Thanks and congratulations to the all community members!
+
+GeoNetwork Sponsorship Opportunities 2024
+-----------------------------------------
+
+Date: 9 January 2024
+
+* `GeoNetwork 2024 Sponsorship Opportunities <https://github.com/geonetwork/core-geonetwork/wiki/GeoNetwork-2024-Sponsorship-Opportunities>`__
 
 GeoNetwork opensource v4.4.1 released
 ------------------------------------------------

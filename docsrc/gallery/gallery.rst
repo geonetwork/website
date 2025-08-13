@@ -9,7 +9,7 @@ Data portals using GeoNetwork
 
 The product documentation contains a list of portals which are based on GeoNetwork. 
 
-The list is available at https://geonetwork-opensource.org/manuals/trunk/en/annexes/gallery/gallery.html
+The list is available at https://docs.geonetwork-opensource.org/latest/annexes/gallery/
 
 
 GeoNetwork screenshots

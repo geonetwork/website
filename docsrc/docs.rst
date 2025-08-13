@@ -17,8 +17,8 @@ Version 4.2 Stable
 * `English <https://docs.geonetwork-opensource.org/4.2>`__
 * `French <https://docs.geonetwork-opensource.org/4.2/fr>`__
 
-Version 3.12 Maintenance
-""""""""""""""""""""""""
+Version 3.12 Legacy
+"""""""""""""""""""
 
 * `English <https://docs.geonetwork-opensource.org/3.12>`__
 * `French <https://docs.geonetwork-opensource.org/3.12/fr>`__
@@ -26,10 +26,8 @@ Version 3.12 Maintenance
 Version 2.10 Legacy
 """""""""""""""""""
 
-* `User guide <https://docs.geonetwork-opensource.org/2.10/users>`_ - The manual is a comprehensive guide to all aspects of using GeoNetwork opensource.
-
-* `Developer manual <https://docs.geonetwork-opensource.org/2.10/developer>`_ - The manual is for those who want to help with the development process, including source code, software releasing, and other administrative work.
-
+* `User guide <https://docs.geonetwork-opensource.org/2.10/users>`_
+* `Developer manual <https://docs.geonetwork-opensource.org/2.10/developer>`_
 
 Articles & links
 ^^^^^^^^^^^^^^^^
@@ -41,10 +39,12 @@ Articles & links
 
 * Presentations
 
-  * `GeoNetwork opensource 3.0, FOSS4G 2014 <https://vimeo.com/106222166>`_
-  * `GeoNetwork opensource, GFOSS DAY 2012 <http://fr.slideshare.net/geosolutions/gfoss-day-2012-geonetwork-presentation>`_
-  * `GeoNetwork opensource catalog v2.6.0 <_static/foss4g2010/geonetwork26/index.html>`_
-  * `Mastering Advanced GeoNetwork tutorial <_static/foss4g2010/FOSS4G_Mastering_Advanced_GeoNetwork.pdf>`_
+  * `GeoNetwork 5 Status Report <https://docs.google.com/presentation/d/1JYckZwhqrEQAVd5AxAWX32CxWAS9b-AVcn2hpdnISZU/edit?slide=id.p#slide=id.p>`__ (FOSS4G-EU 2025)
+  * `State of GeoNetwork 4.4.8 <https://docs.google.com/presentation/d/1-f3EG0UGoPR4u_CrT1ndQqFRnLaEDn6VkTvDkcuJcv4/edit?slide=id.p#slide=id.p>`__ (FOSS4G-EU 2025)
+  * `GeoNetwork opensource 3.0 <https://vimeo.com/106222166>`_ (FOSS4G 2014)
+  * `GeoNetwork opensource <http://fr.slideshare.net/geosolutions/gfoss-day-2012-geonetwork-presentation>`_ (GFOSS DAY 2012)
+  * `GeoNetwork opensource catalog v2.6.0 <_static/foss4g2010/geonetwork26/index.html>`_ (FOSS4G 2010)
+  * `Mastering Advanced GeoNetwork tutorial <_static/foss4g2010/FOSS4G_Mastering_Advanced_GeoNetwork.pdf>`_ (FOSS4G 2010)
 
 * Articles
 
