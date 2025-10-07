@@ -3,6 +3,45 @@
 News
 ====
 
+GeoNetwork opensource v4.2.14 released
+------------------------------------------------
+
+Date: 7 Oct 2025
+
+We're pleased to announce the release 4.2.14 of GeoNetwork opensource.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.2.14/>`__ and proceed to :doc:`downloads` and enjoy!
+
+GeoNetwork opensource v4.4.9 released
+------------------------------------------------
+
+Date: 6 Oct 2025
+
+We're pleased to announce the release 4.4.9 of GeoNetwork opensource.
+Check the `changelog <https://docs.geonetwork-opensource.org/4.4/overview/change-log/version-4.4.9/>`__ and proceed to :doc:`downloads` and enjoy!
+
+Thanks and congratulations to the all community members!
+
+GeoNetwork at FOSS4G-Belgium 2025
+------------------------------------------------
+
+Date: 25 Sept 2025
+
+`An Open-Source Data Platform with GeoNetwork <https://docs.google.com/presentation/d/1XdsVUM_Y5otrte9hxZQSOxWosuhMU8_ZznQEN8DdWp0/edit?usp=sharing>`__
+
+GeoNetwork User Meeting in Bern
+------------------------------------------------
+
+Date: 16 Sept 2025
+
+The 2025 GeoNetwork User Meeting took place in the Swisstopo offices, and was hosted by the `Geocat.ch <https://geocat.ch/>`__ team.
+
+This long-awaited event brought the community together again, and many interesting discussions and presentations took place.
+
+* `Results of the various polls held during the meeting <_static/usermeeting2025/GeoNetwork%20User%20Meeting%202025%20-%20Polls%20Results.pdf>`__
+
+* `Screenshot of the board of priorities established during the meeting <_static/usermeeting2025/GeoNetwork%20User%20Meeting%202025%20-%20Priorities.png>`_
+
+
 GeoNetwork at FOSS4G-EU 2025
 ------------------------------------------------
 
