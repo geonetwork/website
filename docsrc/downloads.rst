@@ -26,7 +26,9 @@ Releases
 
  * `v4.4.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.4.1/>`_
 
- * `v4.2.14 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.14/>`_ - stable
+ * `v4.2.15 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.15/>`_ - stable
+
+ * `v4.2.14 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.14/>`_
 
  * `v4.2.13 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v4.2.13/>`_
 
