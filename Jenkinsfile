@@ -8,7 +8,7 @@ pipeline {
 
     triggers {
         githubPush()
-        cron('H 2 * * *')
+        pollSCM('H 2 * * *')
     }
 
     options {
