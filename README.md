@@ -33,12 +33,8 @@ Use browser to preview: http://127.0.0.1:8000
 
 Python virtual environment:
 ```
-virtualenv venv
-```
-```
+python3 -m venv venv
 source venv/bin/activate
-```
-```
 pip install -r requirements.txt
 ```
 
@@ -48,9 +44,19 @@ The sphinx-autobuild is used for local testing.
 
 The theme is based on [sphinx_rtd_theme](https://github.com/snide/sphinx_rtd_theme) and the sphinx_bootstrap_theme.
 
-The internationalization is build used [sphinx-intl](http://www.sphinx-doc.org/es/stable/intl.html)
+The internationalization is built using [sphinx-intl](http://www.sphinx-doc.org/es/stable/intl.html)
 
 To download the translations from Transifex (optional), you will need the transifex command line client:
 https://docs.transifex.com/client/installing-the-client
 
-The Transifex Client is written in Python, so it runs on most systems. The easiest way to install it is with pip:
+```
+pip install transifex-client
+```
+
+## Continuous integration
+
+The website is built and published automatically by a Jenkins pipeline defined in `Jenkinsfile`. The pipeline:
+
+- Builds the site with `sphinx-build` inside a Docker agent (see `buildtools/Dockerfile.build`)
+- Publishes the result to [https://geonetwork-opensource.org](https://geonetwork-opensource.org) via rsync over SSH
+- Runs daily
