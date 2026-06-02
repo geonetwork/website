@@ -19,6 +19,7 @@ pipeline {
         stage('Setup') {
             steps {
                 sh label: 'setup', script: '''#!/bin/bash
+                    set -eo pipefail
                     python3 -m venv venv
                     source venv/bin/activate
                     pip install -U pip setuptools wheel
@@ -30,8 +31,13 @@ pipeline {
         stage('Build') {
             steps {
                 sh label: 'build', script: '''#!/bin/bash
+                    set -eo pipefail
                     source venv/bin/activate
-                    sphinx-build -n -a -b html docsrc target/website
+                    sphinx-build -n -W -a -b html docsrc target/website
+                    if test ! -f target/website/index.html; then
+                        echo "sphinx-build did not generate target/website/index.html" >&2
+                        exit 1
+                    fi
                 '''
             }
         }
@@ -45,6 +51,7 @@ pipeline {
                 echo 'Publishing GeoNetwork website...'
                 withCredentials([sshUserPrivateKey(credentialsId: 'docs-ssh-key', keyFileVariable: 'SSH_KEY_FILE')]) {
                     sh label: 'Rsync', script: '''#!/bin/bash
+                        set -eo pipefail
                         echo "=== Publishing GeoNetwork website ==="
 
                         PUBLISHING_DIR=/opt/www-geonetwork-opensource
