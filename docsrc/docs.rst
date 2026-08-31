@@ -6,14 +6,14 @@ Documentation
 User and developer manuals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Version 4.4 Latest
+Version 4.4 Stable
 """"""""""""""""""
 
 * `English <https://docs.geonetwork-opensource.org/4.4>`__
 * `French <https://docs.geonetwork-opensource.org/4.4/fr>`__
 
-Version 4.2 Stable
-""""""""""""""""""
+Version 4.2 Maintenance
+"""""""""""""""""""""""
 * `English <https://docs.geonetwork-opensource.org/4.2>`__
 * `French <https://docs.geonetwork-opensource.org/4.2/fr>`__
 
