@@ -170,7 +170,7 @@ Third-party distributions
 
 Some contributors release alternative distributions build with GeoNetwork opensource. For example:
 
- * `geOrchestra <https://packages.georchestra.org>`__
+ * `geOrchestra <https://www.georchestra.org>`__
  * `GeoCat Find <https://www.geocat.com/find>`__
  * `GeoCat Live (SaaS) <https://www.geocat.com/live>`__
 
