@@ -65,7 +65,7 @@ GeoNetwork has a Matrix room `#geonetwork:matrix.org <https://app.element.io/#/r
 Chat can be very useful for one-on-one collaboration, however, due to time zone differences it is not always efficient for asking questions.
 
 This channel replaces the previous IRC. For a history of previous activity on the IRC channel, search the `archives
-<http://irclogs.geoapt.com/geonetwork/>`_.
+<https://web.archive.org/web/20240706133946/http://irclogs.geoapt.com/geonetwork/>`_.
 
 StackExchange
 -------------

@@ -9,7 +9,7 @@ The purpose of this online meeting is to bring together users and developers of 
 around the practices and perspectives of development of GeoNetwork, in particular the version 4, which is a major 
 advance with Elasticsearch.
 
-Note that a `recent blog post <https://www.camptocamp.com/actualite/geonetwork-4-0-0>`_ has been published about 
+Note that a `recent blog post <https://camptocamp.com/en/news-events/geonetwork-4-0%E2%80%93alpha>`_ has been published about 
 GeoNetwork 4.0 alpha.
 
 Regarding the GeoNetwork roadmap, we are considering three topics for discussion: 
@@ -57,7 +57,7 @@ Agenda & presentation
   * `GeoNetwork @ DTAG, Deutsche Telekom (Christoph Dittmann) <_static/documents/gn-user-meeting-202006-GDI-TD_GNOS_v2.pdf>`_
   * `Moving toward INSPIRE Technical Guidance 2 conformity using GeoNetwork, Service Public de Wallonie (Stéphane Ritzenthaler) <_static/documents/gn-user-meeting-202006-GN_MEETING_200623_metawal.pdf>`_
   * `Old-fashioned GeoNetwork Integrations, Astun Technology (Jo Cook) <https://archaeogeek.github.io/geonetworkug-2020/#/>`_
-  * `DCAT-AP plug-in into GeoNetwork 3.8 (Geraldine Nolf) <https://inspire.ec.europa.eu/sites/default/files/20200612_inspiresession_fromnichetomainstreamloveabledata.pdf>`_
+  * `DCAT-AP plug-in into GeoNetwork 3.8 (Geraldine Nolf) <https://web.archive.org/web/20231021004021/https://inspire.ec.europa.eu/sites/default/files/20200612_inspiresession_fromnichetomainstreamloveabledata.pdf>`_
   * `Harmonized North American Profile (HNAP) (David Blasby and Jody Garnett, GeoCat Canada) <_static/documents/gn-user-meeting-202006-HNAPProfileCommunityUpdate.pdf>`_
 * 15:30: `Session 5: Plenary discussion on future collaboration opportunities <_static/documents/gn-user-meeting-202006-GeonetworkMeeting-Session5.pdf>`_
 * 17:00: Wrap up of the day
