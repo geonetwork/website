@@ -20,6 +20,7 @@ pipeline {
             steps {
                 sh label: 'setup', script: '''#!/bin/bash
                     set -eo pipefail
+                    export PIP_PROGRESS_BAR=off
                     python3 -m venv venv
                     source venv/bin/activate
                     pip install -U pip setuptools wheel
