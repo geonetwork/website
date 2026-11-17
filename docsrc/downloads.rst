@@ -138,7 +138,7 @@ Releases
 
  * `v3.10.2 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.2/>`_
 
- * `v3.10.1  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.1/>`_
+ * `v3.10.1 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.1/>`_
 
  * `v3.10.0 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.10.0/>`_
 
@@ -154,7 +154,7 @@ Releases
 
  * `v3.4.4 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.4.4/>`_
 
- * `v3.2.2  <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.2.2/>`_
+ * `v3.2.2 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.2.2/>`_
 
  * `v3.0.5 <https://sourceforge.net/projects/geonetwork/files/GeoNetwork_opensource/v3.0.5/>`_
 
@@ -186,7 +186,7 @@ Source code
 
 To check out the current development version and build it, use::
 
-    $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git geonetwork
+    $ git clone --recursive https://github.com/geonetwork/core-geonetwork.git geonetwork
     $ cd geonetwork
     $ git checkout main
     $ git submodule update --init
@@ -196,7 +196,7 @@ To check out the current development version and build it, use::
     $ cd ../web
     $ mvn jetty-run
 
-and open a browser on http://localhost:8080/geonetwork.
+and open a browser at http://localhost:8080/geonetwork.
 
 
 For more information, please refer to the `developer guide <https://github.com/geonetwork/core-geonetwork/tree/main/software_development>`_.

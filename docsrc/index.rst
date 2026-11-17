@@ -65,12 +65,12 @@ Describe resources
 ==================
 
 Describe information using the online metadata editing tools. The metadata
-editor supports Dublin Core format used by opendata portals, and geospatial data and services with ISO-19115, service categories with ISO-19119, and data categories with ISO-19110 standards.
+editor supports Dublin Core format used by opendata portals, and geospatial data and services with ISO 19115, service categories with ISO 19119, and data categories with ISO 19110 standards.
 
 .. image:: img/editor.png
     :align: right
     :width: 400 px
-    :alt: GeoNetwork admin console
+    :alt: Metadata editor
 
 Online editing of records is based on a powerful template system, information lookup (e.g. contacts),
 and authoritative definitions (e.g. thesaurus).
@@ -80,19 +80,19 @@ other content type. It supports among others:
 
 * multilingual metadata editing
 * validation system
-* suggestion to improve metadata quality
+* suggestions to improve metadata quality
 * geopublication of layers to publish geodata layers in OGC services (e.g. GeoServer)
 
 Publish resources
 =================
 
 Carefully manage the publication of information, using permissions to share records with different groups. 
-GeoNetwork supports multiple portals, allowing each group their own browsable catalog and web services.
+GeoNetwork supports multiple portals, allowing each group to have their own browsable catalog and web services.
 
 .. image:: img/editor-board.png
     :align: left
     :width: 400 px
-    :alt: GeoNetwork admin console
+    :alt: Editor dashboard
 
 The Editor dashboard provides easy access to information and tasks for reviewers and editors.
 
@@ -116,7 +116,7 @@ Schedule metadata harvesting to synchronize records from many sources including:
 * OGC-CSW 2.0.2 ISO Profile
 * OGC WFS
 * OAI-PMH
-* Thredds
+* THREDDS
 * SFTP and WebDAV
 * Web Accessible Folders
 * GeoPortal REST and ArcSDE
@@ -124,7 +124,7 @@ Schedule metadata harvesting to synchronize records from many sources including:
 
 Monitoring and reporting tools provide administrators insight into catalog contents and statistics on search usage. System maintainers can easily access the system status.
 
-Customise & extend
+Customize & extend
 ==================
 
 GeoNetwork provides a plugin mechanism for creating your own metadata schema (e.g. `ISO19115-3 plugin <https://github.com/geonetwork/core-geonetwork/tree/main/schemas/iso19115-3.2018>`_).
@@ -137,7 +137,7 @@ validation and feedback directly within the metadata editor.
     :alt: datahub-integration-plugin
 
 GeoNetwork offers built-in support to adjust colors and logos used for each
-portal. Further customise the appearance of GeoNetwork using Bootstrap themes.
+portal. Further customize the appearance of GeoNetwork using Bootstrap themes.
 
 GeoNetwork plugins extend the application with optional functionality. The gn-datahub-integration plugin is used to provide a portal with a modern GeoNetwork-UI web component facade. 
 
@@ -151,11 +151,11 @@ GeoNetwork provides entry points for interacting with the catalog:
 .. image:: img/api.png
     :align: right
     :width: 400 px
-    :alt: GeoNetwork admin console
+    :alt: GeoNetwork API
 
 * Search service for fast and flexible record retrieval
 * OGC Catalog Service for the Web (CSW) standards-compliant search, retrieval and record management. 
-* OGC API Records next generation REST / JSON standards presently under development
+* OGC API Records, the next generation of REST / JSON standards, currently under development
 * GeoNetwork REST API working with GeoNetwork clients and external systems.
 
 Open Source & open standards

@@ -9,7 +9,7 @@ Welcome to the GeoNetwork community:
    make use of our public communication channels:
    
    * `GeoNetwork Forum <https://discourse.osgeo.org/c/geonetwork/55/none>`_
-   * `Gitter Chat <http://irclogs.geoapt.com/geonetwork/>`__
+   * `Matrix Chat <https://app.element.io/#/room/#geonetwork:matrix.org>`__
    * `GIS StackExchange <https://gis.stackexchange.com/questions/tagged/geonetwork>`_
    
 2. Issue tracker: When troubleshooting has found an issue to resolve, or discussion highlighted a new feature to explore, it is recorded in the issue tracker.
@@ -25,7 +25,7 @@ Welcome to the GeoNetwork community:
 Keep in mind:
 
 * These communication channels are public and intended to be both positive and welcoming.
-  See `Contributor Covenant Code of Conduct <https://github.com/geonetwork/core-geonetwork/blob/main/CODE_OF_CONDUCT.md>`__ pledge for details. 
+  See the `Contributor Covenant Code of Conduct <https://github.com/geonetwork/core-geonetwork/blob/main/CODE_OF_CONDUCT.md>`__ for details. 
 
 * We understand that not everyone is in a position to communicate publicly.
   For private support please contact a `GeoNetwork service provider <https://www.osgeo.org/service-providers/?p=geonetwork>`__.
@@ -52,17 +52,17 @@ The forum has GeoNetwork User categories for `English <https://discourse.osgeo.o
 
 There is a category for the `geonetwork-ui project <https://discourse.osgeo.org/c/geonetwork/ui/59>`_.
 
-For programmers there is a category `GeoNetwork Developer <https://discourse.osgeo.org/c/geonetwork/developer/58>`_  discussion.
+For programmers there is a category for `GeoNetwork Developer <https://discourse.osgeo.org/c/geonetwork/developer/58>`_ discussion.
 
 Each category has an introduction describing how to sign in, post a topic, or configure for use as a mailing list.
 
 
-Gitter
+Matrix
 ------
 
-GeoNetwork has a Gitter channel https://gitter.im/geonetwork/core-geonetwork that you can join.
+GeoNetwork has a Matrix room `#geonetwork:matrix.org <https://app.element.io/#/room/#geonetwork:matrix.org>`__ that you can join with an Element client or any other Matrix client.
 
-Chat can be very useful for one-on-one collaboration, however due to timezone differences it is not always efficient for asking questions.
+Chat can be very useful for one-on-one collaboration, however, due to time zone differences it is not always efficient for asking questions.
 
 This channel replaces the previous IRC. For a history of previous activity on the IRC channel, search the `archives
 <http://irclogs.geoapt.com/geonetwork/>`_.

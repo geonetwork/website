@@ -3,16 +3,16 @@
 User meeting 2020 
 =================
 
-Camptocamp, Titellus and GeoCat are organising the 2020 Online GeoNetwork Meeting on Tuesday, the 23rd of June 2020.
+Camptocamp, Titellus and GeoCat are organizing the 2020 Online GeoNetwork Meeting on Tuesday, the 23rd of June 2020.
 
-The purpose of this on-line meeting is to bring together users and developers of GeoNetwork for a moment of exchange 
+The purpose of this online meeting is to bring together users and developers of GeoNetwork for a moment of exchange 
 around the practices and perspectives of development of GeoNetwork, in particular the version 4, which is a major 
 advance with Elasticsearch.
 
 Note that a `recent blog post <https://www.camptocamp.com/actualite/geonetwork-4-0-0>`_ has been published about 
 GeoNetwork 4.0 alpha.
 
-Regarding the GeoNetwork road map, we are considering three topics for discussion: 
+Regarding the GeoNetwork roadmap, we are considering three topics for discussion: 
 
 - Improving search capabilities with the move to Elasticsearch
 
@@ -22,7 +22,7 @@ Regarding the GeoNetwork road map, we are considering three topics for discussio
 
 Of course, we are looking forward to your suggestions and they will be very welcome. 
 
-As a matter of fact, and in order to facilitate the organisation of this event, we have prepared a survey in order 
+As a matter of fact, and in order to facilitate the organization of this event, we have prepared a survey in order 
 to have a better understanding of the way you are using GeoNetwork and of your needs and your expectations.
 
 Therefore, we would greatly appreciate it if you could confirm your participation and give us information by filling 
@@ -41,13 +41,13 @@ We are looking forward to meeting you soon!
 Agenda & presentation
 =====================
 
-* 09:30 : `Welcome Message <_static/documents/gn-user-meeting-202006-WelcomeMessage.pdf>`_
-* 09:45 : `Session 1 : GeoNetwork 4 / User expectations? It is all about search - François Prunayre (titellus) and Paul Van Genuchten (Geocat BV) <_static/documents/gn-user-meeting-202006-GeoNetwork4-All-about-search.pdf>`_
-* 10:45 : `Session 2 : Architecture : going to micro-services - Pierre Mauduit (Camptocamp) <_static/documents/gn-user-meeting-202006-GeoNetwork-Going-to-microservices.pdf>`_
-* 11:15 : Break (15 minutes)
-* 11:30 : `Session 3 : A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <_static/documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
-* 12:15 : Lunch Break
-* 14:00 : Session 4 : GeoNetwork live: Real life examples
+* 09:30: `Welcome Message <_static/documents/gn-user-meeting-202006-WelcomeMessage.pdf>`_
+* 09:45: `Session 1: GeoNetwork 4 / User expectations? It is all about search - François Prunayre (titellus) and Paul Van Genuchten (Geocat BV) <_static/documents/gn-user-meeting-202006-GeoNetwork4-All-about-search.pdf>`_
+* 10:45: `Session 2: Architecture: going to micro-services - Pierre Mauduit (Camptocamp) <_static/documents/gn-user-meeting-202006-GeoNetwork-Going-to-microservices.pdf>`_
+* 11:15: Break (15 minutes)
+* 11:30: `Session 3: A better GeoNetwork user experience - Olivier Guyot and Florent Gravin (Camptocamp) <_static/documents/gn-user-meeting-202006-AbetterGeoNetwork-user-experience.pdf>`_
+* 12:15: Lunch Break
+* 14:00: Session 4: GeoNetwork live: Real-life examples
 
   * `geocat.ch the Swiss metadata geographic catalogue (Raphaëlle Arnaud) <_static/documents/gn-user-meeting-202006-geocatchmeetingGeoNetwork2020_06_23.pptx.pdf>`_
   * `GeoNetwork implementation at the European Environment Agency (Jose Miguel Rubio Iglesias) <_static/documents/gn-user-meeting-202006-EEA_SDI_GNW.pdf>`_
@@ -59,5 +59,5 @@ Agenda & presentation
   * `Old-fashioned GeoNetwork Integrations, Astun Technology (Jo Cook) <https://archaeogeek.github.io/geonetworkug-2020/#/>`_
   * `DCAT-AP plug-in into GeoNetwork 3.8 (Geraldine Nolf) <https://inspire.ec.europa.eu/sites/default/files/20200612_inspiresession_fromnichetomainstreamloveabledata.pdf>`_
   * `Harmonized North American Profile (HNAP) (David Blasby and Jody Garnett, GeoCat Canada) <_static/documents/gn-user-meeting-202006-HNAPProfileCommunityUpdate.pdf>`_
-* 15:30 : `Session 5 : Plenary discussion on future collaboration opportunities <_static/documents/gn-user-meeting-202006-GeonetworkMeeting-Session5.pdf>`_
-* 17:00 : Wrap up of the day
+* 15:30: `Session 5: Plenary discussion on future collaboration opportunities <_static/documents/gn-user-meeting-202006-GeonetworkMeeting-Session5.pdf>`_
+* 17:00: Wrap up of the day
