@@ -165,14 +165,14 @@ Releases
 Docker
 ------
 
-Official GeoNetwork docker image:
+Official GeoNetwork Docker image:
 
 * https://hub.docker.com/_/geonetwork
 
 Third-party distributions
 -------------------------
 
-Some contributors release alternative distributions build with GeoNetwork opensource. For example:
+Some contributors release alternative distributions built with GeoNetwork opensource. For example:
 
  * `geOrchestra <https://www.georchestra.org>`__
  * `GeoCat Find <https://www.geocat.com/find>`__
@@ -184,7 +184,7 @@ Source code
 
  * `GitHub repository <https://github.com/geonetwork/core-geonetwork>`__
 
-To checkout the current development version and build it, use::
+To check out the current development version and build it, use::
 
     $ git clone --recursive git://github.com/geonetwork/core-geonetwork.git geonetwork
     $ cd geonetwork
